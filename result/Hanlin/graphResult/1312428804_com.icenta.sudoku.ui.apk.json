@@ -1,0 +1,253 @@
+[
+  {
+  	"ActivityName": ["ListTabActivity"],
+    "Name": "tab_list_friends",
+    "Screenshot": ".screenshot/1312428804_com.icenta.sudoku.ui.apk/1312428804_com.icenta.sudoku.ui.apk-tab_list_friends.png",
+    "Widget List": [
+      "(0,70)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,682),android.widget.RelativeLayout,null",
+      "(0,0)-(480,43),android.widget.LinearLayout,null",
+      "(5,0)-(480,22),android.widget.TextView,New message",
+      "(3,22)-(480,39),android.widget.TextView,Compose new message",
+      "(0,41)-(480,43),android.view.View,null",
+      "(3,43)-(477,682),android.widget.ListView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["StartActivity"],
+    "Name": "main_tab_start",
+    "Screenshot": ".screenshot/1312428804_com.icenta.sudoku.ui.apk/1312428804_com.icenta.sudoku.ui.apk-main_tab_start.png",
+    "Widget List": [
+      "(0,70)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,17),android.widget.TextView,Hello World, tabActivity!",
+      "(0,17)-(48,65),android.widget.ImageView,null",
+      "(0,65)-(48,113),android.widget.ImageView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["Settings"],
+    "Name": "slider_layout",
+    "Screenshot": ".screenshot/1312428804_com.icenta.sudoku.ui.apk/1312428804_com.icenta.sudoku.ui.apk-slider_layout.png",
+    "Widget List": [
+      "(0,70)-(474,746),android.widget.RelativeLayout,null",
+      "(224,0)-(474,29),android.widget.SeekBar,null"
+    ]
+  },
+  {
+  	"ActivityName": ["R$layout"],
+    "Name": "custom_notification_layout",
+    "Screenshot": ".screenshot/1312428804_com.icenta.sudoku.ui.apk/1312428804_com.icenta.sudoku.ui.apk-custom_notification_layout.png",
+    "Widget List": [
+      "(0,70)-(480,752),android.widget.LinearLayout,null",
+      "(3,3)-(3,679),android.widget.ImageView,null",
+      "(13,3)-(13,679),android.widget.TextView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["R$layout"],
+    "Name": "sudoku_toast_layout",
+    "Screenshot": ".screenshot/1312428804_com.icenta.sudoku.ui.apk/1312428804_com.icenta.sudoku.ui.apk-sudoku_toast_layout.png",
+    "Widget List": [
+      "(0,70)-(78,138),android.widget.LinearLayout,null",
+      "(10,25)-(10,42),android.widget.TextView,null",
+      "(20,10)-(68,58),android.widget.ImageView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["FeedbackTabActivity"],
+    "Name": "tab_feedback",
+    "Screenshot": ".screenshot/1312428804_com.icenta.sudoku.ui.apk/1312428804_com.icenta.sudoku.ui.apk-tab_feedback.png",
+    "Widget List": [
+      "(0,70)-(480,752),android.widget.RelativeLayout,null",
+      "(0,0)-(480,634),android.widget.ScrollView,null",
+      "(0,0)-(480,170),android.widget.LinearLayout,null",
+      "(5,5)-(475,53),android.widget.RelativeLayout,null",
+      "(0,0)-(470,22),android.widget.TextView,null",
+      "(0,22)-(470,39),android.widget.TextView,null",
+      "(422,0)-(470,48),android.widget.ImageButton,null",
+      "(5,63)-(475,85),android.widget.TextView,null",
+      "(5,95)-(475,117),android.webkit.WebView,WebView",
+      "(0,122)-(480,170),android.widget.Spinner,null",
+      "(0,634)-(480,682),android.widget.TableRow,null",
+      "(195,0)-(285,48),android.widget.Button,Send"
+    ]
+  },
+  {
+  	"ActivityName": ["EnterMessageActivity"],
+    "Name": "enter_message",
+    "Screenshot": ".screenshot/1312428804_com.icenta.sudoku.ui.apk/1312428804_com.icenta.sudoku.ui.apk-enter_message.png",
+    "Widget List": [
+      "(0,70)-(480,219),android.widget.RelativeLayout,null",
+      "(0,0)-(48,48),android.widget.ImageView,null",
+      "(53,5)-(480,32),android.widget.TextView,null",
+      "(5,48)-(475,96),android.widget.EditText,To",
+      "(423,101)-(477,149),android.widget.Button,Send",
+      "(5,101)-(423,149),android.widget.EditText,Type to compose",
+      "(423,53)-(477,101),android.widget.Button,Send",
+      "(5,53)-(423,101),android.widget.EditText,Type to compose"
+    ]
+  },
+  {
+  	"ActivityName": ["ListTabActivity"],
+    "Name": "tab_list_system",
+    "Screenshot": ".screenshot/1312428804_com.icenta.sudoku.ui.apk/1312428804_com.icenta.sudoku.ui.apk-tab_list_system.png",
+    "Widget List": [
+      "(0,70)-(480,752),android.widget.RelativeLayout,null",
+      "(3,3)-(477,679),android.widget.ListView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["Scores"],
+    "Name": "scores_layout",
+    "Screenshot": ".screenshot/1312428804_com.icenta.sudoku.ui.apk/1312428804_com.icenta.sudoku.ui.apk-scores_layout.png",
+    "Widget List": [
+      "(0,70)-(480,752),android.widget.RelativeLayout,null",
+      "(0,0)-(480,2),android.view.View,null",
+      "(0,632)-(480,682),android.widget.LinearLayout,null",
+      "(0,0)-(480,2),android.view.View,null",
+      "(0,2)-(480,50),android.widget.TableLayout,null",
+      "(0,0)-(480,48),android.widget.TableRow,null",
+      "(0,0)-(276,48),android.widget.Button,Загрузить (+)",
+      "(276,0)-(480,48),android.widget.Button,OK",
+      "(0,2)-(480,632),android.widget.ScrollView,null",
+      "(0,0)-(480,417),android.widget.TableLayout,null",
+      "(0,0)-(480,23),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,23)-(480,46),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,46)-(480,69),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,69)-(480,92),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,92)-(480,94),android.view.View,null",
+      "(0,94)-(480,117),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,117)-(480,140),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,140)-(480,163),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,163)-(480,186),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,186)-(480,209),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,209)-(480,232),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,232)-(480,255),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,255)-(480,278),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,278)-(480,301),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,301)-(480,324),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,324)-(480,347),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,347)-(480,370),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,370)-(480,393),android.widget.TableRow,null",
+      "(0,0)-(4,23),android.widget.TextView,null",
+      "(4,0)-(476,23),android.widget.TextView,null",
+      "(476,0)-(480,23),android.widget.TextView,null",
+      "(0,393)-(480,395),android.view.View,null",
+      "(0,395)-(480,417),android.widget.TextView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["MobileSudoku"],
+    "Name": "dialog_email_entry",
+    "Screenshot": ".screenshot/1312428804_com.icenta.sudoku.ui.apk/1312428804_com.icenta.sudoku.ui.apk-dialog_email_entry.png",
+    "Widget List": [
+      "(0,70)-(480,280),android.widget.LinearLayout,null",
+      "(20,0)-(78,22),android.widget.TextView,Почта",
+      "(20,22)-(460,70),android.widget.EditText,null",
+      "(20,70)-(90,92),android.widget.TextView,Пароль",
+      "(20,92)-(460,140),android.widget.EditText,null",
+      "(20,140)-(105,162),android.widget.TextView,Никнейм",
+      "(20,162)-(460,210),android.widget.EditText,null"
+    ]
+  },
+  {
+  	"ActivityName": ["ListTabActivity"],
+    "Name": "tab_list_world_group",
+    "Screenshot": ".screenshot/1312428804_com.icenta.sudoku.ui.apk/1312428804_com.icenta.sudoku.ui.apk-tab_list_world_group.png",
+    "Widget List": [
+      "(0,70)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,682),android.widget.RelativeLayout,null",
+      "(3,0)-(477,637),android.widget.ListView,null",
+      "(423,634)-(477,682),android.widget.Button,Send",
+      "(0,634)-(48,682),android.widget.ImageButton,null",
+      "(48,634)-(423,682),android.widget.EditText,Type to compose"
+    ]
+  },
+  {
+  	"ActivityName": ["MobileSudoku"],
+    "Name": "main_title",
+    "Screenshot": ".screenshot/1312428804_com.icenta.sudoku.ui.apk/1312428804_com.icenta.sudoku.ui.apk-main_title.png",
+    "Widget List": [
+      "(0,70)-(480,127),android.widget.RelativeLayout,null",
+      "(3,16)-(72,40),android.widget.TextView,Судоку",
+      "(423,0)-(480,57),android.widget.ImageView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["PollTabActivity"],
+    "Name": "tab_poll",
+    "Screenshot": ".screenshot/1312428804_com.icenta.sudoku.ui.apk/1312428804_com.icenta.sudoku.ui.apk-tab_poll.png",
+    "Widget List": [
+      "(0,70)-(480,752),android.widget.RelativeLayout,null",
+      "(0,0)-(480,634),android.widget.ScrollView,null",
+      "(0,0)-(480,190),android.widget.LinearLayout,null",
+      "(5,5)-(475,53),android.widget.RelativeLayout,null",
+      "(0,0)-(470,22),android.widget.TextView,null",
+      "(0,22)-(470,39),android.widget.TextView,null",
+      "(422,0)-(470,48),android.widget.ImageButton,null",
+      "(5,63)-(475,85),android.widget.TextView,null",
+      "(5,95)-(475,117),android.webkit.WebView,WebView",
+      "(5,127)-(475,127),android.widget.RadioGroup,null",
+      "(5,137)-(475,185),android.widget.EditText,Type here",
+      "(0,634)-(480,682),android.widget.TableRow,null",
+      "(195,0)-(285,48),android.widget.Button,Send"
+    ]
+  },
+  {
+  	"ActivityName": ["R$layout"],
+    "Name": "widget_layout",
+    "Screenshot": ".screenshot/1312428804_com.icenta.sudoku.ui.apk/1312428804_com.icenta.sudoku.ui.apk-widget_layout.png",
+    "Widget List": [
+      "(0,70)-(57,127),android.widget.FrameLayout,null",
+      "(0,0)-(57,57),android.widget.ImageButton,null"
+    ]
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+  	"ActivityName": ["FileChooser"],
+    "Name": "file_chooser",
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-file_chooser.png",
+    "Widget List": [
+      "(0,50)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,52),android.widget.RelativeLayout,null",
+      "(180,1)-(300,52),android.widget.Button,Выберите",
+      "(0,52)-(480,702),android.widget.ListView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["WebDAVNav"],
+  	"Name": "alert_delete_server",  	
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-alert_delete_server.png",
+    "Widget List": [
+      "(0,50)-(480,98),android.widget.LinearLayout,null",
+      "(0,0)-(38,48),android.widget.CheckBox,null",
+      "(38,14)-(206,33),android.widget.TextView,Keep downloaded files"
+    ]
+  },
+  {
+  	"ActivityName": ["WebBrowser"],
+    "Name": "web_browser",    
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-web_browser.png",
+    "Widget List": [
+      "(0,50)-(480,752),android.widget.LinearLayout,null",
+      "(2,2)-(478,700),android.webkit.WebView,WebView"
+    ]
+  },
+  {
+  	"ActivityName": ["RemoteBrowser"],
+    "Name": "remote_browser",    
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-remote_browser.png",
+    "Widget List": [
+      "(0,50)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,660),android.widget.ListView,null",
+      "(0,660)-(480,702),android.widget.RelativeLayout,null",
+      "(10,1)-(52,42),android.widget.ImageButton,null",
+      "(62,1)-(104,42),android.widget.ImageButton,null",
+      "(62,1)-(104,42),android.widget.ImageButton,null"
+    ]
+  },
+  {
+  	"ActivityName": ["WebDAVNav"],
+    "Name": "main",    
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-main.png",
+    "Widget List": [
+      "(0,50)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,660),android.widget.ListView,null",
+      "(0,660)-(480,702),android.widget.RelativeLayout,null",
+      "(10,1)-(52,42),android.widget.ImageButton,null"
+    ]
+  },
+  {
+  	"ActivityName": ["RemoteFolderChooser","RemoteBrowser"],
+    "Name": "file_row",    
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-file_row.png",
+    "Widget List": [
+      "(0,50)-(480,96),android.widget.RelativeLayout,null",
+      "(1,1)-(45,45),android.widget.ImageView,null",
+      "(51,1)-(479,37),android.widget.RelativeLayout,null",
+      "(0,0)-(428,19),android.widget.TextView,Filename",
+      "(0,19)-(428,36),android.widget.RelativeLayout,null",
+      "(0,0)-(121,17),android.widget.TextView,04/26/2010 0823",
+      "(399,0)-(428,17),android.widget.TextView,Test"
+    ]
+  },
+  {
+  	"ActivityName": ["ServerEdit"],
+    "Name": "server_edit",    
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-server_edit.png",
+    "Widget List": [
+      "(0,50)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,67),android.widget.LinearLayout,null",
+      "(0,0)-(75,19),android.widget.TextView,Название",
+      "(0,19)-(480,67),android.widget.EditText,null",
+      "(0,67)-(480,134),android.widget.LinearLayout,null",
+      "(0,0)-(151,19),android.widget.TextView,URL-адрес сервера",
+      "(0,19)-(480,67),android.widget.EditText,null",
+      "(0,134)-(480,201),android.widget.LinearLayout,null",
+      "(0,0)-(146,19),android.widget.TextView,Имя пользователя",
+      "(0,19)-(480,67),android.widget.EditText,null",
+      "(0,201)-(480,268),android.widget.LinearLayout,null",
+      "(0,0)-(58,19),android.widget.TextView,Пароль",
+      "(0,19)-(480,67),android.widget.EditText,null",
+      "(0,268)-(480,316),android.widget.LinearLayout,null",
+      "(0,0)-(240,48),android.widget.Button,Добавить сервер",
+      "(240,0)-(480,48),android.widget.Button,Отменить"
+    ]
+  },
+  {
+  	"ActivityName": ["InfoActivity"],
+    "Name": "info",    
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-info.png",
+    "Widget List": [
+      "(0,50)-(480,752),android.widget.FrameLayout,null",
+      "(0,0)-(480,702),android.widget.ImageView,null",
+      "(0,260)-(480,412),android.widget.RelativeLayout,null",
+      "(123,0)-(356,27),android.widget.TextView,WebDAV Navigator Lite",
+      "(122,27)-(357,46),android.widget.TextView,http//seanashton.net/android/",
+      "(173,46)-(307,80),android.widget.TextView,© 2011 Sean Ashton",
+      "(191,80)-(289,99),android.widget.TextView,Version 1.0.0",
+      "(202,104)-(277,152),android.widget.Button,Review"
+    ]
+  },
+  {
+  	"ActivityName": ["WebDAVNav"],
+    "Name": "server_row",    
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-server_row.png",
+    "Widget List": [
+      "(0,50)-(0,358),android.widget.LinearLayout,null",
+      "(4,0)-(4,19),android.widget.TextView,null",
+      "(4,19)-(4,308),android.widget.LinearLayout,null",
+      "(0,0)-(0,289),android.widget.TextView,Имя пользователя",
+      "(0,0)-(0,17),android.widget.TextView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["d"],
+    "Name": "local_browser",    
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-local_browser.png",
+    "Widget List": [
+      "(0,50)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,660),android.widget.ListView,null",
+      "(0,660)-(480,702),android.widget.RelativeLayout,null",
+      "(10,1)-(52,42),android.widget.ImageButton,null",
+      "(62,1)-(104,42),android.widget.ImageButton,null",
+      "(114,1)-(156,42),android.widget.ImageButton,null"
+    ]
+  },
+  {
+  	"ActivityName": ["d"],
+    "Name": "file_row_selectable",    
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-file_row_selectable.png",
+    "Widget List": [
+      "(0,50)-(480,100),android.widget.RelativeLayout,null",
+      "(1,1)-(45,45),android.widget.ImageView,null",
+      "(431,1)-(479,49),android.widget.CheckBox,null",
+      "(51,1)-(431,37),android.widget.RelativeLayout,null",
+      "(0,0)-(380,19),android.widget.TextView,Filename",
+      "(0,19)-(380,36),android.widget.RelativeLayout,null",
+      "(0,0)-(121,17),android.widget.TextView,04/26/2010 0823",
+      "(351,0)-(380,17),android.widget.TextView,Test"
+    ]
+  },
+  {
+  	"ActivityName": ["MediaBrowser"],
+    "Name": "media_browser",    
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-media_browser.png",
+    "Widget List": [
+      "(0,50)-(480,752),android.widget.LinearLayout,null",
+      "(2,2)-(478,700),android.widget.VideoView,VideoView"
+    ]
+  },
+  {  	
+  	"ActivityName": ["d"],
+    "Name": "auth_prompt",    
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-auth_prompt.png",
+    "Widget List": [
+      "(0,50)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,351),android.widget.EditText,null",
+      "(0,351)-(480,702),android.widget.EditText,null"
+    ]
+  },
+  {
+  	"ActivityName": ["RemoteFolderChooser"],
+    "Name": "remote_folder_chooser",    
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-remote_folder_chooser.png",
+    "Widget List": [
+      "(0,50)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,52),android.widget.RelativeLayout,null",
+      "(180,1)-(300,52),android.widget.Button,Выберите",
+      "(0,52)-(480,702),android.widget.ListView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["FileChooser"],
+    "Name": "file_row_directory",    
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-file_row_directory.png",
+    "Widget List": [
+      "(0,50)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(44,702),android.widget.ImageView,null",
+      "(50,0)-(480,702),android.widget.LinearLayout,null",
+      "(0,0)-(430,702),android.widget.TextView,Filename"
+    ]
+  },
+  {
+  	"ActivityName": ["d"],
+    "Name": "record_audio",    
+    "Screenshot": ".screenshot/1311833082_com.schimera.webdavnavlite.apk/1311833082_com.schimera.webdavnavlite.apk-record_audio.png",
+    "Widget List": [
+      "(0,50)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,702),android.widget.RelativeLayout,null",
+      "(128,0)-(352,114),android.widget.LinearLayout,null",
+      "(25,0)-(199,114),android.widget.TextView,0000",
+      "(0,114)-(480,170),android.widget.LinearLayout,null",
+      "(4,10)-(395,39),android.widget.TextView,null",
+      "(395,4)-(476,52),android.widget.Button,Filename",
+      "(112,170)-(368,702),android.widget.LinearLayout,null",
+      "(0,0)-(128,128),android.widget.Button,Record",
+      "(128,0)-(256,128),android.widget.Button,Play"
+    ]
+  }
+]

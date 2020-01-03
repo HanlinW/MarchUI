@@ -1,0 +1,49 @@
+[
+  {
+  	"ActivityName": ["ShareActivity"],
+    "Name": "shareoptions",
+    "Screenshot": ".screenshot/1314646802_com.fatdivers.sexbible.apk/1314646802_com.fatdivers.sexbible.apk-shareoptions.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.RelativeLayout,null",
+      "(167,0)-(312,727),android.widget.RelativeLayout,null",
+      "(0,271)-(84,319),android.widget.Button,Facebook",
+      "(109,271)-(145,307),android.widget.ImageView,null",
+      "(0,339)-(84,387),android.widget.Button,Email",
+      "(109,339)-(145,375),android.widget.ImageView,null",
+      "(0,407)-(84,455),android.widget.Button,Sina",
+      "(109,407)-(145,443),android.widget.ImageView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["FlipperPageActivity"],
+    "Name": "itempage",
+    "Screenshot": ".screenshot/1314646802_com.fatdivers.sexbible.apk/1314646802_com.fatdivers.sexbible.apk-itempage.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.RelativeLayout,null",
+      "(0,0)-(480,0),android.widget.ImageView,null",
+      "(0,0)-(480,727),android.widget.ImageView,null",
+      "(0,0)-(480,17),android.widget.TextView,null",
+      "(0,0)-(480,17),android.widget.TextView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["MainActivity"],
+    "Name": "main",
+    "Screenshot": ".screenshot/1314646802_com.fatdivers.sexbible.apk/1314646802_com.fatdivers.sexbible.apk-main.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.RelativeLayout,null",
+      "(0,727)-(480,727),android.widget.ListView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["MoreActivity"],
+    "Name": "morepage",
+    "Screenshot": ".screenshot/1314646802_com.fatdivers.sexbible.apk/1314646802_com.fatdivers.sexbible.apk-morepage.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.RelativeLayout,null",
+      "(10,20)-(470,20),android.widget.TableLayout,null",
+      "(10,78)-(470,707),android.widget.ListView,null",
+      "(10,50)-(10,68),android.widget.TextView,null"
+    ]
+  }
+]

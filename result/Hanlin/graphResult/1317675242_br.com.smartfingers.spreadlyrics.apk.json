@@ -1,0 +1,135 @@
+[
+  {
+  	"ActivityName": ["SongList"],
+    "Name": "song_list",
+    "Screenshot": ".screenshot/1317675242_br.com.smartfingers.spreadlyrics.apk/1317675242_br.com.smartfingers.spreadlyrics.apk-song_list.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,45),android.widget.LinearLayout,null",
+      "(0,0)-(408,45),android.widget.TextView,SpreadLyrics",
+      "(408,2)-(480,42),android.widget.ImageView,null",
+      "(0,45)-(480,727),android.widget.ListView,null",
+      "(0,727)-(480,727),android.widget.LinearLayout,null"
+    ]
+  },
+  {
+  	"ActivityName": ["R$layout"],
+    "Name": "header_share",
+    "Screenshot": ".screenshot/1317675242_br.com.smartfingers.spreadlyrics.apk/1317675242_br.com.smartfingers.spreadlyrics.apk-header_share.png",
+    "Widget List": [
+      "(0,25)-(480,70),android.widget.LinearLayout,null",
+      "(0,0)-(408,45),android.widget.TextView,SpreadLyrics",
+      "(0,0)-(0,0),android.widget.ProgressBar,null",
+      "(408,2)-(480,42),android.widget.ImageView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["SongDetails"],
+    "Name": "lyric_list_item",
+    "Screenshot": ".screenshot/1317675242_br.com.smartfingers.spreadlyrics.apk/1317675242_br.com.smartfingers.spreadlyrics.apk-lyric_list_item.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(456,18),android.widget.TextView,Uma linha da letra",
+      "(456,0)-(480,24),android.widget.ImageView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["AboutTab"],
+    "Name": "about_tab_content",
+    "Screenshot": ".screenshot/1317675242_br.com.smartfingers.spreadlyrics.apk/1317675242_br.com.smartfingers.spreadlyrics.apk-about_tab_content.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.ScrollView,null",
+      "(0,0)-(480,147),android.widget.LinearLayout,null",
+      "(0,7)-(480,110),android.widget.ImageView,null",
+      "(0,110)-(480,147),android.widget.TextView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["HowToUseTab"],
+    "Name": "howtouse_tab_content",
+    "Screenshot": ".screenshot/1317675242_br.com.smartfingers.spreadlyrics.apk/1317675242_br.com.smartfingers.spreadlyrics.apk-howtouse_tab_content.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.ScrollView,null",
+      "(0,0)-(480,107),android.widget.LinearLayout,null",
+      "(0,0)-(480,37),android.widget.TextView,null",
+      "(0,37)-(480,107),android.widget.LinearLayout,null",
+      "(147,0)-(235,70),android.widget.ImageButton,null",
+      "(240,0)-(328,70),android.widget.ImageButton,null"
+    ]
+  },
+  {
+  	"ActivityName": ["R$layout"],
+    "Name": "info_tab_content",
+    "Screenshot": ".screenshot/1317675242_br.com.smartfingers.spreadlyrics.apk/1317675242_br.com.smartfingers.spreadlyrics.apk-info_tab_content.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.ScrollView,null",
+      "(0,0)-(480,37),android.widget.TextView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["WhatsNewTab"],
+    "Name": "news_tab_content",
+    "Screenshot": ".screenshot/1317675242_br.com.smartfingers.spreadlyrics.apk/1317675242_br.com.smartfingers.spreadlyrics.apk-news_tab_content.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.ScrollView,null",
+      "(0,0)-(480,37),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.TextView,Teste sab",
+      "(0,0)-(0,0),android.widget.ImageView,null",
+      "(0,0)-(480,37),android.widget.TextView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["ShowPhoto"],
+    "Name": "show_photo",
+    "Screenshot": ".screenshot/1317675242_br.com.smartfingers.spreadlyrics.apk/1317675242_br.com.smartfingers.spreadlyrics.apk-show_photo.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,727),android.widget.ImageView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["Main", "SongList"],
+    "Name": "template_list_item",
+    "Screenshot": ".screenshot/1317675242_br.com.smartfingers.spreadlyrics.apk/1317675242_br.com.smartfingers.spreadlyrics.apk-template_list_item.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.LinearLayout,null",
+      "(3,0)-(477,27),android.widget.TextView,center",
+      "(3,27)-(50,44),android.widget.TextView,bottom"
+    ]
+  },
+  {
+  	"ActivityName": ["Main"],
+    "Name": "news_dialog",
+    "Screenshot": ".screenshot/1317675242_br.com.smartfingers.spreadlyrics.apk/1317675242_br.com.smartfingers.spreadlyrics.apk-news_dialog.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,678),android.widget.ScrollView,null",
+      "(0,0)-(480,333),android.widget.LinearLayout,null",
+      "(4,4)-(476,292),android.widget.LinearLayout,null",
+      "(3,3)-(469,20),android.widget.TextView,Teste sab",
+      "(0,23)-(472,288),android.widget.ImageView,null",
+      "(0,296)-(480,333),android.widget.TextView,Teste sobre",
+      "(0,678)-(480,727),android.widget.LinearLayout,null",
+      "(2,2)-(241,47),android.widget.Button,Mais detalhes",
+      "(241,2)-(478,47),android.widget.Button,Não, obrigado"
+    ]
+  },
+  {
+  	"ActivityName": ["Main"],
+    "Name": "main",
+    "Screenshot": ".screenshot/1317675242_br.com.smartfingers.spreadlyrics.apk/1317675242_br.com.smartfingers.spreadlyrics.apk-main.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,45),android.widget.LinearLayout,null",
+      "(0,0)-(408,45),android.widget.TextView,SpreadLyrics",
+      "(408,2)-(480,42),android.widget.ImageView,null",
+      "(0,45)-(480,72),android.widget.TextView,Top 5 Songs",
+      "(0,72)-(480,727),android.widget.ListView,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.ProgressBar,null",
+      "(0,0)-(0,0),android.widget.TextView,Searching top songs...",
+      "(0,727)-(480,727),android.widget.LinearLayout,null"
+    ]
+  }
+]

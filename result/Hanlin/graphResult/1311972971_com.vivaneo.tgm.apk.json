@@ -1,0 +1,299 @@
+[
+  {
+  	"ActivityName": ["Favoris"],
+    "Name": "vuefavorisuserlist",
+    "Screenshot": ".screenshot/1311972971_com.vivaneo.tgm.apk/1311972971_com.vivaneo.tgm.apk-vuefavorisuserlist.png",
+    "Widget List": [
+      "(0,25)-(480,75),android.widget.LinearLayout,null",
+      "(0,0)-(480,3),android.widget.LinearLayout,null",
+      "(0,3)-(480,47),android.widget.LinearLayout,null",
+      "(60,0)-(460,44),android.widget.LinearLayout,null",
+      "(0,0)-(50,39),android.widget.ImageView,null",
+      "(60,0)-(390,44),android.widget.LinearLayout,null",
+      "(0,13)-(330,30),android.widget.TextView,titre",
+      "(390,0)-(400,44),android.widget.LinearLayout,null",
+      "(0,15)-(10,29),android.widget.ImageView,null",
+      "(0,47)-(480,50),android.widget.LinearLayout,null"
+    ]
+  },
+  {
+  	"ActivityName": ["Quizz", "QuizzStart"],
+    "Name": "quizz",
+    "Screenshot": ".screenshot/1311972971_com.vivaneo.tgm.apk/1311972971_com.vivaneo.tgm.apk-quizz.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.RelativeLayout,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.ImageView,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.TextView,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.ImageView,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.ProgressBar,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.TextView,Nombre de vie ",
+      "(0,0)-(0,0),android.widget.ImageView,null",
+      "(0,0)-(0,0),android.widget.ImageView,null",
+      "(0,0)-(0,0),android.widget.ImageView,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.ImageView,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.Button,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.TextView,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.Button,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.TextView,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.Button,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.TextView,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.TextView,Wouz ! C'est pas brillant !",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.TextView,Votre score ",
+      "(0,0)-(0,0),android.widget.TextView,0",
+      "(0,0)-(0,0),android.widget.TextView,!",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.Button,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.ImageButton,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.ImageButton,null",
+      "(0,0)-(0,0),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.ImageButton,null"
+    ]
+  },
+  {
+  	"ActivityName": ["TabContainerSave", "TabContainer"],
+    "Name": "mytab",
+    "Screenshot": ".screenshot/1311972971_com.vivaneo.tgm.apk/1311972971_com.vivaneo.tgm.apk-mytab.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.FrameLayout,null",
+      "(0,0)-(480,727),android.widget.TabHost,null",
+      "(0,0)-(480,727),android.widget.RelativeLayout,null",
+      "(0,679)-(480,727),android.widget.TabWidget,null",
+      "(0,0)-(480,48),android.widget.LinearLayout,null",
+      "(0,0)-(0,0),android.widget.ImageView,null",
+      "(209,16)-(270,31),android.widget.TextView,Tab Label",
+      "(0,0)-(480,679),android.widget.FrameLayout,null",
+      "(0,0)-(480,679),android.widget.LinearLayout,null"
+    ]
+  },
+  {
+  	"ActivityName": ["QuestionsReponses", "Recherche", "Questions"],
+    "Name": "vuequestionlist",
+    "Screenshot": ".screenshot/1311972971_com.vivaneo.tgm.apk/1311972971_com.vivaneo.tgm.apk-vuequestionlist.png",
+    "Widget List": [
+      "(0,25)-(480,75),android.widget.LinearLayout,null",
+      "(0,0)-(480,3),android.widget.LinearLayout,null",
+      "(0,3)-(480,47),android.widget.LinearLayout,null",
+      "(50,0)-(460,44),android.widget.LinearLayout,null",
+      "(10,0)-(400,44),android.widget.LinearLayout,null",
+      "(5,5)-(385,22),android.widget.TextView,titre",
+      "(400,0)-(410,44),android.widget.LinearLayout,null",
+      "(0,15)-(10,29),android.widget.ImageView,null",
+      "(0,47)-(480,50),android.widget.LinearLayout,null"
+    ]
+  },
+  {
+  	"ActivityName": ["Apropos"],
+    "Name": "apropos",
+    "Screenshot": ".screenshot/1311972971_com.vivaneo.tgm.apk/1311972971_com.vivaneo.tgm.apk-apropos.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,45),android.widget.LinearLayout,null",
+      "(0,10)-(450,34),android.widget.LinearLayout,null",
+      "(200,0)-(280,24),android.widget.TextView,A propos",
+      "(450,12)-(480,32),android.widget.LinearLayout,null",
+      "(0,0)-(20,20),android.widget.ProgressBar,null",
+      "(0,45)-(480,727),android.widget.LinearLayout,null",
+      "(0,0)-(480,682),android.widget.LinearLayout,null",
+      "(10,5)-(470,37),android.widget.LinearLayout,null",
+      "(50,0)-(186,32),android.widget.LinearLayout,null",
+      "(0,0)-(33,32),android.widget.Button,null",
+      "(186,0)-(323,32),android.widget.LinearLayout,null",
+      "(52,0)-(85,32),android.widget.Button,null",
+      "(323,0)-(460,32),android.widget.LinearLayout,null",
+      "(104,0)-(137,32),android.widget.Button,null",
+      "(10,37)-(470,672),android.widget.ScrollView,null",
+      "(50,0)-(460,503),android.widget.LinearLayout,null",
+      "(0,0)-(410,503),android.widget.TextView,Bienvenue sur Trucs et Astuces de Grand-Mère. Nous espérons que cette application saura vous divertir. Nhésitez pas à partager cette application avec vos amis !Cette application est basée sur le site Internet www.trucsdegrandmere.comElle est, tout comme le site, éditée par 404 Création SARL, 6 rue Prefet Bonnefoy 44000 Nantes.Cette application et le  site web associé sont diffusés sous Copyright.Toute autre diffusion est interdite sauf accord express.Pour tout contact, notamment si vous souhaitez partager vos idées d'améliorations de cette application, merci d'adresser vos correspondances par courriel à l'adresse mail@trucsdegrandmere.comCette application est composée de questions et réponses proposées par des utilisateurs et des internautes, rédigées par eux à partir de sources diverses.Ainsi, même si une régulation forte est assurée, nous ne garantissons pas l'exacte véracité des informations disponibles sur cette application. Et ce d'autant plus que certaines questions restent sans réponse en l'état actuel des connaissances de l'humanité.Nous vous souhaitons un agréable usage de cette application.",
+      "(480,0)-(480,120),android.widget.LinearLayout,null",
+      "(0,0)-(0,120),android.widget.Button,Button"
+    ]
+  },
+  {
+  	"ActivityName": ["Favoris"],
+    "Name": "favoris",
+    "Screenshot": ".screenshot/1311972971_com.vivaneo.tgm.apk/1311972971_com.vivaneo.tgm.apk-favoris.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,45),android.widget.LinearLayout,null",
+      "(0,10)-(450,34),android.widget.LinearLayout,null",
+      "(206,0)-(273,24),android.widget.TextView,Favoris",
+      "(450,12)-(480,32),android.widget.LinearLayout,null",
+      "(0,0)-(20,20),android.widget.ProgressBar,null",
+      "(0,45)-(480,727),android.widget.ListView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["MainSave", "Questions", "Main"],
+    "Name": "vuecategorielist",
+    "Screenshot": ".screenshot/1311972971_com.vivaneo.tgm.apk/1311972971_com.vivaneo.tgm.apk-vuecategorielist.png",
+    "Widget List": [
+      "(0,25)-(480,75),android.widget.LinearLayout,null",
+      "(0,0)-(480,3),android.widget.LinearLayout,null",
+      "(0,3)-(480,47),android.widget.LinearLayout,null",
+      "(60,0)-(460,44),android.widget.LinearLayout,null",
+      "(0,0)-(50,39),android.widget.ImageView,null",
+      "(60,0)-(390,44),android.widget.LinearLayout,null",
+      "(0,11)-(330,33),android.widget.TextView,titre",
+      "(390,0)-(400,44),android.widget.LinearLayout,null",
+      "(0,15)-(10,29),android.widget.ImageView,null",
+      "(0,47)-(480,50),android.widget.LinearLayout,null"
+    ]
+  },
+  {
+  	"ActivityName": ["Questions"],
+    "Name": "questions",
+    "Screenshot": ".screenshot/1311972971_com.vivaneo.tgm.apk/1311972971_com.vivaneo.tgm.apk-questions.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,45),android.widget.LinearLayout,null",
+      "(0,10)-(450,34),android.widget.LinearLayout,null",
+      "(174,0)-(305,24),android.widget.TextView,Tous les trucs",
+      "(450,12)-(480,32),android.widget.LinearLayout,null",
+      "(0,0)-(20,20),android.widget.ProgressBar,null",
+      "(0,45)-(480,727),android.widget.ListView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["R$layout"],
+    "Name": "search",
+    "Screenshot": ".screenshot/1311972971_com.vivaneo.tgm.apk/1311972971_com.vivaneo.tgm.apk-search.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,727),android.widget.LinearLayout,null",
+      "(0,0)-(480,727),android.widget.LinearLayout,null",
+      "(0,0)-(480,727),android.widget.ListView,null",
+      "(0,0)-(0,0),android.widget.ProgressBar,null"
+    ]
+  },
+  {
+  	"ActivityName": ["MainSave", "Main"],
+    "Name": "main",
+    "Screenshot": ".screenshot/1311972971_com.vivaneo.tgm.apk/1311972971_com.vivaneo.tgm.apk-main.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,45),android.widget.LinearLayout,null",
+      "(0,10)-(450,34),android.widget.LinearLayout,null",
+      "(174,0)-(305,24),android.widget.TextView,Tous les trucs",
+      "(450,12)-(480,32),android.widget.LinearLayout,null",
+      "(0,0)-(20,20),android.widget.ProgressBar,null",
+      "(0,45)-(480,727),android.widget.ListView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["ShareOnFacebook"],
+    "Name": "facebook_dialog",
+    "Screenshot": ".screenshot/1311972971_com.vivaneo.tgm.apk/1311972971_com.vivaneo.tgm.apk-facebook_dialog.png",
+    "Widget List": [
+      "(0,25)-(250,135),android.widget.RelativeLayout,null",
+      "(0,0)-(250,37),android.widget.LinearLayout,null",
+      "(15,5)-(235,32),android.widget.TextView,Publier cet article sur Facebook?",
+      "(0,58)-(250,110),android.widget.LinearLayout,null",
+      "(2,0)-(122,48),android.widget.Button,Oui",
+      "(126,0)-(246,48),android.widget.Button,Non"
+    ]
+  },
+  {
+  	"ActivityName": ["Auhasard"],
+    "Name": "auhasard",
+    "Screenshot": ".screenshot/1311972971_com.vivaneo.tgm.apk/1311972971_com.vivaneo.tgm.apk-auhasard.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,727),android.widget.LinearLayout,null",
+      "(80,158)-(400,569),android.widget.ImageView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["R$layout"],
+    "Name": "product",
+    "Screenshot": ".screenshot/1311972971_com.vivaneo.tgm.apk/1311972971_com.vivaneo.tgm.apk-product.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,727),android.widget.LinearLayout,null",
+      "(0,0)-(480,727),android.widget.LinearLayout,null",
+      "(0,0)-(480,727),android.widget.ListView,null",
+      "(0,0)-(0,0),android.widget.ProgressBar,null"
+    ]
+  },
+  {
+  	"ActivityName": ["Recherche"],
+    "Name": "recherche",
+    "Screenshot": ".screenshot/1311972971_com.vivaneo.tgm.apk/1311972971_com.vivaneo.tgm.apk-recherche.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,45),android.widget.LinearLayout,null",
+      "(0,10)-(450,34),android.widget.LinearLayout,null",
+      "(198,0)-(281,24),android.widget.TextView,Chercher",
+      "(450,12)-(480,32),android.widget.LinearLayout,null",
+      "(0,0)-(20,20),android.widget.ProgressBar,null",
+      "(0,45)-(480,85),android.widget.LinearLayout,null",
+      "(0,0)-(438,40),android.widget.LinearLayout,null",
+      "(5,5)-(433,35),android.widget.EditText,Entrez un mot clé ici !",
+      "(438,0)-(480,40),android.widget.LinearLayout,null",
+      "(5,5)-(37,35),android.widget.Button,null",
+      "(0,85)-(480,727),android.widget.ListView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["R$layout"],
+    "Name": "questionsreponses",
+    "Screenshot": ".screenshot/1311972971_com.vivaneo.tgm.apk/1311972971_com.vivaneo.tgm.apk-questionsreponses.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.LinearLayout,null",
+      "(0,0)-(480,45),android.widget.LinearLayout,null",
+      "(0,10)-(450,34),android.widget.LinearLayout,null",
+      "(174,0)-(305,24),android.widget.TextView,Tous les trucs",
+      "(450,12)-(480,32),android.widget.LinearLayout,null",
+      "(0,0)-(20,20),android.widget.ProgressBar,null",
+      "(0,45)-(480,727),android.widget.LinearLayout,null",
+      "(0,0)-(480,682),android.widget.LinearLayout,null",
+      "(10,5)-(470,111),android.widget.LinearLayout,null",
+      "(30,0)-(460,106),android.widget.LinearLayout,null",
+      "(0,0)-(41,106),android.widget.LinearLayout,null",
+      "(0,36)-(41,70),android.widget.ImageButton,null",
+      "(41,0)-(391,106),android.widget.LinearLayout,null",
+      "(15,0)-(335,106),android.widget.TextView,question",
+      "(391,0)-(430,106),android.widget.LinearLayout,null",
+      "(0,37)-(39,69),android.widget.ImageButton,null",
+      "(348,82)-(450,119),android.widget.LinearLayout,null",
+      "(30,0)-(102,37),android.widget.ImageButton,null",
+      "(10,119)-(470,640),android.widget.ScrollView,null",
+      "(10,10)-(450,27),android.widget.LinearLayout,null",
+      "(50,0)-(101,17),android.widget.TextView,réponse",
+      "(10,640)-(470,672),android.widget.LinearLayout,null",
+      "(50,0)-(186,32),android.widget.LinearLayout,null",
+      "(0,0)-(33,32),android.widget.Button,null",
+      "(186,0)-(323,32),android.widget.LinearLayout,null",
+      "(52,0)-(85,32),android.widget.Button,null",
+      "(323,0)-(460,32),android.widget.LinearLayout,null",
+      "(104,0)-(137,32),android.widget.Button,null"
+    ]
+  }
+]

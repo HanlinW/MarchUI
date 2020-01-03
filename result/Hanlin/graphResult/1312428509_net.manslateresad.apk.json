@@ -1,0 +1,35 @@
+[
+  {
+  	"ActivityName": ["TraductorHombre", "TraductorMujer"],
+    "Name": "main",
+    "Screenshot": ".screenshot/1312428509_net.manslateresad.apk/1312428509_net.manslateresad.apk-main.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.FrameLayout,null",
+      "(0,0)-(480,727),android.widget.RelativeLayout,null",
+      "(0,0)-(480,727),android.widget.RelativeLayout,null",
+      "(0,530)-(183,727),android.widget.ImageView,null",
+      "(12,545)-(179,712),android.widget.ImageView,null",
+      "(0,530)-(183,727),android.widget.ImageView,null",
+      "(0,536)-(183,727),android.widget.ImageView,null",
+      "(12,545)-(179,712),android.widget.ImageView,null",
+      "(0,0)-(480,727),android.widget.RelativeLayout,null",
+      "(291,285)-(463,299),android.widget.ImageView,null",
+      "(291,285)-(463,299),android.widget.ImageView,null",
+      "(356,360)-(398,402),android.widget.ImageButton,null",
+      "(327,310)-(427,333),android.widget.ImageButton,null",
+      "(356,440)-(398,457),android.widget.TextView,...",
+      "(0,0)-(480,727),android.widget.RelativeLayout,null",
+      "(0,363)-(480,363),android.widget.ListView,null"
+    ]
+  },
+  {
+  	"ActivityName": ["listaHombre", "listaMujer"],
+    "Name": "lista",
+    "Screenshot": ".screenshot/1312428509_net.manslateresad.apk/1312428509_net.manslateresad.apk-lista.png",
+    "Widget List": [
+      "(0,25)-(480,752),android.widget.FrameLayout,null",
+      "(0,0)-(480,727),android.widget.RelativeLayout,null",
+      "(0,363)-(480,363),android.widget.ListView,null"
+    ]
+  }
+]
