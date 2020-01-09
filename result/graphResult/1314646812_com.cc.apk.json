@@ -3,557 +3,2083 @@
   	"ActivityName": ["AboutActivity"],
     "Name": "alert_suggest_add",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-alert_suggest_add.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,17),android.widget.TextView,建议",
-      "(0,17)-(480,137),android.widget.EditText,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,17)",
+          "Class": "android.widget.TextView",
+          "Content": "建议",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(0,17)-(480,137)",
+          "Class": "android.widget.EditText",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["SettingActivity"],
     "Name": "setting",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-setting.png",
-    "Widget List": [
-      "(0,50)-(480,604),android.widget.ScrollView,null",
-      "(0,0)-(480,554),android.widget.LinearLayout,null",
-      "(0,0)-(480,18),android.widget.TextView,常规设置",
-      "(0,18)-(480,68),android.widget.RelativeLayout,null",
-      "(3,13)-(163,37),android.widget.TextView,开启来电动画显示",
-      "(442,1)-(480,49),android.widget.CheckBox,null",
-      "(0,68)-(480,70),android.widget.ImageView,null",
-      "(0,70)-(480,120),android.widget.RelativeLayout,null",
-      "(3,13)-(163,37),android.widget.TextView,开启去电动画显示",
-      "(442,1)-(480,49),android.widget.CheckBox,null",
-      "(0,120)-(480,122),android.widget.ImageView,null",
-      "(0,122)-(480,172),android.widget.RelativeLayout,null",
-      "(3,13)-(163,37),android.widget.TextView,开启传情动画显示",
-      "(442,1)-(480,49),android.widget.CheckBox,null",
-      "(0,172)-(480,174),android.widget.ImageView,null",
-      "(0,174)-(480,224),android.widget.RelativeLayout,null",
-      "(3,13)-(203,37),android.widget.TextView,开启来去电归属地显示",
-      "(442,1)-(480,49),android.widget.CheckBox,null",
-      "(0,224)-(480,226),android.widget.ImageView,null",
-      "(0,226)-(480,276),android.widget.RelativeLayout,null",
-      "(3,13)-(123,37),android.widget.TextView,图片预览设置",
-      "(386,5)-(480,45),android.widget.Spinner,null",
-      "(11,9)-(43,28),android.widget.TextView,自动",
-      "(0,276)-(480,278),android.widget.ImageView,null",
-      "(0,278)-(480,328),android.widget.RelativeLayout,null",
-      "(3,13)-(123,37),android.widget.TextView,铃声试听设置",
-      "(386,5)-(480,45),android.widget.Spinner,null",
-      "(11,9)-(43,28),android.widget.TextView,自动",
-      "(0,328)-(480,330),android.widget.ImageView,null",
-      "(0,330)-(480,380),android.widget.RelativeLayout,null",
-      "(3,13)-(183,37),android.widget.TextView,黑名单拦截模式设置",
-      "(354,5)-(480,45),android.widget.Spinner,null",
-      "(11,9)-(75,28),android.widget.TextView,仅黑名单",
-      "(0,380)-(480,382),android.widget.ImageView,null",
-      "(0,382)-(480,432),android.widget.RelativeLayout,null",
-      "(3,13)-(123,37),android.widget.TextView,接听方式设置",
-      "(386,5)-(480,45),android.widget.Spinner,null",
-      "(11,9)-(43,28),android.widget.TextView,按键",
-      "(0,432)-(480,434),android.widget.ImageView,null",
-      "(0,434)-(480,452),android.widget.TextView,其他设置",
-      "(0,452)-(480,502),android.widget.RelativeLayout,null",
-      "(3,13)-(123,37),android.widget.TextView,来电自动接听",
-      "(386,5)-(480,45),android.widget.Spinner,null",
-      "(11,9)-(43,28),android.widget.TextView,关闭",
-      "(0,502)-(480,504),android.widget.ImageView,null",
-      "(0,504)-(480,554),android.widget.RelativeLayout,null",
-      "(3,13)-(123,37),android.widget.TextView,开启自动升级",
-      "(442,1)-(480,49),android.widget.CheckBox,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,604)",
+      "Class": "android.widget.ScrollView",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,554)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(480,18)",
+              "Class": "android.widget.TextView",
+              "Content": "常规设置",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(0,18)-(480,68)",
+              "Class": "android.widget.RelativeLayout",
+              "Content": "null",
+              "Children": {
+                "5": {
+                  "Position": "(3,13)-(163,37)",
+                  "Class": "android.widget.TextView",
+                  "Content": "开启来电动画显示",
+                  "Children": {}
+                },
+                "6": {
+                  "Position": "(442,1)-(480,49)",
+                  "Class": "android.widget.CheckBox",
+                  "Content": "null",
+                  "Children": {}
+                }
+              }
+            },
+            "7": {
+              "Position": "(0,68)-(480,70)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "8": {
+              "Position": "(0,70)-(480,120)",
+              "Class": "android.widget.RelativeLayout",
+              "Content": "null",
+              "Children": {
+                "9": {
+                  "Position": "(3,13)-(163,37)",
+                  "Class": "android.widget.TextView",
+                  "Content": "开启去电动画显示",
+                  "Children": {}
+                },
+                "10": {
+                  "Position": "(442,1)-(480,49)",
+                  "Class": "android.widget.CheckBox",
+                  "Content": "null",
+                  "Children": {}
+                }
+              }
+            },
+            "11": {
+              "Position": "(0,120)-(480,122)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "12": {
+              "Position": "(0,122)-(480,172)",
+              "Class": "android.widget.RelativeLayout",
+              "Content": "null",
+              "Children": {
+                "13": {
+                  "Position": "(3,13)-(163,37)",
+                  "Class": "android.widget.TextView",
+                  "Content": "开启传情动画显示",
+                  "Children": {}
+                },
+                "14": {
+                  "Position": "(442,1)-(480,49)",
+                  "Class": "android.widget.CheckBox",
+                  "Content": "null",
+                  "Children": {}
+                }
+              }
+            },
+            "15": {
+              "Position": "(0,172)-(480,174)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "16": {
+              "Position": "(0,174)-(480,224)",
+              "Class": "android.widget.RelativeLayout",
+              "Content": "null",
+              "Children": {
+                "17": {
+                  "Position": "(3,13)-(203,37)",
+                  "Class": "android.widget.TextView",
+                  "Content": "开启来去电归属地显示",
+                  "Children": {}
+                },
+                "18": {
+                  "Position": "(442,1)-(480,49)",
+                  "Class": "android.widget.CheckBox",
+                  "Content": "null",
+                  "Children": {}
+                }
+              }
+            },
+            "19": {
+              "Position": "(0,224)-(480,226)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "20": {
+              "Position": "(0,226)-(480,276)",
+              "Class": "android.widget.RelativeLayout",
+              "Content": "null",
+              "Children": {
+                "21": {
+                  "Position": "(3,13)-(123,37)",
+                  "Class": "android.widget.TextView",
+                  "Content": "图片预览设置",
+                  "Children": {}
+                },
+                "22": {
+                  "Position": "(386,5)-(480,45)",
+                  "Class": "android.widget.Spinner",
+                  "Content": "null",
+                  "Children": {
+                    "23": {
+                      "Position": "(11,9)-(43,28)",
+                      "Class": "android.widget.TextView",
+                      "Content": "自动",
+                      "Children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "24": {
+              "Position": "(0,276)-(480,278)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "25": {
+              "Position": "(0,278)-(480,328)",
+              "Class": "android.widget.RelativeLayout",
+              "Content": "null",
+              "Children": {
+                "26": {
+                  "Position": "(3,13)-(123,37)",
+                  "Class": "android.widget.TextView",
+                  "Content": "铃声试听设置",
+                  "Children": {}
+                },
+                "27": {
+                  "Position": "(386,5)-(480,45)",
+                  "Class": "android.widget.Spinner",
+                  "Content": "null",
+                  "Children": {
+                    "28": {
+                      "Position": "(11,9)-(43,28)",
+                      "Class": "android.widget.TextView",
+                      "Content": "自动",
+                      "Children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "29": {
+              "Position": "(0,328)-(480,330)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "30": {
+              "Position": "(0,330)-(480,380)",
+              "Class": "android.widget.RelativeLayout",
+              "Content": "null",
+              "Children": {
+                "31": {
+                  "Position": "(3,13)-(183,37)",
+                  "Class": "android.widget.TextView",
+                  "Content": "黑名单拦截模式设置",
+                  "Children": {}
+                },
+                "32": {
+                  "Position": "(354,5)-(480,45)",
+                  "Class": "android.widget.Spinner",
+                  "Content": "null",
+                  "Children": {
+                    "33": {
+                      "Position": "(11,9)-(75,28)",
+                      "Class": "android.widget.TextView",
+                      "Content": "仅黑名单",
+                      "Children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "34": {
+              "Position": "(0,380)-(480,382)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "35": {
+              "Position": "(0,382)-(480,432)",
+              "Class": "android.widget.RelativeLayout",
+              "Content": "null",
+              "Children": {
+                "36": {
+                  "Position": "(3,13)-(123,37)",
+                  "Class": "android.widget.TextView",
+                  "Content": "接听方式设置",
+                  "Children": {}
+                },
+                "37": {
+                  "Position": "(386,5)-(480,45)",
+                  "Class": "android.widget.Spinner",
+                  "Content": "null",
+                  "Children": {
+                    "38": {
+                      "Position": "(11,9)-(43,28)",
+                      "Class": "android.widget.TextView",
+                      "Content": "按键",
+                      "Children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "39": {
+              "Position": "(0,432)-(480,434)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "40": {
+              "Position": "(0,434)-(480,452)",
+              "Class": "android.widget.TextView",
+              "Content": "其他设置",
+              "Children": {}
+            },
+            "41": {
+              "Position": "(0,452)-(480,502)",
+              "Class": "android.widget.RelativeLayout",
+              "Content": "null",
+              "Children": {
+                "42": {
+                  "Position": "(3,13)-(123,37)",
+                  "Class": "android.widget.TextView",
+                  "Content": "来电自动接听",
+                  "Children": {}
+                },
+                "43": {
+                  "Position": "(386,5)-(480,45)",
+                  "Class": "android.widget.Spinner",
+                  "Content": "null",
+                  "Children": {
+                    "44": {
+                      "Position": "(11,9)-(43,28)",
+                      "Class": "android.widget.TextView",
+                      "Content": "关闭",
+                      "Children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "45": {
+              "Position": "(0,502)-(480,504)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "46": {
+              "Position": "(0,504)-(480,554)",
+              "Class": "android.widget.RelativeLayout",
+              "Content": "null",
+              "Children": {
+                "47": {
+                  "Position": "(3,13)-(123,37)",
+                  "Class": "android.widget.TextView",
+                  "Content": "开启自动升级",
+                  "Children": {}
+                },
+                "48": {
+                  "Position": "(442,1)-(480,49)",
+                  "Class": "android.widget.CheckBox",
+                  "Content": "null",
+                  "Children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["ContactListActivity"],
     "Name": "contactlist_pick",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-contactlist_pick.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,37),android.widget.LinearLayout,null",
-      "(0,0)-(480,35),android.widget.LinearLayout,null",
-      "(0,5)-(240,35),android.widget.Button,通讯录好友",
-      "(240,5)-(480,35),android.widget.Button,CC好友",
-      "(0,35)-(480,37),android.widget.ImageView,null",
-      "(0,37)-(480,634),android.widget.RelativeLayout,null",
-      "(0,0)-(480,597),android.widget.ListView,null",
-      "(440,10)-(470,40),android.widget.ProgressBar,null",
-      "(0,634)-(480,702),android.widget.LinearLayout,null",
-      "(10,10)-(240,58),android.widget.Button,确定",
-      "(240,10)-(470,58),android.widget.Button,取消"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,37)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(480,35)",
+              "Class": "android.widget.LinearLayout",
+              "Content": "null",
+              "Children": {
+                "4": {
+                  "Position": "(0,5)-(240,35)",
+                  "Class": "android.widget.Button",
+                  "Content": "通讯录好友",
+                  "Children": {}
+                },
+                "5": {
+                  "Position": "(240,5)-(480,35)",
+                  "Class": "android.widget.Button",
+                  "Content": "CC好友",
+                  "Children": {}
+                }
+              }
+            },
+            "6": {
+              "Position": "(0,35)-(480,37)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "7": {
+          "Position": "(0,37)-(480,634)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "8": {
+              "Position": "(0,0)-(480,597)",
+              "Class": "android.widget.ListView",
+              "Content": "null",
+              "Children": {}
+            },
+            "9": {
+              "Position": "(440,10)-(470,40)",
+              "Class": "android.widget.ProgressBar",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "10": {
+          "Position": "(0,634)-(480,702)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "11": {
+              "Position": "(10,10)-(240,58)",
+              "Class": "android.widget.Button",
+              "Content": "确定",
+              "Children": {}
+            },
+            "12": {
+              "Position": "(240,10)-(470,58)",
+              "Class": "android.widget.Button",
+              "Content": "取消",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["FriendListActivity"],
     "Name": "alert_frigrp",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-alert_frigrp.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,702),android.widget.TableLayout,null",
-      "(20,20)-(460,68),android.widget.TableRow,null",
-      "(0,9)-(94,33),android.widget.TextView,组名",
-      "(94,0)-(440,48),android.widget.EditText,请在此输入组名"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,702)",
+          "Class": "android.widget.TableLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(20,20)-(460,68)",
+              "Class": "android.widget.TableRow",
+              "Content": "null",
+              "Children": {
+                "4": {
+                  "Position": "(0,9)-(94,33)",
+                  "Class": "android.widget.TextView",
+                  "Content": "组名",
+                  "Children": {}
+                },
+                "5": {
+                  "Position": "(94,0)-(440,48)",
+                  "Class": "android.widget.EditText",
+                  "Content": "请在此输入组名",
+                  "Children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["HMDListActivity"],
     "Name": "friendlist_hmd",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-friendlist_hmd.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,37),android.widget.LinearLayout,null",
-      "(0,0)-(480,35),android.widget.LinearLayout,null",
-      "(0,5)-(160,35),android.widget.Button,通讯录好友",
-      "(160,5)-(320,35),android.widget.Button,CC好友",
-      "(320,5)-(480,35),android.widget.Button,黑名单",
-      "(0,35)-(480,37),android.widget.ImageView,null",
-      "(0,37)-(480,702),android.widget.RelativeLayout,null",
-      "(0,0)-(480,0),android.widget.ListView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,37)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(480,35)",
+              "Class": "android.widget.LinearLayout",
+              "Content": "null",
+              "Children": {
+                "4": {
+                  "Position": "(0,5)-(160,35)",
+                  "Class": "android.widget.Button",
+                  "Content": "通讯录好友",
+                  "Children": {}
+                },
+                "5": {
+                  "Position": "(160,5)-(320,35)",
+                  "Class": "android.widget.Button",
+                  "Content": "CC好友",
+                  "Children": {}
+                },
+                "6": {
+                  "Position": "(320,5)-(480,35)",
+                  "Class": "android.widget.Button",
+                  "Content": "黑名单",
+                  "Children": {}
+                }
+              }
+            },
+            "7": {
+              "Position": "(0,35)-(480,37)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "8": {
+          "Position": "(0,37)-(480,702)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "9": {
+              "Position": "(0,0)-(480,0)",
+              "Class": "android.widget.ListView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["HMDListActivity"],
     "Name": "alert_hmd_add",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-alert_hmd_add.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,48),android.widget.EditText,请输入手机号"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,48)",
+          "Class": "android.widget.EditText",
+          "Content": "请输入手机号",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["PictureListActivity"],
     "Name": "picturelist",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-picturelist.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,630),android.widget.RelativeLayout,null",
-      "(0,0)-(480,630),android.widget.ListView,null",
-      "(440,10)-(470,40),android.widget.ProgressBar,null",
-      "(0,630)-(480,702),android.widget.LinearLayout,null",
-      "(0,0)-(480,72),android.widget.RadioGroup,null",
-      "(0,0)-(96,72),android.widget.RadioButton,最新动画",
-      "(96,0)-(192,72),android.widget.RadioButton,动画排行",
-      "(192,0)-(288,72),android.widget.RadioButton,精品动画",
-      "(288,0)-(384,72),android.widget.RadioButton,动画分类",
-      "(384,0)-(480,72),android.widget.RadioButton,返回上级"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,630)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(480,630)",
+              "Class": "android.widget.ListView",
+              "Content": "null",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(440,10)-(470,40)",
+              "Class": "android.widget.ProgressBar",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "5": {
+          "Position": "(0,630)-(480,702)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "6": {
+              "Position": "(0,0)-(480,72)",
+              "Class": "android.widget.RadioGroup",
+              "Content": "null",
+              "Children": {
+                "7": {
+                  "Position": "(0,0)-(96,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "最新动画",
+                  "Children": {}
+                },
+                "8": {
+                  "Position": "(96,0)-(192,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "动画排行",
+                  "Children": {}
+                },
+                "9": {
+                  "Position": "(192,0)-(288,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "精品动画",
+                  "Children": {}
+                },
+                "10": {
+                  "Position": "(288,0)-(384,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "动画分类",
+                  "Children": {}
+                },
+                "11": {
+                  "Position": "(384,0)-(480,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "返回上级",
+                  "Children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["TaskListActivity"],
     "Name": "tasklist_item_procressing",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-tasklist_item_procressing.png",
-    "Widget List": [
-      "(0,50)-(480,110),android.widget.LinearLayout,null",
-      "(0,0)-(480,20),android.widget.RelativeLayout,null",
-      "(10,5)-(92,20),android.widget.TextView,QQ2012偿鲜版",
-      "(422,5)-(470,20),android.widget.TextView,正在下载",
-      "(10,30)-(470,40),android.widget.ProgressBar,null",
-      "(0,40)-(480,60),android.widget.RelativeLayout,null",
-      "(10,5)-(82,20),android.widget.TextView,正在连接网络",
-      "(454,5)-(470,20),android.widget.TextView,0%"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,110)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,20)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(10,5)-(92,20)",
+              "Class": "android.widget.TextView",
+              "Content": "QQ2012偿鲜版",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(422,5)-(470,20)",
+              "Class": "android.widget.TextView",
+              "Content": "正在下载",
+              "Children": {}
+            }
+          }
+        },
+        "5": {
+          "Position": "(10,30)-(470,40)",
+          "Class": "android.widget.ProgressBar",
+          "Content": "null",
+          "Children": {}
+        },
+        "6": {
+          "Position": "(0,40)-(480,60)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "7": {
+              "Position": "(10,5)-(82,20)",
+              "Class": "android.widget.TextView",
+              "Content": "正在连接网络",
+              "Children": {}
+            },
+            "8": {
+              "Position": "(454,5)-(470,20)",
+              "Class": "android.widget.TextView",
+              "Content": "0%",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["MainActivity"],
     "Name": "grid_item_01",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-grid_item_01.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(240,0)-(240,0),android.widget.ImageView,null",
-      "(240,0)-(240,17),android.widget.TextView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(240,0)-(240,0)",
+          "Class": "android.widget.ImageView",
+          "Content": "null",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(240,0)-(240,17)",
+          "Class": "android.widget.TextView",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["FirstUseActivity"],
     "Name": "firstuse",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-firstuse.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.RelativeLayout,null",
-      "(159,312)-(320,390),android.widget.LinearLayout,null",
-      "(56,0)-(104,48),android.widget.ProgressBar,null",
-      "(0,58)-(161,61),android.widget.ProgressBar,null",
-      "(0,61)-(161,78),android.widget.TextView,正在初始化,请稍等!|n|n|n",
-      "(0,654)-(480,702),android.widget.LinearLayout,null",
-      "(0,0)-(240,48),android.widget.Button,重试",
-      "(240,0)-(480,48),android.widget.Button,确定",
-      "(0,637)-(480,654),android.widget.TextView,初始化...|n--------------"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.RelativeLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(159,312)-(320,390)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(56,0)-(104,48)",
+              "Class": "android.widget.ProgressBar",
+              "Content": "null",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(0,58)-(161,61)",
+              "Class": "android.widget.ProgressBar",
+              "Content": "null",
+              "Children": {}
+            },
+            "5": {
+              "Position": "(0,61)-(161,78)",
+              "Class": "android.widget.TextView",
+              "Content": "正在初始化,请稍等!|n|n|n",
+              "Children": {}
+            }
+          }
+        },
+        "6": {
+          "Position": "(0,654)-(480,702)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "7": {
+              "Position": "(0,0)-(240,48)",
+              "Class": "android.widget.Button",
+              "Content": "重试",
+              "Children": {}
+            },
+            "8": {
+              "Position": "(240,0)-(480,48)",
+              "Class": "android.widget.Button",
+              "Content": "确定",
+              "Children": {}
+            }
+          }
+        },
+        "9": {
+          "Position": "(0,637)-(480,654)",
+          "Class": "android.widget.TextView",
+          "Content": "初始化...|n--------------",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["TaskListActivity"],
     "Name": "tasklist_item_procressed",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-tasklist_item_procressed.png",
-    "Widget List": [
-      "(0,50)-(480,70),android.widget.RelativeLayout,null",
-      "(10,2)-(58,17),android.widget.TextView,任务名称",
-      "(342,2)-(470,17),android.widget.TextView,下载时间：0000-00-00"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,70)",
+      "Class": "android.widget.RelativeLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(10,2)-(58,17)",
+          "Class": "android.widget.TextView",
+          "Content": "任务名称",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(342,2)-(470,17)",
+          "Class": "android.widget.TextView",
+          "Content": "下载时间：0000-00-00",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["MainActivity"],
     "Name": "main",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-main.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,10),android.widget.GridView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,10)",
+          "Class": "android.widget.GridView",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["R$layout"],
     "Name": "grid_item_02",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-grid_item_02.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(240,5)-(240,682),android.widget.ImageView,null",
-      "(0,687)-(0,702),android.widget.TextView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(240,5)-(240,682)",
+          "Class": "android.widget.ImageView",
+          "Content": "null",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(0,687)-(0,702)",
+          "Class": "android.widget.TextView",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["PictureCategoryActivity"],
     "Name": "picturecategory",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-picturecategory.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,630),android.widget.RelativeLayout,null",
-      "(0,0)-(480,630),android.widget.ListView,null",
-      "(440,10)-(470,40),android.widget.ProgressBar,null",
-      "(0,630)-(480,702),android.widget.LinearLayout,null",
-      "(0,0)-(480,72),android.widget.RadioGroup,null",
-      "(0,0)-(96,72),android.widget.RadioButton,最新动画",
-      "(96,0)-(192,72),android.widget.RadioButton,动画排行",
-      "(192,0)-(288,72),android.widget.RadioButton,精品动画",
-      "(288,0)-(384,72),android.widget.RadioButton,动画分类",
-      "(384,0)-(480,72),android.widget.RadioButton,返回上级"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,630)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(480,630)",
+              "Class": "android.widget.ListView",
+              "Content": "null",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(440,10)-(470,40)",
+              "Class": "android.widget.ProgressBar",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "5": {
+          "Position": "(0,630)-(480,702)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "6": {
+              "Position": "(0,0)-(480,72)",
+              "Class": "android.widget.RadioGroup",
+              "Content": "null",
+              "Children": {
+                "7": {
+                  "Position": "(0,0)-(96,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "最新动画",
+                  "Children": {}
+                },
+                "8": {
+                  "Position": "(96,0)-(192,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "动画排行",
+                  "Children": {}
+                },
+                "9": {
+                  "Position": "(192,0)-(288,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "精品动画",
+                  "Children": {}
+                },
+                "10": {
+                  "Position": "(288,0)-(384,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "动画分类",
+                  "Children": {}
+                },
+                "11": {
+                  "Position": "(384,0)-(480,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "返回上级",
+                  "Children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["FriendListActivity"],
     "Name": "friendlist",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-friendlist.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,37),android.widget.LinearLayout,null",
-      "(0,0)-(480,35),android.widget.LinearLayout,null",
-      "(0,5)-(160,35),android.widget.Button,通讯录好友",
-      "(160,5)-(320,35),android.widget.Button,CC好友",
-      "(320,5)-(480,35),android.widget.Button,黑名单",
-      "(0,35)-(480,37),android.widget.ImageView,null",
-      "(0,37)-(480,37),android.widget.HorizontalScrollView,null",
-      "(0,0)-(0,0),android.widget.LinearLayout,null",
-      "(0,37)-(480,702),android.widget.RelativeLayout,null",
-      "(0,0)-(480,0),android.widget.ListView,null",
-      "(440,10)-(470,40),android.widget.ProgressBar,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,37)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(480,35)",
+              "Class": "android.widget.LinearLayout",
+              "Content": "null",
+              "Children": {
+                "4": {
+                  "Position": "(0,5)-(160,35)",
+                  "Class": "android.widget.Button",
+                  "Content": "通讯录好友",
+                  "Children": {}
+                },
+                "5": {
+                  "Position": "(160,5)-(320,35)",
+                  "Class": "android.widget.Button",
+                  "Content": "CC好友",
+                  "Children": {}
+                },
+                "6": {
+                  "Position": "(320,5)-(480,35)",
+                  "Class": "android.widget.Button",
+                  "Content": "黑名单",
+                  "Children": {}
+                }
+              }
+            },
+            "7": {
+              "Position": "(0,35)-(480,37)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "8": {
+          "Position": "(0,37)-(480,37)",
+          "Class": "android.widget.HorizontalScrollView",
+          "Content": "null",
+          "Children": {
+            "9": {
+              "Position": "(0,0)-(0,0)",
+              "Class": "android.widget.LinearLayout",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "10": {
+          "Position": "(0,37)-(480,702)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "11": {
+              "Position": "(0,0)-(480,0)",
+              "Class": "android.widget.ListView",
+              "Content": "null",
+              "Children": {}
+            },
+            "12": {
+              "Position": "(440,10)-(470,40)",
+              "Class": "android.widget.ProgressBar",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["ContactListActivity"],
     "Name": "contactlist_commend",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-contactlist_commend.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,37),android.widget.LinearLayout,null",
-      "(0,0)-(480,35),android.widget.LinearLayout,null",
-      "(0,5)-(160,35),android.widget.Button,通讯录好友",
-      "(160,5)-(320,35),android.widget.Button,CC好友",
-      "(320,5)-(480,35),android.widget.Button,黑名单",
-      "(0,35)-(480,37),android.widget.ImageView,null",
-      "(0,37)-(480,634),android.widget.RelativeLayout,null",
-      "(0,0)-(480,597),android.widget.ListView,null",
-      "(440,10)-(470,40),android.widget.ProgressBar,null",
-      "(0,634)-(480,702),android.widget.LinearLayout,null",
-      "(10,10)-(240,58),android.widget.Button,推荐",
-      "(240,10)-(470,58),android.widget.Button,设大头贴"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,37)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(480,35)",
+              "Class": "android.widget.LinearLayout",
+              "Content": "null",
+              "Children": {
+                "4": {
+                  "Position": "(0,5)-(160,35)",
+                  "Class": "android.widget.Button",
+                  "Content": "通讯录好友",
+                  "Children": {}
+                },
+                "5": {
+                  "Position": "(160,5)-(320,35)",
+                  "Class": "android.widget.Button",
+                  "Content": "CC好友",
+                  "Children": {}
+                },
+                "6": {
+                  "Position": "(320,5)-(480,35)",
+                  "Class": "android.widget.Button",
+                  "Content": "黑名单",
+                  "Children": {}
+                }
+              }
+            },
+            "7": {
+              "Position": "(0,35)-(480,37)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "8": {
+          "Position": "(0,37)-(480,634)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "9": {
+              "Position": "(0,0)-(480,597)",
+              "Class": "android.widget.ListView",
+              "Content": "null",
+              "Children": {}
+            },
+            "10": {
+              "Position": "(440,10)-(470,40)",
+              "Class": "android.widget.ProgressBar",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "11": {
+          "Position": "(0,634)-(480,702)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "12": {
+              "Position": "(10,10)-(240,58)",
+              "Class": "android.widget.Button",
+              "Content": "推荐",
+              "Children": {}
+            },
+            "13": {
+              "Position": "(240,10)-(470,58)",
+              "Class": "android.widget.Button",
+              "Content": "设大头贴",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["RingCategoryActivity"],
     "Name": "ringcategory",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-ringcategory.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,630),android.widget.RelativeLayout,null",
-      "(0,0)-(480,630),android.widget.ListView,null",
-      "(440,10)-(470,40),android.widget.ProgressBar,null",
-      "(0,630)-(480,702),android.widget.LinearLayout,null",
-      "(0,0)-(480,72),android.widget.RadioGroup,null",
-      "(0,0)-(96,72),android.widget.RadioButton,最新铃声",
-      "(96,0)-(192,72),android.widget.RadioButton,铃声排行",
-      "(192,0)-(288,72),android.widget.RadioButton,精品铃声",
-      "(288,0)-(384,72),android.widget.RadioButton,铃声分类",
-      "(384,0)-(480,72),android.widget.RadioButton,返回上级"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,630)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(480,630)",
+              "Class": "android.widget.ListView",
+              "Content": "null",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(440,10)-(470,40)",
+              "Class": "android.widget.ProgressBar",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "5": {
+          "Position": "(0,630)-(480,702)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "6": {
+              "Position": "(0,0)-(480,72)",
+              "Class": "android.widget.RadioGroup",
+              "Content": "null",
+              "Children": {
+                "7": {
+                  "Position": "(0,0)-(96,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "最新铃声",
+                  "Children": {}
+                },
+                "8": {
+                  "Position": "(96,0)-(192,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "铃声排行",
+                  "Children": {}
+                },
+                "9": {
+                  "Position": "(192,0)-(288,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "精品铃声",
+                  "Children": {}
+                },
+                "10": {
+                  "Position": "(288,0)-(384,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "铃声分类",
+                  "Children": {}
+                },
+                "11": {
+                  "Position": "(384,0)-(480,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "返回上级",
+                  "Children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["MainActivity"],
     "Name": "alert_shareto",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-alert_shareto.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,48),android.widget.EditText,请输入好友手机号"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,48)",
+          "Class": "android.widget.EditText",
+          "Content": "请输入好友手机号",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["AboutActivity"],
     "Name": "about",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-about.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.RelativeLayout,null",
-      "(10,10)-(60,60),android.widget.ImageView,null",
-      "(0,70)-(480,114),android.widget.TextView,CC  (android)",
-      "(70,24)-(168,60),android.widget.TextView,关于CC",
-      "(0,114)-(480,188),android.widget.TextView,官网：www.cc369.cn|n　　　wap.cc369.cn|n论坛：bbs.cc369.cn|n电话：4008879225|n邮箱：support@cc369.cn|nQQ群：105490156|n|n",
-      "(0,188)-(480,232),android.widget.LinearLayout,null",
-      "(5,5)-(81,39),android.widget.Button,卸载CC",
-      "(91,5)-(241,39),android.widget.Button,检查更新并升级",
-      "(0,232)-(480,276),android.widget.LinearLayout,null",
-      "(5,5)-(135,39),android.widget.Button,提供改进意见",
-      "(0,672)-(480,702),android.widget.Button,返回"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.RelativeLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(10,10)-(60,60)",
+          "Class": "android.widget.ImageView",
+          "Content": "null",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(0,70)-(480,114)",
+          "Class": "android.widget.TextView",
+          "Content": "CC  (android)",
+          "Children": {}
+        },
+        "4": {
+          "Position": "(70,24)-(168,60)",
+          "Class": "android.widget.TextView",
+          "Content": "关于CC",
+          "Children": {}
+        },
+        "5": {
+          "Position": "(0,114)-(480,188)",
+          "Class": "android.widget.TextView",
+          "Content": "官网：www.cc369.cn|n　　　wap.cc369.cn|n论坛：bbs.cc369.cn|n电话：4008879225|n邮箱：support@cc369.cn|nQQ群：105490156|n|n",
+          "Children": {}
+        },
+        "6": {
+          "Position": "(0,188)-(480,232)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "7": {
+              "Position": "(5,5)-(81,39)",
+              "Class": "android.widget.Button",
+              "Content": "卸载CC",
+              "Children": {}
+            },
+            "8": {
+              "Position": "(91,5)-(241,39)",
+              "Class": "android.widget.Button",
+              "Content": "检查更新并升级",
+              "Children": {}
+            }
+          }
+        },
+        "9": {
+          "Position": "(0,232)-(480,276)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "10": {
+              "Position": "(5,5)-(135,39)",
+              "Class": "android.widget.Button",
+              "Content": "提供改进意见",
+              "Children": {}
+            }
+          }
+        },
+        "11": {
+          "Position": "(0,672)-(480,702)",
+          "Class": "android.widget.Button",
+          "Content": "返回",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["UpdateNotificationActivity"],
     "Name": "update",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-update.png",
-    "Widget List": [
-      "(0,50)-(480,92),android.widget.LinearLayout,null",
-      "(10,5)-(10,22),android.widget.TextView,null",
-      "(10,32)-(470,42),android.widget.ProgressBar,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,92)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(10,5)-(10,22)",
+          "Class": "android.widget.TextView",
+          "Content": "null",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(10,32)-(470,42)",
+          "Class": "android.widget.ProgressBar",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["FriendListActivity"],
     "Name": "alert_friend",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-alert_friend.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,702),android.widget.TableLayout,null",
-      "(20,20)-(460,68),android.widget.TableRow,null",
-      "(0,9)-(98,33),android.widget.TextView,名字",
-      "(98,0)-(440,48),android.widget.EditText,请输入姓名",
-      "(20,68)-(460,116),android.widget.TableRow,null",
-      "(0,9)-(98,33),android.widget.TextView,电话",
-      "(98,0)-(440,48),android.widget.EditText,请输入手机号",
-      "(20,116)-(460,164),android.widget.TableRow,null",
-      "(0,0)-(311,24),android.widget.TextView,分组",
-      "(311,0)-(440,48),android.widget.Spinner,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,702)",
+          "Class": "android.widget.TableLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(20,20)-(460,68)",
+              "Class": "android.widget.TableRow",
+              "Content": "null",
+              "Children": {
+                "4": {
+                  "Position": "(0,9)-(98,33)",
+                  "Class": "android.widget.TextView",
+                  "Content": "名字",
+                  "Children": {}
+                },
+                "5": {
+                  "Position": "(98,0)-(440,48)",
+                  "Class": "android.widget.EditText",
+                  "Content": "请输入姓名",
+                  "Children": {}
+                }
+              }
+            },
+            "6": {
+              "Position": "(20,68)-(460,116)",
+              "Class": "android.widget.TableRow",
+              "Content": "null",
+              "Children": {
+                "7": {
+                  "Position": "(0,9)-(98,33)",
+                  "Class": "android.widget.TextView",
+                  "Content": "电话",
+                  "Children": {}
+                },
+                "8": {
+                  "Position": "(98,0)-(440,48)",
+                  "Class": "android.widget.EditText",
+                  "Content": "请输入手机号",
+                  "Children": {}
+                }
+              }
+            },
+            "9": {
+              "Position": "(20,116)-(460,164)",
+              "Class": "android.widget.TableRow",
+              "Content": "null",
+              "Children": {
+                "10": {
+                  "Position": "(0,0)-(311,24)",
+                  "Class": "android.widget.TextView",
+                  "Content": "分组",
+                  "Children": {}
+                },
+                "11": {
+                  "Position": "(311,0)-(440,48)",
+                  "Class": "android.widget.Spinner",
+                  "Content": "null",
+                  "Children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["R$layout"],
     "Name": "alert_friend_add",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-alert_friend_add.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,702),android.widget.TableLayout,null",
-      "(20,20)-(460,68),android.widget.TableRow,null",
-      "(0,9)-(45,33),android.widget.TextView,名字",
-      "(45,0)-(156,48),android.widget.EditText,请输入姓名",
-      "(156,0)-(188,48),android.widget.ImageView,null",
-      "(20,68)-(460,116),android.widget.TableRow,null",
-      "(0,9)-(45,33),android.widget.TextView,电话",
-      "(45,0)-(188,48),android.widget.EditText,请输入手机号",
-      "(20,116)-(460,164),android.widget.TableRow,null",
-      "(0,0)-(45,24),android.widget.TextView,分组",
-      "(45,0)-(188,48),android.widget.Spinner,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,702)",
+          "Class": "android.widget.TableLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(20,20)-(460,68)",
+              "Class": "android.widget.TableRow",
+              "Content": "null",
+              "Children": {
+                "4": {
+                  "Position": "(0,9)-(45,33)",
+                  "Class": "android.widget.TextView",
+                  "Content": "名字",
+                  "Children": {}
+                },
+                "5": {
+                  "Position": "(45,0)-(156,48)",
+                  "Class": "android.widget.EditText",
+                  "Content": "请输入姓名",
+                  "Children": {}
+                },
+                "6": {
+                  "Position": "(156,0)-(188,48)",
+                  "Class": "android.widget.ImageView",
+                  "Content": "null",
+                  "Children": {}
+                }
+              }
+            },
+            "7": {
+              "Position": "(20,68)-(460,116)",
+              "Class": "android.widget.TableRow",
+              "Content": "null",
+              "Children": {
+                "8": {
+                  "Position": "(0,9)-(45,33)",
+                  "Class": "android.widget.TextView",
+                  "Content": "电话",
+                  "Children": {}
+                },
+                "9": {
+                  "Position": "(45,0)-(188,48)",
+                  "Class": "android.widget.EditText",
+                  "Content": "请输入手机号",
+                  "Children": {}
+                }
+              }
+            },
+            "10": {
+              "Position": "(20,116)-(460,164)",
+              "Class": "android.widget.TableRow",
+              "Content": "null",
+              "Children": {
+                "11": {
+                  "Position": "(0,0)-(45,24)",
+                  "Class": "android.widget.TextView",
+                  "Content": "分组",
+                  "Children": {}
+                },
+                "12": {
+                  "Position": "(45,0)-(188,48)",
+                  "Class": "android.widget.Spinner",
+                  "Content": "null",
+                  "Children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["TaskListActivity"],
     "Name": "tasklist",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-tasklist.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,0),android.widget.ExpandableListView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,0)",
+          "Class": "android.widget.ExpandableListView",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["BrowseFileActivity"],
     "Name": "browse_file_item",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-browse_file_item.png",
-    "Widget List": [
-      "(0,50)-(480,100),android.widget.LinearLayout,null",
-      "(5,0)-(55,50),android.widget.ImageView,null",
-      "(60,0)-(60,50),android.widget.TextView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,100)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(5,0)-(55,50)",
+          "Class": "android.widget.ImageView",
+          "Content": "null",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(60,0)-(60,50)",
+          "Class": "android.widget.TextView",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["BrowseFileActivity"],
     "Name": "browse_file",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-browse_file.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,702),android.widget.ListView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,702)",
+          "Class": "android.widget.ListView",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["FriendListActivity", "HMDListActivity", "PictureListActivity"],
     "Name": "list_item_01",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-list_item_01.png",
-    "Widget List": [
-      "(0,50)-(480,100),android.widget.LinearLayout,null",
-      "(5,0)-(55,50),android.widget.ImageView,null",
-      "(65,0)-(480,50),android.widget.RelativeLayout,null",
-      "(0,5)-(0,29),android.widget.TextView,null",
-      "(10,10)-(10,27),android.widget.TextView,null",
-      "(0,33)-(0,50),android.widget.TextView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,100)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(5,0)-(55,50)",
+          "Class": "android.widget.ImageView",
+          "Content": "null",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(65,0)-(480,50)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "4": {
+              "Position": "(0,5)-(0,29)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "5": {
+              "Position": "(10,10)-(10,27)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "6": {
+              "Position": "(0,33)-(0,50)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["MyPictureActivity"],
     "Name": "mypicture",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-mypicture.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,5)-(480,35),android.widget.LinearLayout,null",
-      "(0,0)-(480,30),android.widget.LinearLayout,null",
-      "(0,0)-(240,30),android.widget.Button,来去电动画",
-      "(240,0)-(480,30),android.widget.Button,传情动画",
-      "(0,35)-(480,37),android.widget.ImageView,null",
-      "(0,37)-(480,644),android.widget.ListView,null",
-      "(10,644)-(470,692),android.widget.Button,设置本地图片为来去电动画"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,5)-(480,35)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(480,30)",
+              "Class": "android.widget.LinearLayout",
+              "Content": "null",
+              "Children": {
+                "4": {
+                  "Position": "(0,0)-(240,30)",
+                  "Class": "android.widget.Button",
+                  "Content": "来去电动画",
+                  "Children": {}
+                },
+                "5": {
+                  "Position": "(240,0)-(480,30)",
+                  "Class": "android.widget.Button",
+                  "Content": "传情动画",
+                  "Children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "Position": "(0,35)-(480,37)",
+          "Class": "android.widget.ImageView",
+          "Content": "null",
+          "Children": {}
+        },
+        "7": {
+          "Position": "(0,37)-(480,644)",
+          "Class": "android.widget.ListView",
+          "Content": "null",
+          "Children": {}
+        },
+        "8": {
+          "Position": "(10,644)-(470,692)",
+          "Class": "android.widget.Button",
+          "Content": "设置本地图片为来去电动画",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["TipsActivity"],
     "Name": "tips",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-tips.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.RelativeLayout,null",
-      "(10,10)-(60,60),android.widget.ImageView,null",
-      "(0,70)-(480,108),android.widget.TextView,Message",
-      "(70,24)-(130,60),android.widget.TextView,Title",
-      "(0,108)-(77,146),android.widget.TextView,请稍等...",
-      "(0,654)-(480,702),android.widget.LinearLayout,null",
-      "(0,0)-(240,48),android.widget.Button,重试",
-      "(240,0)-(480,48),android.widget.Button,确定"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.RelativeLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(10,10)-(60,60)",
+          "Class": "android.widget.ImageView",
+          "Content": "null",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(0,70)-(480,108)",
+          "Class": "android.widget.TextView",
+          "Content": "Message",
+          "Children": {}
+        },
+        "4": {
+          "Position": "(70,24)-(130,60)",
+          "Class": "android.widget.TextView",
+          "Content": "Title",
+          "Children": {}
+        },
+        "5": {
+          "Position": "(0,108)-(77,146)",
+          "Class": "android.widget.TextView",
+          "Content": "请稍等...",
+          "Children": {}
+        },
+        "6": {
+          "Position": "(0,654)-(480,702)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "7": {
+              "Position": "(0,0)-(240,48)",
+              "Class": "android.widget.Button",
+              "Content": "重试",
+              "Children": {}
+            },
+            "8": {
+              "Position": "(240,0)-(480,48)",
+              "Class": "android.widget.Button",
+              "Content": "确定",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["PictureListActivity"],
     "Name": "list_item_02",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-list_item_02.png",
-    "Widget List": [
-      "(0,50)-(480,130),android.widget.LinearLayout,null",
-      "(5,0)-(85,80),android.widget.ImageView,null",
-      "(95,0)-(480,75),android.widget.RelativeLayout,null",
-      "(0,5)-(40,29),android.widget.TextView,Title",
-      "(5,29)-(65,43),android.widget.RatingBar,null",
-      "(0,58)-(58,75),android.widget.TextView,Remarks",
-      "(313,58)-(375,75),android.widget.TextView,commant"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,130)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(5,0)-(85,80)",
+          "Class": "android.widget.ImageView",
+          "Content": "null",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(95,0)-(480,75)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "4": {
+              "Position": "(0,5)-(40,29)",
+              "Class": "android.widget.TextView",
+              "Content": "Title",
+              "Children": {}
+            },
+            "5": {
+              "Position": "(5,29)-(65,43)",
+              "Class": "android.widget.RatingBar",
+              "Content": "null",
+              "Children": {}
+            },
+            "6": {
+              "Position": "(0,58)-(58,75)",
+              "Class": "android.widget.TextView",
+              "Content": "Remarks",
+              "Children": {}
+            },
+            "7": {
+              "Position": "(313,58)-(375,75)",
+              "Class": "android.widget.TextView",
+              "Content": "commant",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["RingListActivity"],
     "Name": "common_audiocontroller",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-common_audiocontroller.png",
-    "Widget List": [
-      "(0,50)-(480,124),android.widget.LinearLayout,null",
-      "(0,0)-(480,24),android.widget.RelativeLayout,null",
-      "(5,1)-(43,23),android.widget.TextView,名称",
-      "(462,0)-(480,24),android.widget.TextView,null",
-      "(0,24)-(475,74),android.widget.LinearLayout,null",
-      "(5,0)-(55,50),android.widget.ImageView,null",
-      "(55,0)-(475,40),android.widget.RelativeLayout,null",
-      "(5,3)-(420,18),android.widget.SeekBar,null",
-      "(5,21)-(10,36),android.widget.LinearLayout,null",
-      "(0,0)-(0,15),android.widget.TextView,null",
-      "(0,0)-(5,15),android.widget.TextView,/",
-      "(5,0)-(5,15),android.widget.TextView,null",
-      "(326,21)-(420,40),android.widget.TextView,设为铃声"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,124)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,24)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(5,1)-(43,23)",
+              "Class": "android.widget.TextView",
+              "Content": "名称",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(462,0)-(480,24)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "5": {
+          "Position": "(0,24)-(475,74)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "6": {
+              "Position": "(5,0)-(55,50)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "7": {
+              "Position": "(55,0)-(475,40)",
+              "Class": "android.widget.RelativeLayout",
+              "Content": "null",
+              "Children": {
+                "8": {
+                  "Position": "(5,3)-(420,18)",
+                  "Class": "android.widget.SeekBar",
+                  "Content": "null",
+                  "Children": {}
+                },
+                "9": {
+                  "Position": "(5,21)-(10,36)",
+                  "Class": "android.widget.LinearLayout",
+                  "Content": "null",
+                  "Children": {
+                    "10": {
+                      "Position": "(0,0)-(0,15)",
+                      "Class": "android.widget.TextView",
+                      "Content": "null",
+                      "Children": {}
+                    },
+                    "11": {
+                      "Position": "(0,0)-(5,15)",
+                      "Class": "android.widget.TextView",
+                      "Content": "/",
+                      "Children": {}
+                    },
+                    "12": {
+                      "Position": "(5,0)-(5,15)",
+                      "Class": "android.widget.TextView",
+                      "Content": "null",
+                      "Children": {}
+                    }
+                  }
+                },
+                "13": {
+                  "Position": "(326,21)-(420,40)",
+                  "Class": "android.widget.TextView",
+                  "Content": "设为铃声",
+                  "Children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["RingListActivity"],
     "Name": "ringlist",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-ringlist.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,630),android.widget.RelativeLayout,null",
-      "(0,0)-(480,630),android.widget.ListView,null",
-      "(440,10)-(470,40),android.widget.ProgressBar,null",
-      "(0,630)-(480,702),android.widget.LinearLayout,null",
-      "(0,0)-(480,72),android.widget.RadioGroup,null",
-      "(0,0)-(96,72),android.widget.RadioButton,最新铃声",
-      "(96,0)-(192,72),android.widget.RadioButton,铃声排行",
-      "(192,0)-(288,72),android.widget.RadioButton,精品铃声",
-      "(288,0)-(384,72),android.widget.RadioButton,铃声分类",
-      "(384,0)-(480,72),android.widget.RadioButton,返回上级"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,630)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(480,630)",
+              "Class": "android.widget.ListView",
+              "Content": "null",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(440,10)-(470,40)",
+              "Class": "android.widget.ProgressBar",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "5": {
+          "Position": "(0,630)-(480,702)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "6": {
+              "Position": "(0,0)-(480,72)",
+              "Class": "android.widget.RadioGroup",
+              "Content": "null",
+              "Children": {
+                "7": {
+                  "Position": "(0,0)-(96,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "最新铃声",
+                  "Children": {}
+                },
+                "8": {
+                  "Position": "(96,0)-(192,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "铃声排行",
+                  "Children": {}
+                },
+                "9": {
+                  "Position": "(192,0)-(288,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "精品铃声",
+                  "Children": {}
+                },
+                "10": {
+                  "Position": "(288,0)-(384,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "铃声分类",
+                  "Children": {}
+                },
+                "11": {
+                  "Position": "(384,0)-(480,72)",
+                  "Class": "android.widget.RadioButton",
+                  "Content": "返回上级",
+                  "Children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["PictureCategoryActivity"],
     "Name": "list_item_03",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-list_item_03.png",
-    "Widget List": [
-      "(0,50)-(480,100),android.widget.LinearLayout,null",
-      "(5,0)-(55,50),android.widget.ImageView,null",
-      "(65,0)-(480,50),android.widget.RelativeLayout,null",
-      "(0,5)-(0,29),android.widget.TextView,null",
-      "(0,33)-(0,50),android.widget.TextView,null",
-      "(354,10)-(405,40),android.widget.ImageView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,100)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(5,0)-(55,50)",
+          "Class": "android.widget.ImageView",
+          "Content": "null",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(65,0)-(480,50)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "4": {
+              "Position": "(0,5)-(0,29)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "5": {
+              "Position": "(0,33)-(0,50)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "6": {
+              "Position": "(354,10)-(405,40)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["MainActivity"],
     "Name": "dialog_first",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-dialog_first.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(112,17),android.widget.TextView,亲爱的用户您好："
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(112,17)",
+          "Class": "android.widget.TextView",
+          "Content": "亲爱的用户您好：",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["RingCategoryActivity"],
     "Name": "list_item_07",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-list_item_07.png",
-    "Widget List": [
-      "(0,50)-(480,100),android.widget.LinearLayout,null",
-      "(5,0)-(55,50),android.widget.ImageView,null",
-      "(65,0)-(480,50),android.widget.RelativeLayout,null",
-      "(0,5)-(0,29),android.widget.TextView,null",
-      "(0,33)-(0,50),android.widget.TextView,null",
-      "(354,10)-(405,40),android.widget.ImageView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,100)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(5,0)-(55,50)",
+          "Class": "android.widget.ImageView",
+          "Content": "null",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(65,0)-(480,50)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "4": {
+              "Position": "(0,5)-(0,29)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "5": {
+              "Position": "(0,33)-(0,50)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "6": {
+              "Position": "(354,10)-(405,40)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["RingListActivity"],
     "Name": "list_item_06",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-list_item_06.png",
-    "Widget List": [
-      "(0,50)-(480,130),android.widget.LinearLayout,null",
-      "(3,0)-(83,80),android.widget.ImageView,null",
-      "(91,0)-(480,75),android.widget.RelativeLayout,null",
-      "(0,5)-(40,29),android.widget.TextView,Title",
-      "(5,29)-(65,43),android.widget.RatingBar,null",
-      "(0,58)-(58,75),android.widget.TextView,Remarks",
-      "(317,58)-(379,75),android.widget.TextView,commant"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,130)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(3,0)-(83,80)",
+          "Class": "android.widget.ImageView",
+          "Content": "null",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(91,0)-(480,75)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "4": {
+              "Position": "(0,5)-(40,29)",
+              "Class": "android.widget.TextView",
+              "Content": "Title",
+              "Children": {}
+            },
+            "5": {
+              "Position": "(5,29)-(65,43)",
+              "Class": "android.widget.RatingBar",
+              "Content": "null",
+              "Children": {}
+            },
+            "6": {
+              "Position": "(0,58)-(58,75)",
+              "Class": "android.widget.TextView",
+              "Content": "Remarks",
+              "Children": {}
+            },
+            "7": {
+              "Position": "(317,58)-(379,75)",
+              "Class": "android.widget.TextView",
+              "Content": "commant",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["MyPictureActivity"],
     "Name": "list_item_04",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-list_item_04.png",
-    "Widget List": [
-      "(0,50)-(480,130),android.widget.LinearLayout,null",
-      "(5,0)-(85,80),android.widget.ImageView,null",
-      "(95,0)-(480,75),android.widget.RelativeLayout,null",
-      "(0,5)-(40,29),android.widget.TextView,Title",
-      "(0,29)-(61,46),android.widget.TextView,comment",
-      "(0,57)-(63,75),android.widget.TextView,Remarks"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,130)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(5,0)-(85,80)",
+          "Class": "android.widget.ImageView",
+          "Content": "null",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(95,0)-(480,75)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "4": {
+              "Position": "(0,5)-(40,29)",
+              "Class": "android.widget.TextView",
+              "Content": "Title",
+              "Children": {}
+            },
+            "5": {
+              "Position": "(0,29)-(61,46)",
+              "Class": "android.widget.TextView",
+              "Content": "comment",
+              "Children": {}
+            },
+            "6": {
+              "Position": "(0,57)-(63,75)",
+              "Class": "android.widget.TextView",
+              "Content": "Remarks",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["ContactListActivity"],
     "Name": "list_item_05",
     "Screenshot": ".screenshot/1314646812_com.cc.apk/1314646812_com.cc.apk-list_item_05.png",
-    "Widget List": [
-      "(0,50)-(480,100),android.widget.LinearLayout,null",
-      "(5,0)-(55,50),android.widget.ImageView,null",
-      "(65,0)-(480,50),android.widget.RelativeLayout,null",
-      "(0,5)-(0,29),android.widget.TextView,null",
-      "(0,33)-(0,50),android.widget.TextView,null",
-      "(372,1)-(410,49),android.widget.CheckBox,null",
-      "(15,26)-(37,48),android.widget.ImageView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,100)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(5,0)-(55,50)",
+          "Class": "android.widget.ImageView",
+          "Content": "null",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(65,0)-(480,50)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "4": {
+              "Position": "(0,5)-(0,29)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "5": {
+              "Position": "(0,33)-(0,50)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "6": {
+              "Position": "(372,1)-(410,49)",
+              "Class": "android.widget.CheckBox",
+              "Content": "null",
+              "Children": {}
+            },
+            "7": {
+              "Position": "(15,26)-(37,48)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   }
 ]

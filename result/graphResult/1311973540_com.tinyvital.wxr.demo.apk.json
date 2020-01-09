@@ -3,176 +3,450 @@
   	"ActivityName": ["R$layout"],
     "Name": "expandable_city_row",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-expandable_city_row.png",
-    "Widget List": [
-      "(0,25)-(180,752),android.widget.LinearLayout,null",
-      "(0,0)-(180,182),android.widget.TextView,MainMenu",
-      "(0,182)-(180,364),android.widget.TextView,MainMenu",
-      "(0,364)-(180,546),android.widget.TextView,MainMenu",
-      "(0,546)-(180,727),android.widget.TextView,MainMenu"
-    ]
+    "1": {
+      "Position": "(0,25)-(180,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(180,182)",
+          "Class": "android.widget.TextView",
+          "Content": "MainMenu",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(0,182)-(180,364)",
+          "Class": "android.widget.TextView",
+          "Content": "MainMenu",
+          "Children": {}
+        },
+        "4": {
+          "Position": "(0,364)-(180,546)",
+          "Class": "android.widget.TextView",
+          "Content": "MainMenu",
+          "Children": {}
+        },
+        "5": {
+          "Position": "(0,546)-(180,727)",
+          "Class": "android.widget.TextView",
+          "Content": "MainMenu",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["R$layout"],
     "Name": "site_sel_state_line_layout",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-site_sel_state_line_layout.png",
-    "Widget List": [
-      "(0,25)-(480,58),android.widget.LinearLayout,null",
-      "(1,2)-(479,31),android.widget.TextView,null"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,58)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(1,2)-(479,31)",
+          "Class": "android.widget.TextView",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["LVProdSelAct", "LVSiteSelAct"],
     "Name": "list_view_main",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-list_view_main.png",
-    "Widget List": [
-      "(0,25)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,47),android.widget.TextView,TITLE TEXT FROM  LV.XML",
-      "(0,47)-(480,727),android.widget.ListView,null"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,47)",
+          "Class": "android.widget.TextView",
+          "Content": "TITLE TEXT FROM  LV.XML",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(0,47)-(480,727)",
+          "Class": "android.widget.ListView",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["LVProdSelAct", "LVSiteSelAct"],
     "Name": "chunked_list_view_item",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-chunked_list_view_item.png",
-    "Widget List": [
-      "(0,25)-(480,62),android.widget.TextView,null"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,62)",
+      "Class": "android.widget.TextView",
+      "Content": "null",
+      "Children": {}
+    }
   },
   {
   	"ActivityName": ["R$layout"],
     "Name": "chunked_list_view",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-chunked_list_view.png",
-    "Widget List": [
-      "(0,25)-(480,752),android.widget.ListView,null"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,752)",
+      "Class": "android.widget.ListView",
+      "Content": "null",
+      "Children": {}
+    }
   },
   {
   	"ActivityName": ["StartAct", "HtmlDisplayAct"],
     "Name": "help_page",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-help_page.png",
-    "Widget List": [
-      "(0,25)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,679),android.widget.ScrollView,null",
-      "(0,0)-(480,67),android.widget.LinearLayout,null",
-      "(67,0)-(412,19),android.widget.TextView,This is      some sample text will be overwritten",
-      "(0,19)-(480,67),android.widget.LinearLayout,null",
-      "(0,0)-(126,48),android.widget.Button,I ACCEPT",
-      "(0,679)-(480,727),android.widget.LinearLayout,null",
-      "(0,0)-(67,48),android.widget.Button,BACK",
-      "(67,0)-(135,48),android.widget.Button,NEXT",
-      "(135,0)-(204,48),android.widget.Button,DONE"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,679)",
+          "Class": "android.widget.ScrollView",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(480,67)",
+              "Class": "android.widget.LinearLayout",
+              "Content": "null",
+              "Children": {
+                "4": {
+                  "Position": "(67,0)-(412,19)",
+                  "Class": "android.widget.TextView",
+                  "Content": "This is      some sample text will be overwritten",
+                  "Children": {}
+                },
+                "5": {
+                  "Position": "(0,19)-(480,67)",
+                  "Class": "android.widget.LinearLayout",
+                  "Content": "null",
+                  "Children": {
+                    "6": {
+                      "Position": "(0,0)-(126,48)",
+                      "Class": "android.widget.Button",
+                      "Content": "I ACCEPT",
+                      "Children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "Position": "(0,679)-(480,727)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "8": {
+              "Position": "(0,0)-(67,48)",
+              "Class": "android.widget.Button",
+              "Content": "BACK",
+              "Children": {}
+            },
+            "9": {
+              "Position": "(67,0)-(135,48)",
+              "Class": "android.widget.Button",
+              "Content": "NEXT",
+              "Children": {}
+            },
+            "10": {
+              "Position": "(135,0)-(204,48)",
+              "Class": "android.widget.Button",
+              "Content": "DONE",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["R$layout"],
     "Name": "old_main_menu_layout",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-old_main_menu_layout.png",
-    "Widget List": [
-      "(0,25)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,727),android.widget.LinearLayout,null",
-      "(0,0)-(54,50),android.widget.ImageButton,null",
-      "(54,0)-(480,727),android.widget.TextView,MainMenu",
-      "(0,727)-(480,727),android.widget.ListView,null"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,727)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(54,50)",
+              "Class": "android.widget.ImageButton",
+              "Content": "null",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(54,0)-(480,727)",
+              "Class": "android.widget.TextView",
+              "Content": "MainMenu",
+              "Children": {}
+            }
+          }
+        },
+        "5": {
+          "Position": "(0,727)-(480,727)",
+          "Class": "android.widget.ListView",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["R$layout"],
     "Name": "prod_sel_group_line_layout",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-prod_sel_group_line_layout.png",
-    "Widget List": [
-      "(0,25)-(480,76),android.widget.LinearLayout,null",
-      "(1,2)-(479,49),android.widget.TextView,null"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,76)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(1,2)-(479,49)",
+          "Class": "android.widget.TextView",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["R$layout"],
     "Name": "main_menu_group_line_layout",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-main_menu_group_line_layout.png",
-    "Widget List": [
-      "(0,25)-(480,76),android.widget.LinearLayout,null",
-      "(1,2)-(479,49),android.widget.TextView,null"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,76)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(1,2)-(479,49)",
+          "Class": "android.widget.TextView",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["R$layout"],
     "Name": "prod_sel_line_layout",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-prod_sel_line_layout.png",
-    "Widget List": [
-      "(0,25)-(480,70),android.widget.LinearLayout,null",
-      "(0,0)-(480,34),android.widget.TextView,Children"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,70)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,34)",
+          "Class": "android.widget.TextView",
+          "Content": "Children",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["R$layout"],
     "Name": "main_menu_main_layout",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-main_menu_main_layout.png",
-    "Widget List": [
-      "(0,25)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,727),android.widget.LinearLayout,null",
-      "(0,0)-(444,727),android.widget.TextView,Display Menu",
-      "(444,0)-(480,727),android.widget.ImageButton,null",
-      "(0,727)-(480,727),android.widget.ExpandableListView,null"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,727)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(444,727)",
+              "Class": "android.widget.TextView",
+              "Content": "Display Menu",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(444,0)-(480,727)",
+              "Class": "android.widget.ImageButton",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "5": {
+          "Position": "(0,727)-(480,727)",
+          "Class": "android.widget.ExpandableListView",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["InitializeActivity"],
     "Name": "initialize_screen",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-initialize_screen.png",
-    "Widget List": [
-      "(0,25)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,29),android.widget.TextView,Radar Alive! Startup",
-      "(0,29)-(480,727),android.widget.LinearLayout,null"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,29)",
+          "Class": "android.widget.TextView",
+          "Content": "Radar Alive! Startup",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(0,29)-(480,727)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["R$layout"],
     "Name": "site_sel_main_layout",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-site_sel_main_layout.png",
-    "Widget List": [
-      "(0,25)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,727),android.widget.LinearLayout,null",
-      "(0,0)-(444,727),android.widget.TextView,Select Radar",
-      "(444,0)-(480,727),android.widget.ImageButton,null",
-      "(0,727)-(480,727),android.widget.ExpandableListView,null"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,727)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(444,727)",
+              "Class": "android.widget.TextView",
+              "Content": "Select Radar",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(444,0)-(480,727)",
+              "Class": "android.widget.ImageButton",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "5": {
+          "Position": "(0,727)-(480,727)",
+          "Class": "android.widget.ExpandableListView",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
-  	"ActivityName": ["R$layou"],
+  	"ActivityName": ["R$layout"],
     "Name": "site_sel_site_line_layout",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-site_sel_site_line_layout.png",
-    "Widget List": [
-      "(0,25)-(480,70),android.widget.LinearLayout,null",
-      "(0,0)-(480,34),android.widget.TextView,Children"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,70)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,34)",
+          "Class": "android.widget.TextView",
+          "Content": "Children",
+          "Children": {}
+        }
+      }
+    }
   },
   {
-  	"ActivityName": ["R$layou"],
+  	"ActivityName": ["R$layout"],
     "Name": "prod_sel_main_layout",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-prod_sel_main_layout.png",
-    "Widget List": [
-      "(0,25)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,727),android.widget.LinearLayout,null",
-      "(0,0)-(444,727),android.widget.TextView,Select Product",
-      "(444,0)-(480,727),android.widget.ImageButton,null",
-      "(0,727)-(480,727),android.widget.ExpandableListView,null"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,727)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(444,727)",
+              "Class": "android.widget.TextView",
+              "Content": "Select Product",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(444,0)-(480,727)",
+              "Class": "android.widget.ImageButton",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "5": {
+          "Position": "(0,727)-(480,727)",
+          "Class": "android.widget.ExpandableListView",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
-  	"ActivityName": ["R$layou"],
+  	"ActivityName": ["R$layout"],
     "Name": "one_city_row",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-one_city_row.png",
-    "Widget List": [
-      "(0,25)-(480,70),android.widget.LinearLayout,null",
-      "(0,0)-(480,34),android.widget.TextView,Children"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,70)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,34)",
+          "Class": "android.widget.TextView",
+          "Content": "Children",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["R$layout"],
     "Name": "main_menu_line_layout",
     "Screenshot": ".screenshot/1311973540_com.tinyvital.wxr.demo.apk/1311973540_com.tinyvital.wxr.demo.apk-main_menu_line_layout.png",
-    "Widget List": [
-      "(0,25)-(480,70),android.widget.LinearLayout,null",
-      "(0,0)-(480,34),android.widget.TextView,Children"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,70)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,34)",
+          "Class": "android.widget.TextView",
+          "Content": "Children",
+          "Children": {}
+        }
+      }
+    }
   }
 ]

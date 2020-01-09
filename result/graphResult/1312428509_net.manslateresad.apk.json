@@ -3,33 +3,130 @@
   	"ActivityName": ["TraductorHombre", "TraductorMujer"],
     "Name": "main",
     "Screenshot": ".screenshot/1312428509_net.manslateresad.apk/1312428509_net.manslateresad.apk-main.png",
-    "Widget List": [
-      "(0,25)-(480,752),android.widget.FrameLayout,null",
-      "(0,0)-(480,727),android.widget.RelativeLayout,null",
-      "(0,0)-(480,727),android.widget.RelativeLayout,null",
-      "(0,530)-(183,727),android.widget.ImageView,null",
-      "(12,545)-(179,712),android.widget.ImageView,null",
-      "(0,530)-(183,727),android.widget.ImageView,null",
-      "(0,536)-(183,727),android.widget.ImageView,null",
-      "(12,545)-(179,712),android.widget.ImageView,null",
-      "(0,0)-(480,727),android.widget.RelativeLayout,null",
-      "(291,285)-(463,299),android.widget.ImageView,null",
-      "(291,285)-(463,299),android.widget.ImageView,null",
-      "(356,360)-(398,402),android.widget.ImageButton,null",
-      "(327,310)-(427,333),android.widget.ImageButton,null",
-      "(356,440)-(398,457),android.widget.TextView,...",
-      "(0,0)-(480,727),android.widget.RelativeLayout,null",
-      "(0,363)-(480,363),android.widget.ListView,null"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,752)",
+      "Class": "android.widget.FrameLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,727)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {}
+        },
+        "3": {
+          "Position": "(0,0)-(480,727)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "4": {
+              "Position": "(0,530)-(183,727)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "5": {
+              "Position": "(12,545)-(179,712)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "6": {
+              "Position": "(0,530)-(183,727)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "7": {
+              "Position": "(0,536)-(183,727)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "8": {
+              "Position": "(12,545)-(179,712)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        },
+        "9": {
+          "Position": "(0,0)-(480,727)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "10": {
+              "Position": "(291,285)-(463,299)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "11": {
+              "Position": "(291,285)-(463,299)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "12": {
+              "Position": "(356,360)-(398,402)",
+              "Class": "android.widget.ImageButton",
+              "Content": "null",
+              "Children": {}
+            },
+            "13": {
+              "Position": "(327,310)-(427,333)",
+              "Class": "android.widget.ImageButton",
+              "Content": "null",
+              "Children": {}
+            },
+            "14": {
+              "Position": "(356,440)-(398,457)",
+              "Class": "android.widget.TextView",
+              "Content": "...",
+              "Children": {}
+            }
+          }
+        },
+        "15": {
+          "Position": "(0,0)-(480,727)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "16": {
+              "Position": "(0,363)-(480,363)",
+              "Class": "android.widget.ListView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["listaHombre", "listaMujer"],
     "Name": "lista",
     "Screenshot": ".screenshot/1312428509_net.manslateresad.apk/1312428509_net.manslateresad.apk-lista.png",
-    "Widget List": [
-      "(0,25)-(480,752),android.widget.FrameLayout,null",
-      "(0,0)-(480,727),android.widget.RelativeLayout,null",
-      "(0,363)-(480,363),android.widget.ListView,null"
-    ]
+    "1": {
+      "Position": "(0,25)-(480,752)",
+      "Class": "android.widget.FrameLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,727)",
+          "Class": "android.widget.RelativeLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,363)-(480,363)",
+              "Class": "android.widget.ListView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   }
 ]

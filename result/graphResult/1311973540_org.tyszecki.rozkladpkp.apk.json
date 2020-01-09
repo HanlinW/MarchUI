@@ -3,168 +3,474 @@
   	"ActivityName": ["RozkladPKP"],
     "Name": "main",
     "Screenshot": ".screenshot/1311973540_org.tyszecki.rozkladpkp.apk/1311973540_org.tyszecki.rozkladpkp.apk-main.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.TabHost,null",
-      "(0,0)-(480,702),android.widget.LinearLayout,null",
-      "(1,1)-(479,49),android.widget.TabWidget,null",
-      "(0,0)-(478,48),android.widget.LinearLayout,null",
-      "(0,0)-(0,0),android.widget.ImageView,null",
-      "(208,16)-(269,31),android.widget.TextView,Tab Label",
-      "(1,49)-(479,701),android.widget.FrameLayout,null",
-      "(0,0)-(478,652),android.widget.LinearLayout,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.TabHost",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,702)",
+          "Class": "android.widget.LinearLayout",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(1,1)-(479,49)",
+              "Class": "android.widget.TabWidget",
+              "Content": "null",
+              "Children": {
+                "4": {
+                  "Position": "(0,0)-(478,48)",
+                  "Class": "android.widget.LinearLayout",
+                  "Content": "null",
+                  "Children": {
+                    "5": {
+                      "Position": "(0,0)-(0,0)",
+                      "Class": "android.widget.ImageView",
+                      "Content": "null",
+                      "Children": {}
+                    },
+                    "6": {
+                      "Position": "(208,16)-(269,31)",
+                      "Class": "android.widget.TextView",
+                      "Content": "Tab Label",
+                      "Children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "Position": "(1,49)-(479,701)",
+              "Class": "android.widget.FrameLayout",
+              "Content": "null",
+              "Children": {
+                "8": {
+                  "Position": "(0,0)-(478,652)",
+                  "Class": "android.widget.LinearLayout",
+                  "Content": "null",
+                  "Children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["TrainDetailsActivity"],
     "Name": "train_details",
     "Screenshot": ".screenshot/1311973540_org.tyszecki.rozkladpkp.apk/1311973540_org.tyszecki.rozkladpkp.apk-train_details.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.ListView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.ListView",
+      "Content": "null",
+      "Children": {}
+    }
   },
   {
   	"ActivityName": ["ConnectionListActivity"],
     "Name": "connection_list_row",
     "Screenshot": ".screenshot/1311973540_org.tyszecki.rozkladpkp.apk/1311973540_org.tyszecki.rozkladpkp.apk-connection_list_row.png",
-    "Widget List": [
-      "(0,50)-(480,79),android.widget.TableLayout,null",
-      "(0,0)-(480,29),android.widget.TableRow,null",
-      "(0,9)-(11,20),android.widget.ImageView,null",
-      "(14,6)-(14,23),android.widget.TextView,null",
-      "(27,9)-(38,20),android.widget.ImageView,null",
-      "(41,6)-(41,23),android.widget.TextView,null",
-      "(54,9)-(65,20),android.widget.ImageView,null",
-      "(68,6)-(68,23),android.widget.TextView,null",
-      "(81,9)-(92,20),android.widget.ImageView,null",
-      "(95,6)-(95,23),android.widget.TextView,null",
-      "(108,14)-(480,14),android.widget.LinearLayout,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,79)",
+      "Class": "android.widget.TableLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,29)",
+          "Class": "android.widget.TableRow",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,9)-(11,20)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(14,6)-(14,23)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "5": {
+              "Position": "(27,9)-(38,20)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "6": {
+              "Position": "(41,6)-(41,23)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "7": {
+              "Position": "(54,9)-(65,20)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "8": {
+              "Position": "(68,6)-(68,23)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "9": {
+              "Position": "(81,9)-(92,20)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "10": {
+              "Position": "(95,6)-(95,23)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "11": {
+              "Position": "(108,14)-(480,14)",
+              "Class": "android.widget.LinearLayout",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["ConnectionDetailsActivity"],
     "Name": "connection_details_row",
     "Screenshot": ".screenshot/1311973540_org.tyszecki.rozkladpkp.apk/1311973540_org.tyszecki.rozkladpkp.apk-connection_details_row.png",
-    "Widget List": [
-      "(0,50)-(480,93),android.widget.TableLayout,null",
-      "(0,3)-(480,20),android.widget.TableRow,null",
-      "(0,0)-(11,17),android.widget.ImageView,null",
-      "(14,0)-(14,17),android.widget.TextView,null",
-      "(22,0)-(466,17),android.widget.TextView,test",
-      "(466,0)-(480,17),android.widget.LinearLayout,null",
-      "(0,0)-(11,17),android.widget.ImageView,null",
-      "(14,0)-(14,17),android.widget.TextView,null",
-      "(0,23)-(480,40),android.widget.TableRow,null",
-      "(0,0)-(11,17),android.widget.ImageView,null",
-      "(14,0)-(14,17),android.widget.TextView,null",
-      "(22,0)-(466,17),android.widget.TextView,null",
-      "(469,0)-(480,17),android.widget.TextView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,93)",
+      "Class": "android.widget.TableLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,3)-(480,20)",
+          "Class": "android.widget.TableRow",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(11,17)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(14,0)-(14,17)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "5": {
+              "Position": "(22,0)-(466,17)",
+              "Class": "android.widget.TextView",
+              "Content": "test",
+              "Children": {}
+            },
+            "6": {
+              "Position": "(466,0)-(480,17)",
+              "Class": "android.widget.LinearLayout",
+              "Content": "null",
+              "Children": {
+                "7": {
+                  "Position": "(0,0)-(11,17)",
+                  "Class": "android.widget.ImageView",
+                  "Content": "null",
+                  "Children": {}
+                },
+                "8": {
+                  "Position": "(14,0)-(14,17)",
+                  "Class": "android.widget.TextView",
+                  "Content": "null",
+                  "Children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "Position": "(0,23)-(480,40)",
+          "Class": "android.widget.TableRow",
+          "Content": "null",
+          "Children": {
+            "10": {
+              "Position": "(0,0)-(11,17)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            },
+            "11": {
+              "Position": "(14,0)-(14,17)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "12": {
+              "Position": "(22,0)-(466,17)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "13": {
+              "Position": "(469,0)-(480,17)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["ConnectionDetailsActivity", "ConnectionListActivity"],
     "Name": "scrollitem",
     "Screenshot": ".screenshot/1311973540_org.tyszecki.rozkladpkp.apk/1311973540_org.tyszecki.rozkladpkp.apk-scrollitem.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.LinearLayout,null",
-      "(0,0)-(480,45),android.widget.TextView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.LinearLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,45)",
+          "Class": "android.widget.TextView",
+          "Content": "null",
+          "Children": {}
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["RememberedActivity"],
     "Name": "remembered_list",
     "Screenshot": ".screenshot/1311973540_org.tyszecki.rozkladpkp.apk/1311973540_org.tyszecki.rozkladpkp.apk-remembered_list.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.ListView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.ListView",
+      "Content": "null",
+      "Children": {}
+    }
   },
   {
   	"ActivityName": ["ConnectionListActivity"],
     "Name": "connection_list",
     "Screenshot": ".screenshot/1311973540_org.tyszecki.rozkladpkp.apk/1311973540_org.tyszecki.rozkladpkp.apk-connection_list.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.ListView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.ListView",
+      "Content": "null",
+      "Children": {}
+    }
   },
   {
   	"ActivityName": ["TimetableActivity"],
     "Name": "timetable",
     "Screenshot": ".screenshot/1311973540_org.tyszecki.rozkladpkp.apk/1311973540_org.tyszecki.rozkladpkp.apk-timetable.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.ListView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.ListView",
+      "Content": "null",
+      "Children": {}
+    }
   },
   {
   	"ActivityName": ["RememberedActivity"],
     "Name": "remembered_row",
     "Screenshot": ".screenshot/1311973540_org.tyszecki.rozkladpkp.apk/1311973540_org.tyszecki.rozkladpkp.apk-remembered_row.png",
-    "Widget List": [
-      "(0,50)-(480,114),android.widget.TableLayout,null",
-      "(0,0)-(480,29),android.widget.TableRow,null",
-      "(0,6)-(469,23),android.widget.TextView,null",
-      "(469,9)-(480,20),android.widget.ImageView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,114)",
+      "Class": "android.widget.TableLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,29)",
+          "Class": "android.widget.TableRow",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,6)-(469,23)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(469,9)-(480,20)",
+              "Class": "android.widget.ImageView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["TrainDetailsActivity"],
     "Name": "train_details_header",
     "Screenshot": ".screenshot/1311973540_org.tyszecki.rozkladpkp.apk/1311973540_org.tyszecki.rozkladpkp.apk-train_details_header.png",
-    "Widget List": [
-      "(0,50)-(480,67),android.widget.TextView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,67)",
+      "Class": "android.widget.TextView",
+      "Content": "null",
+      "Children": {}
+    }
   },
   {
   	"ActivityName": ["ConnectionDetailsActivity", "ConnectionListActivity", "TimetableActivity", "RememberedActivity"],
     "Name": "common_date_header_row",
     "Screenshot": ".screenshot/1311973540_org.tyszecki.rozkladpkp.apk/1311973540_org.tyszecki.rozkladpkp.apk-common_date_header_row.png",
-    "Widget List": [
-      "(0,50)-(480,75),android.widget.TextView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,75)",
+      "Class": "android.widget.TextView",
+      "Content": "null",
+      "Children": {}
+    }
   },
   {
   	"ActivityName": ["RouteActivity", "TrainDetailsActivity"],
     "Name": "route_row",
     "Screenshot": ".screenshot/1311973540_org.tyszecki.rozkladpkp.apk/1311973540_org.tyszecki.rozkladpkp.apk-route_row.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.TableLayout,null",
-      "(0,0)-(480,702),android.widget.TableRow,null",
-      "(0,0)-(0,702),android.view.View,null",
-      "(6,0)-(26,702),android.widget.TableLayout,null",
-      "(0,0)-(20,17),android.widget.TableRow,null",
-      "(0,0)-(14,17),android.widget.TextView,P",
-      "(14,0)-(20,17),android.widget.TextView,null",
-      "(0,17)-(20,34),android.widget.TableRow,null",
-      "(0,0)-(14,17),android.widget.TextView,O",
-      "(14,0)-(20,17),android.widget.TextView,null",
-      "(26,0)-(480,702),android.widget.TextView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.TableLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,702)",
+          "Class": "android.widget.TableRow",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,0)-(0,702)",
+              "Class": "android.view.View",
+              "Content": "null",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(6,0)-(26,702)",
+              "Class": "android.widget.TableLayout",
+              "Content": "null",
+              "Children": {
+                "5": {
+                  "Position": "(0,0)-(20,17)",
+                  "Class": "android.widget.TableRow",
+                  "Content": "null",
+                  "Children": {
+                    "6": {
+                      "Position": "(0,0)-(14,17)",
+                      "Class": "android.widget.TextView",
+                      "Content": "P",
+                      "Children": {}
+                    },
+                    "7": {
+                      "Position": "(14,0)-(20,17)",
+                      "Class": "android.widget.TextView",
+                      "Content": "null",
+                      "Children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "Position": "(0,17)-(20,34)",
+                  "Class": "android.widget.TableRow",
+                  "Content": "null",
+                  "Children": {
+                    "9": {
+                      "Position": "(0,0)-(14,17)",
+                      "Class": "android.widget.TextView",
+                      "Content": "O",
+                      "Children": {}
+                    },
+                    "10": {
+                      "Position": "(14,0)-(20,17)",
+                      "Class": "android.widget.TextView",
+                      "Content": "null",
+                      "Children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "11": {
+              "Position": "(26,0)-(480,702)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["ConnectionDetailsActivity"],
     "Name": "connection_details",
     "Screenshot": ".screenshot/1311973540_org.tyszecki.rozkladpkp.apk/1311973540_org.tyszecki.rozkladpkp.apk-connection_details.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.ListView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.ListView",
+      "Content": "null",
+      "Children": {}
+    }
   },
   {
   	"ActivityName": ["TimetableActivity"],
     "Name": "timetable_row",
     "Screenshot": ".screenshot/1311973540_org.tyszecki.rozkladpkp.apk/1311973540_org.tyszecki.rozkladpkp.apk-timetable_row.png",
-    "Widget List": [
-      "(0,50)-(480,114),android.widget.TableLayout,null",
-      "(0,0)-(480,29),android.widget.TableRow,null",
-      "(0,6)-(0,23),android.widget.TextView,null",
-      "(0,6)-(0,23),android.widget.TextView,null",
-      "(3,6)-(3,23),android.widget.TextView,null",
-      "(6,6)-(480,23),android.widget.TextView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,114)",
+      "Class": "android.widget.TableLayout",
+      "Content": "null",
+      "Children": {
+        "2": {
+          "Position": "(0,0)-(480,29)",
+          "Class": "android.widget.TableRow",
+          "Content": "null",
+          "Children": {
+            "3": {
+              "Position": "(0,6)-(0,23)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "4": {
+              "Position": "(0,6)-(0,23)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "5": {
+              "Position": "(3,6)-(3,23)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            },
+            "6": {
+              "Position": "(6,6)-(480,23)",
+              "Class": "android.widget.TextView",
+              "Content": "null",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
   },
   {
   	"ActivityName": ["RouteActivity"],
     "Name": "route",
     "Screenshot": ".screenshot/1311973540_org.tyszecki.rozkladpkp.apk/1311973540_org.tyszecki.rozkladpkp.apk-route.png",
-    "Widget List": [
-      "(0,50)-(480,752),android.widget.ListView,null"
-    ]
+    "1": {
+      "Position": "(0,50)-(480,752)",
+      "Class": "android.widget.ListView",
+      "Content": "null",
+      "Children": {}
+    }
   }
 ]
