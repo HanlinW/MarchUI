@@ -1,0 +1,354 @@
+Hash: 102659957
+SourceActivity: .MobileSudoku
+DialogClass: class android.app.AlertDialog
+DialogTitle: Welcome
+Hash: 188071239
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1776974}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 112074514
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class android.widget.Button
+WidgetID: com.icenta.sudoku.ui:id/load_last
+ButtonText: Resume Game
+Hash: 124367864
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class com.icenta.sudoku.ui.GameView
+WidgetID: com.icenta.sudoku.ui:id/game
+Hash: 124367864
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class com.icenta.sudoku.ui.GameView
+WidgetID: com.icenta.sudoku.ui:id/game
+Hash: 124367864
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class com.icenta.sudoku.ui.GameView
+WidgetID: com.icenta.sudoku.ui:id/game
+Hash: 124367864
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class com.icenta.sudoku.ui.GameView
+WidgetID: com.icenta.sudoku.ui:id/game
+Hash: 32902968
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class android.webkit.WebView
+Hash: BACK
+SourceActivity: .MobileSudoku
+TargetActivity: .MobileSudoku
+Hash: 209852324
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class android.widget.Button
+WidgetID: com.icenta.sudoku.ui:id/new_puzzle_easy
+ButtonText: Easy
+Hash: 198575407
+SourceActivity: .MobileSudoku
+DialogClass: class android.app.AlertDialog
+DialogTitle: Please select
+Hash: 17741628
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3807cc5}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: New
+Hash: BACK
+SourceActivity: .MobileSudoku
+TargetActivity: .MobileSudoku
+Hash: 209852324
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class android.widget.Button
+WidgetID: com.icenta.sudoku.ui:id/new_puzzle_easy
+ButtonText: Easy
+Hash: 74232276
+SourceActivity: .MobileSudoku
+DialogClass: class android.app.AlertDialog
+DialogTitle: Please select
+Hash: 242122621
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7928e72}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Resume
+Hash: BACK
+SourceActivity: .MobileSudoku
+TargetActivity: .MobileSudoku
+Hash: 257464351
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class android.widget.Button
+WidgetID: com.icenta.sudoku.ui:id/new_puzzle_medium
+ButtonText: Medium
+Hash: 125925834
+SourceActivity: .MobileSudoku
+DialogClass: class android.app.AlertDialog
+DialogTitle: Please select
+Hash: 24680251
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {10e8e58}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: New
+Hash: BACK
+SourceActivity: .MobileSudoku
+TargetActivity: .MobileSudoku
+Hash: 257464351
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class android.widget.Button
+WidgetID: com.icenta.sudoku.ui:id/new_puzzle_medium
+ButtonText: Medium
+Hash: 206877363
+SourceActivity: .MobileSudoku
+DialogClass: class android.app.AlertDialog
+DialogTitle: Please select
+Hash: 133484656
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15f0fe9}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Resume
+Hash: BACK
+SourceActivity: .MobileSudoku
+TargetActivity: .MobileSudoku
+Hash: 39053690
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class android.widget.Button
+WidgetID: com.icenta.sudoku.ui:id/new_puzzle_hard
+ButtonText: Hard
+Hash: 207606561
+SourceActivity: .MobileSudoku
+DialogClass: class android.app.AlertDialog
+DialogTitle: Please select
+Hash: 61285190
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {90d8907}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: New
+Hash: BACK
+SourceActivity: .MobileSudoku
+TargetActivity: .MobileSudoku
+Hash: 39053690
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class android.widget.Button
+WidgetID: com.icenta.sudoku.ui:id/new_puzzle_hard
+ButtonText: Hard
+Hash: 210945681
+SourceActivity: .MobileSudoku
+DialogClass: class android.app.AlertDialog
+DialogTitle: Please select
+Hash: 136636918
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {144c1f7}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Resume
+Hash: BACK
+SourceActivity: .MobileSudoku
+TargetActivity: .MobileSudoku
+Hash: 183584464
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class android.widget.Button
+WidgetID: com.icenta.sudoku.ui:id/new_puzzle_very
+ButtonText: Extreme
+Hash: 141112587
+SourceActivity: .MobileSudoku
+DialogClass: class android.app.AlertDialog
+DialogTitle: Please select
+Hash: 74915816
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e17601}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: New
+Hash: BACK
+SourceActivity: .MobileSudoku
+TargetActivity: .MobileSudoku
+Hash: 183584464
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class android.widget.Button
+WidgetID: com.icenta.sudoku.ui:id/new_puzzle_very
+ButtonText: Extreme
+Hash: 143393792
+SourceActivity: .MobileSudoku
+DialogClass: class android.app.AlertDialog
+DialogTitle: Please select
+Hash: 81126457
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7b1ba7e}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Resume
+Hash: BACK
+SourceActivity: .MobileSudoku
+TargetActivity: .MobileSudoku
+Hash: 45446907
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class android.widget.Button
+WidgetID: com.icenta.sudoku.ui:id/config
+ButtonText: Settings
+Hash: 109226182
+SourceActivity: .Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4326087}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 109226182
+SourceActivity: .Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4326087}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 109226182
+SourceActivity: .Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4326087}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 95296664
+SourceActivity: .Settings
+DialogClass: class android.app.AlertDialog
+DialogTitle: Email:
+Hash: 37287745
+SourceActivity: .Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {add44e6}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 109226182
+SourceActivity: .Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4326087}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 193802929
+SourceActivity: .Settings
+DialogClass: class android.app.AlertDialog
+DialogTitle: Password:
+Hash: 150321616
+SourceActivity: .Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {61dadc9}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 109226182
+SourceActivity: .Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4326087}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 76110211
+SourceActivity: .Settings
+DialogClass: class android.app.AlertDialog
+DialogTitle: Alias:
+Hash: 228232667
+SourceActivity: .Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4695078}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 109226182
+SourceActivity: .Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4326087}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 26649547
+SourceActivity: .Settings
+DialogClass: class android.app.AlertDialog
+DialogTitle: Email:
+Hash: 27674194
+SourceActivity: .Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a51d23}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 109226182
+SourceActivity: .Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4326087}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 142111568
+SourceActivity: .Settings
+DialogClass: class android.app.AlertDialog
+DialogTitle: Password:
+Hash: 7645370
+SourceActivity: .Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6f0b36b}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 109226182
+SourceActivity: .Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4326087}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 178828394
+SourceActivity: .Settings
+DialogClass: class android.app.AlertDialog
+DialogTitle: Alias:
+Hash: 68898797
+SourceActivity: .Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {496e22}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: BACK
+SourceActivity: .MobileSudoku
+TargetActivity: .MobileSudoku
+Hash: 249470842
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class android.widget.Button
+WidgetID: com.icenta.sudoku.ui:id/help
+ButtonText: How-To
+Hash: 118334418
+SourceActivity: .MobileSudoku
+DialogClass: class android.app.AlertDialog
+DialogTitle: How-To
+Hash: 254078115
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {be49ba0}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 92154654
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f86e6e3}
+Class: class android.widget.Button
+WidgetID: com.icenta.sudoku.ui:id/buy
+ButtonText: Buy Ad-Free
+Hash: MENU
+Hash: MENU
+Hash: 75121811
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5a62cd0}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 213607130
+SourceActivity: .MobileSudoku
+DialogClass: class android.app.AlertDialog
+DialogTitle: Feedback
+Hash: 143336449
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1fcd2a6}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: MENU
+Hash: MENU
+Hash: 72505492
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {484ff3d}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 42185483
+SourceActivity: .MobileSudoku
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {484ff3d}
+Class: class com.android.internal.policy.PhoneWindow$DecorView
