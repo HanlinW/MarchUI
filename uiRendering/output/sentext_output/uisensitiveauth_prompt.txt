@@ -1,0 +1,5 @@
+id: -1 res id: null
+id: 2131361794 res id: id/usernameField
+id: 2131361795 res id: id/passwordField
+editbox[null]: 2131361794 res id: id/usernameField
+editbox[null]: 2131361795 res id: id/passwordField

@@ -1,0 +1,25 @@
+id: -1 res id: null
+id: 2131165244 res id: id/scrollView1
+id: 2131165191 res id: id/linearLayout2
+id: 2131165188 res id: id/textView1
+id: -1 res id: null
+id: -1 res id: null
+id: 2131165237 res id: id/textView2
+id: -1 res id: null
+id: -1 res id: null
+id: 2131165251 res id: id/textView3
+id: -1 res id: null
+id: -1 res id: null
+id: 2131165252 res id: id/textView4
+id: 2131165190 res id: id/linearLayout3
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131165186 res id: id/linearLayout1
+id: 2131165195 res id: id/button1
+editbox[Купить PRO-версию за US$2.99]: 2131165195 res id: id/button1

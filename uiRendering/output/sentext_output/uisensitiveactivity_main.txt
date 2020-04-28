@@ -1,0 +1,8 @@
+id: 2131558483 res id: id/drawer_layout
+id: 2131558484 res id: id/container
+id: 2131558466 res id: id/action_bar
+id: 2131558485 res id: id/navigation_drawer
+id: 2131558486 res id: id/navTitle
+id: 2131558487 res id: id/navSubTitle
+id: 2131558488 res id: id/navHeader
+id: 2131558489 res id: id/lv

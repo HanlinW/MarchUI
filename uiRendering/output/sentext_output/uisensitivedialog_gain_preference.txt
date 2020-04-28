@@ -1,0 +1,5 @@
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131492887 res id: id/seekbar
+id: 2131492888 res id: id/lGain

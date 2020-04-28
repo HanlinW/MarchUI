@@ -1,0 +1,3 @@
+APK, Layout, Widget ID, Widget ID Name, Widget Type, Widget Text, Text, Tag
+de.ub0r.android.smsdroid.apk,donation,2131296278,id/paypalid,android.widget.EditText,Paypal address,<NULL>,UiLocation
+de.ub0r.android.smsdroid.apk,donation,2131296276,id/donate_paypal,android.widget.Button,Donate (Paypal),<NULL>,UiFinancialInfo

@@ -1,0 +1,5 @@
+id: -1 res id: null
+id: 2131165188 res id: id/textView1
+id: 2131165186 res id: id/linearLayout1
+id: 2131165237 res id: id/textView2
+id: 2131165251 res id: id/textView3

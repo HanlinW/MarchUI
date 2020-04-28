@@ -1,0 +1,11 @@
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131492971 res id: id/ui_states_view
+id: 2131492972 res id: id/ui_states_warning
+id: 2131492973 res id: id/ui_header_additional_states
+id: 2131492974 res id: id/ui_additional_states
+id: 2131492975 res id: id/ui_header_total_state_time
+id: 2131492976 res id: id/ui_total_state_time
+id: -1 res id: null
+id: 2131492977 res id: id/ui_kernel_string

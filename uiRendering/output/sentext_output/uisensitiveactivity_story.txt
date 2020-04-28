@@ -1,0 +1,7 @@
+id: -1 res id: null
+id: 2131427394 res id: id/storyImageView
+id: 2131427395 res id: id/storyTextView
+id: 2131427396 res id: id/choiceButton2
+id: 2131427397 res id: id/choiceButton1
+editbox[Stop and investigate]: 2131427396 res id: id/choiceButton2
+editbox[Continue home to earth]: 2131427397 res id: id/choiceButton1

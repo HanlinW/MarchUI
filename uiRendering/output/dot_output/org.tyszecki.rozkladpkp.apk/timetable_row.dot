@@ -1,0 +1,13 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,50)-(480,114) android.widget.TableLayout:null" ];
+  2 [ label="[ffffffff] at (0,0)-(480,29) android.widget.TableRow:null" ];
+  3 [ label="[7f080028] at (0,6)-(0,23) android.widget.TextView:null" ];
+  4 [ label="[7f080029] at (0,6)-(0,23) android.widget.TextView:null" ];
+  5 [ label="[7f08000a] at (3,6)-(3,23) android.widget.TextView:null" ];
+  6 [ label="[7f080022] at (6,6)-(480,23) android.widget.TextView:null" ];
+  1 -> 2;
+  2 -> 3;
+  2 -> 4;
+  2 -> 5;
+  2 -> 6;
+}

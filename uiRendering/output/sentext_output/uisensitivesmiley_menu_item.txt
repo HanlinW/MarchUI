@@ -1,0 +1,4 @@
+id: -1 res id: null
+id: 2131558563 res id: id/smiley_icon
+id: 2131558564 res id: id/smiley_name
+id: 2131558565 res id: id/smiley_text

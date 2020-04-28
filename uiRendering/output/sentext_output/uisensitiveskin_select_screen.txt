@@ -1,0 +1,13 @@
+id: -1 res id: null
+id: -1 res id: null
+id: 2131558546 res id: id/skin_selection_logo_image
+id: 2131558547 res id: id/tableLayout1
+id: 2131558548 res id: id/tableRow1
+id: 2131558549 res id: id/default_skin_button
+id: 2131558550 res id: id/hiphop_skin_button
+id: 2131558551 res id: id/tableRow2
+id: 2131558552 res id: id/regular_skin_button
+id: 2131558553 res id: id/valentine_skin_button
+id: 2131558554 res id: id/tableRow3
+id: 2131558555 res id: id/horror_skin_button
+id: 2131558556 res id: id/summer_skin_button

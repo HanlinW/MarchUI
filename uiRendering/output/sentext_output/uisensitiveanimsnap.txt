@@ -1,0 +1,4 @@
+id: -1 res id: null
+id: 2131165187 res id: id/animSnapTip
+id: 2131165185 res id: id/btnNext
+editbox[SKIP]: 2131165185 res id: id/btnNext

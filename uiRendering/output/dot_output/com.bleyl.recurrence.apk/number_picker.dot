@@ -1,0 +1,21 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,752) android.widget.LinearLayout:null" ];
+  2 [ label="[7f0f00d4] at (154,297)-(232,429) android.widget.NumberPicker:null" ];
+  3 [ label="[01020335] at (0,0)-(78,44) android.widget.ImageButton:null" ];
+  4 [ label="[01020336] at (0,44)-(78,88) android.widget.EditText:0" ];
+  5 [ label="[01020337] at (0,88)-(78,132) android.widget.ImageButton:null" ];
+  6 [ label="[ffffffff] at (232,363)-(248,363) android.widget.Space:null" ];
+  7 [ label="[7f0f00d5] at (248,297)-(326,429) android.widget.NumberPicker:null" ];
+  8 [ label="[01020335] at (0,0)-(78,44) android.widget.ImageButton:null" ];
+  9 [ label="[01020336] at (0,44)-(78,88) android.widget.EditText:0" ];
+  10 [ label="[01020337] at (0,88)-(78,132) android.widget.ImageButton:null" ];
+  1 -> 2;
+  2 -> 3;
+  2 -> 4;
+  2 -> 5;
+  1 -> 6;
+  1 -> 7;
+  7 -> 8;
+  7 -> 9;
+  7 -> 10;
+}

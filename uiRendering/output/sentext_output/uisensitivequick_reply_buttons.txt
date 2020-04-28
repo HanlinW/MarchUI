@@ -1,0 +1,11 @@
+id: 2131558521 res id: id/compose_header
+id: -1 res id: null
+id: -1 res id: null
+id: 2131558422 res id: id/logo_image
+id: 2131558522 res id: id/recipient_avatar
+id: 2131558523 res id: id/contactNameOrNumberTextView
+id: 2131558524 res id: id/buttons_layout
+id: 2131558525 res id: id/button_theme
+id: 2131558459 res id: id/button_icon
+id: 2131558526 res id: id/button_close
+id: 2131558527 res id: id/bottom_text_sender

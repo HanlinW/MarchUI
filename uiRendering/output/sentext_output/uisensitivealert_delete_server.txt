@@ -1,0 +1,4 @@
+id: 2131361792 res id: id/layout_root
+id: 2131361793 res id: id/checkDeleteFiles
+id: -1 res id: null
+editbox[null]: 2131361793 res id: id/checkDeleteFiles

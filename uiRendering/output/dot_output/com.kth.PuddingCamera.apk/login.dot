@@ -1,0 +1,5 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,0)-(480,752) android.widget.LinearLayout:null" ];
+  2 [ label="[7f09004c] at (0,0)-(480,752) android.webkit.WebView:WebView" ];
+  1 -> 2;
+}

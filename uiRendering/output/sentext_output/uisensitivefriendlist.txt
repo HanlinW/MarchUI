@@ -1,0 +1,15 @@
+id: 2131361880 res id: id/FriendListRoot
+id: 2131361858 res id: id/friend_button_group_ID
+id: 2131361876 res id: id/friend_list_hmd_buts
+id: 2131361877 res id: id/btn_contactlist_phone
+id: 2131361878 res id: id/btn_contactlist_friend
+id: 2131361879 res id: id/btn_contactlist_heimidan
+id: -1 res id: null
+id: 2131361881 res id: id/HorizontalScrollViewFriendGroup
+id: 2131361882 res id: id/FriendGroupContainer
+id: -1 res id: null
+id: 2131361883 res id: id/FriendList_List
+id: 2131361884 res id: id/FriendListProcessBar
+editbox[通讯录好友]: 2131361877 res id: id/btn_contactlist_phone
+editbox[CC好友]: 2131361878 res id: id/btn_contactlist_friend
+editbox[黑名单]: 2131361879 res id: id/btn_contactlist_heimidan

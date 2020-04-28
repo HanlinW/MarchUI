@@ -1,0 +1,10 @@
+id: -1 res id: null
+id: -1 res id: null
+id: 2131492883 res id: id/lVersi
+id: 2131492884 res id: id/lPackageName
+id: -1 res id: null
+id: 2131492885 res id: id/bSeeOtherApps
+id: -1 res id: null
+id: 2131492886 res id: id/bAboutLame
+editbox[Lihat aplikasi lain dari Yuku]: 2131492885 res id: id/bSeeOtherApps
+editbox[Tentang LAME]: 2131492886 res id: id/bAboutLame

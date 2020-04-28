@@ -1,0 +1,7 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,177) android.widget.LinearLayout:null" ];
+  2 [ label="[ffffffff] at (8,8)-(472,96) android.widget.TextView:Saran: Ketika Anda memutar suatu rekaman dengan ponsel Anda, kualitas suara yang diperdengarkan mungkin tidak begitu baik. Coba memutarnya di komputer." ];
+  3 [ label="[7f0c001b] at (8,96)-(277,144) android.widget.CheckBox:Jangan tampilkan pesan ini lagi" ];
+  1 -> 2;
+  1 -> 3;
+}

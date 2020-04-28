@@ -1,0 +1,16 @@
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131492868 res id: id/tLog
+id: -1 res id: null
+id: 2131492869 res id: id/lHasil
+id: -1 res id: null
+id: 2131492870 res id: id/bUlang
+id: -1 res id: null
+id: 2131492871 res id: id/bLanjut
+editbox[Harap tunggu...]: 2131492868 res id: id/tLog
+editbox[Ulangi]: 2131492870 res id: id/bUlang
+editbox[Continue]: 2131492871 res id: id/bLanjut
+Textview id -1 res id: null - text 2. Cukup cepat dalam menghasilkan MP3 seketika itu juga
+Textview id -1 res id: null - text 1. Bisa merekam dalam 44kHz (atau 22kHz)

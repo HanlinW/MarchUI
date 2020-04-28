@@ -1,0 +1,3 @@
+id: -1 res id: null
+id: 2131034118 res id: id/imageView
+id: 2131034119 res id: id/imageTitle

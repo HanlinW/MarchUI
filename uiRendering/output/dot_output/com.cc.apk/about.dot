@@ -1,0 +1,23 @@
+strict digraph G {
+  1 [ label="[7f0a0000] at (0,50)-(480,752) android.widget.RelativeLayout:null" ];
+  2 [ label="[7f0a0001] at (10,10)-(60,60) android.widget.ImageView:null" ];
+  3 [ label="[7f0a0002] at (0,70)-(480,114) android.widget.TextView:CC  (android)" ];
+  4 [ label="[7f0a0003] at (70,24)-(168,60) android.widget.TextView:关于CC" ];
+  5 [ label="[7f0a0004] at (0,114)-(480,188) android.widget.TextView:官网：www.cc369.cn\n　　　wap.cc369.cn\n论坛：bbs.cc369.cn\n电话：4008879225\n邮箱：support@cc369.cn\nQQ群：105490156\n\n" ];
+  6 [ label="[7f0a0005] at (0,188)-(480,232) android.widget.LinearLayout:null" ];
+  7 [ label="[7f0a0006] at (5,5)-(81,39) android.widget.Button:卸载CC" ];
+  8 [ label="[7f0a0007] at (91,5)-(241,39) android.widget.Button:检查更新并升级" ];
+  9 [ label="[7f0a0008] at (0,232)-(480,276) android.widget.LinearLayout:null" ];
+  10 [ label="[7f0a0009] at (5,5)-(135,39) android.widget.Button:提供改进意见" ];
+  11 [ label="[7f0a000a] at (0,672)-(480,702) android.widget.Button:返回" ];
+  1 -> 2;
+  1 -> 3;
+  1 -> 4;
+  1 -> 5;
+  1 -> 6;
+  6 -> 7;
+  6 -> 8;
+  1 -> 9;
+  9 -> 10;
+  1 -> 11;
+}

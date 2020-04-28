@@ -1,0 +1,6 @@
+id: -1 res id: null
+id: -1 res id: null
+id: 2131230760 res id: id/time
+id: 2131230761 res id: id/train_type
+id: 2131230730 res id: id/train_number
+id: 2131230754 res id: id/station

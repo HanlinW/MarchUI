@@ -1,0 +1,6 @@
+id: -1 res id: null
+id: 2131361898 res id: id/ListItemImage03
+id: -1 res id: null
+id: 2131361899 res id: id/ListItemText03
+id: 2131361900 res id: id/ListItemRemarks03
+id: -1 res id: null

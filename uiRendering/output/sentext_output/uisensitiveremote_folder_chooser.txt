@@ -1,0 +1,5 @@
+id: -1 res id: null
+id: 2131361796 res id: id/file_toolbar
+id: 2131361797 res id: id/button_selectFolder
+id: 16908298 res id: null
+editbox[Выберите]: 2131361797 res id: id/button_selectFolder

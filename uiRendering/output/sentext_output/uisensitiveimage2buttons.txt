@@ -1,0 +1,8 @@
+id: 2131165262 res id: id/_i2b_RelativeLayout
+id: 2131165263 res id: id/_i2b_TextView01
+id: 2131165264 res id: id/_i2b_ImageView
+id: 2131165265 res id: id/_i2b_ButtonCam
+id: 2131165266 res id: id/_i2b_ButtonGal
+id: 2131165206 res id: id/TextView01
+editbox[С камеры]: 2131165265 res id: id/_i2b_ButtonCam
+editbox[Из Галереи]: 2131165266 res id: id/_i2b_ButtonGal

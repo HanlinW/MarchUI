@@ -1,0 +1,5 @@
+APK, Layout, Widget ID, Widget ID Name, Widget Type, Widget Text, Text, Tag
+com.cc.apk,alert_friend,2131361805,id/alert_friend_number,android.widget.EditText,请输入手机号,<NULL>,UiContact
+com.cc.apk,alert_friend_add,2131361805,id/alert_friend_number,android.widget.EditText,请输入手机号,<NULL>,UiContact
+com.cc.apk,alert_hmd_add,2131361811,id/alert_hmd_number,android.widget.EditText,请输入手机号,<NULL>,UiContact
+com.cc.apk,alert_shareto,2131361812,id/alert_shareto_number,android.widget.EditText,请输入好友手机号,<NULL>,UiContact

@@ -1,0 +1,10 @@
+id: 2131558420 res id: id/checkable_message_list
+id: 2131558421 res id: id/action_bar_checkable_screen
+id: 2131558422 res id: id/logo_image
+id: 2131558423 res id: id/text_caption
+id: 2131558424 res id: id/button_sort
+id: 16908298 res id: null
+id: 2131558425 res id: id/bottom_button_bar
+id: -1 res id: null
+id: 2131558426 res id: id/button_delete
+id: 2131558427 res id: id/button_cancel

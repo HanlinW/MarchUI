@@ -1,0 +1,23 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,752) android.widget.LinearLayout:null" ];
+  2 [ label="[ffffffff] at (16,16)-(464,198) android.widget.LinearLayout:null" ];
+  3 [ label="[7f0c003f] at (0,0)-(448,182) android.widget.ImageView:null" ];
+  4 [ label="[7f0c0040] at (156,218)-(324,235) android.widget.TextView:Privacy friendly Torchlight" ];
+  5 [ label="[7f0c0041] at (206,245)-(274,262) android.widget.TextView:Version 1.1" ];
+  6 [ label="[7f0c0042] at (176,272)-(303,289) android.widget.TextView:Author: Philipp Rack" ];
+  7 [ label="[7f0c0043] at (180,329)-(299,346) android.widget.TextView:In affiliation with:" ];
+  8 [ label="[7f0c0044] at (16,346)-(306,437) android.widget.ImageView:null" ];
+  9 [ label="[ffffffff] at (71,467)-(408,484) android.widget.TextView:This application belongs to the Privacy Friendly Apps." ];
+  10 [ label="[ffffffff] at (129,504)-(350,521) android.widget.TextView:More information can be found on:" ];
+  11 [ label="[ffffffff] at (158,521)-(321,538) android.widget.TextView:https://www.secuso.org" ];
+  1 -> 2;
+  2 -> 3;
+  1 -> 4;
+  1 -> 5;
+  1 -> 6;
+  1 -> 7;
+  1 -> 8;
+  1 -> 9;
+  1 -> 10;
+  1 -> 11;
+}

@@ -1,0 +1,9 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (12,9)-(212,105) android.widget.LinearLayout:null" ];
+  2 [ label="[7f070004] at (0,0)-(200,48) android.widget.EditText:null" ];
+  3 [ label="[ffffffff] at (0,48)-(200,96) android.widget.LinearLayout:null" ];
+  4 [ label="[7f07000d] at (75,0)-(125,48) android.widget.Button:儲存" ];
+  1 -> 2;
+  1 -> 3;
+  3 -> 4;
+}

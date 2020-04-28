@@ -1,0 +1,5 @@
+id: -1 res id: null
+id: 2131558574 res id: id/send_review_button
+id: 2131558575 res id: id/rate_us_button
+editbox[Tell us what you think]: 2131558574 res id: id/send_review_button
+editbox[Rate us]: 2131558575 res id: id/rate_us_button

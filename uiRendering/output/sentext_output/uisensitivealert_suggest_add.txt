@@ -1,0 +1,5 @@
+id: -1 res id: null
+id: -1 res id: null
+id: 2131361813 res id: id/suggest_value_et
+editbox[null]: 2131361813 res id: id/suggest_value_et
+Textview id -1 res id: null - text 建议:

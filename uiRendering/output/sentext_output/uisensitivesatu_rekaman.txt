@@ -1,0 +1,6 @@
+id: -1 res id: null
+id: 2131492892 res id: id/bPlay
+id: -1 res id: null
+id: 2131492893 res id: id/lTanggal
+id: 2131492894 res id: id/lJam
+id: 2131492895 res id: id/lDurasi

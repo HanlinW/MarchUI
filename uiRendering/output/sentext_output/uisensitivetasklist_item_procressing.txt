@@ -1,0 +1,8 @@
+id: -1 res id: null
+id: 2131361970 res id: id/task_item_procressing_realat_1
+id: 2131361971 res id: id/task_item_procressing_taskName
+id: 2131361972 res id: id/task_item_procressing_taskStatus
+id: 2131361973 res id: id/task_item_procressing_processBar
+id: 2131361974 res id: id/task_item_procressing_realat_2
+id: 2131361975 res id: id/task_item_procressing_taskState
+id: 2131361976 res id: id/task_item_procressing_procress

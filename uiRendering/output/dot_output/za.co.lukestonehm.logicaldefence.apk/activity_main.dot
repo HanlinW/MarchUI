@@ -1,0 +1,17 @@
+strict digraph G {
+  1 [ label="[7f0d0053] at (0,25)-(480,752) android.support.v4.widget.DrawerLayout:null" ];
+  2 [ label="[7f0d0054] at (0,0)-(480,727) android.widget.FrameLayout:null" ];
+  3 [ label="[7f0d0042] at (0,0)-(480,56) android.widget.LinearLayout:null" ];
+  4 [ label="[7f0d0055] at (-255,0)-(0,727) android.widget.RelativeLayout:null" ];
+  5 [ label="[7f0d0056] at (0,0)-(255,30) android.widget.TextView:Logical Defense" ];
+  6 [ label="[7f0d0057] at (0,30)-(255,47) android.widget.TextView:The beautiful list of logical fallacies" ];
+  7 [ label="[7f0d0058] at (0,47)-(255,103) android.widget.TextView:Categories" ];
+  8 [ label="[7f0d0059] at (0,103)-(255,727) android.widget.ListView:null" ];
+  1 -> 2;
+  2 -> 3;
+  1 -> 4;
+  4 -> 5;
+  4 -> 6;
+  4 -> 7;
+  4 -> 8;
+}

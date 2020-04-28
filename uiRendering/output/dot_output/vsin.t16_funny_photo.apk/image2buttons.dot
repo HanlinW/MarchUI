@@ -1,0 +1,13 @@
+strict digraph G {
+  1 [ label="[7f07004e] at (2,2)-(478,107) android.widget.RelativeLayout:null" ];
+  2 [ label="[7f07004f] at (4,40)-(15,64) android.widget.TextView:1" ];
+  3 [ label="[7f070050] at (17,7)-(107,97) android.widget.ImageView:null" ];
+  4 [ label="[7f070051] at (117,7)-(471,55) android.widget.Button:С камеры" ];
+  5 [ label="[7f070052] at (117,55)-(471,103) android.widget.Button:Из Галереи" ];
+  6 [ label="[7f070016] at (112,44)-(474,61) android.widget.TextView:Кликните, чтобы сменить фото" ];
+  1 -> 2;
+  1 -> 3;
+  1 -> 4;
+  1 -> 5;
+  1 -> 6;
+}

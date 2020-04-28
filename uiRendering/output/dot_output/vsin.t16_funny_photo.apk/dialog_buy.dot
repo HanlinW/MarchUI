@@ -1,0 +1,13 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (4,4)-(476,748) android.widget.LinearLayout:null" ];
+  2 [ label="[7f070004] at (144,284)-(327,302) android.widget.TextView:Text about group or effect" ];
+  3 [ label="[7f07000c] at (0,0)-(0,0) android.widget.Button:Купить группу за US$0.99" ];
+  4 [ label="[7f07000b] at (0,302)-(472,350) android.widget.Button:Предварительный просмотр" ];
+  5 [ label="[7f070035] at (4,357)-(468,411) android.widget.TextView:Купите PRO версию - и вы сможете использовать самые новые эффекты сразу же после их выхода, а также получите дополнительную группу эффектов для создания карикатур." ];
+  6 [ label="[7f070036] at (0,411)-(472,459) android.widget.Button:Узнать больше" ];
+  1 -> 2;
+  1 -> 3;
+  1 -> 4;
+  1 -> 5;
+  1 -> 6;
+}

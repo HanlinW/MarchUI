@@ -1,0 +1,17 @@
+strict digraph G {
+  1 [ label="[01020012] at (0,25)-(480,752) android.widget.TabHost:null" ];
+  2 [ label="[ffffffff] at (0,0)-(480,727) android.widget.LinearLayout:null" ];
+  3 [ label="[01020013] at (0,0)-(480,727) android.widget.TabWidget:null" ];
+  4 [ label="[ffffffff] at (0,339)-(480,387) android.widget.LinearLayout:null" ];
+  5 [ label="[01020006] at (0,0)-(0,0) android.widget.ImageView:null" ];
+  6 [ label="[01020016] at (211,16)-(269,31) android.widget.TextView:Tab Label" ];
+  7 [ label="[01020011] at (0,727)-(480,727) android.widget.FrameLayout:null" ];
+  8 [ label="[ffffffff] at (0,0)-(480,0) android.widget.LinearLayout:null" ];
+  1 -> 2;
+  2 -> 3;
+  3 -> 4;
+  4 -> 5;
+  4 -> 6;
+  2 -> 7;
+  7 -> 8;
+}

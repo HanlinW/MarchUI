@@ -1,0 +1,4 @@
+id: -1 res id: null
+id: 2131361812 res id: id/alert_shareto_number
+editbox[请输入好友手机号]: 2131361812 res id: id/alert_shareto_number
+sensitive editbox[请输入好友手机号]: 2131361812 res id: id/alert_shareto_number tag: UiContact

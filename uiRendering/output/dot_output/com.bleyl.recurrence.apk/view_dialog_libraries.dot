@@ -1,0 +1,43 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,752) android.widget.ScrollView:null" ];
+  2 [ label="[ffffffff] at (0,0)-(480,826) android.widget.LinearLayout:null" ];
+  3 [ label="[ffffffff] at (24,16)-(171,33) android.widget.TextView:PagerSlidingTabStrip" ];
+  4 [ label="[7f0f00d9] at (24,33)-(323,50) android.widget.TextView:https://github.com/jpardogo/PagerSlidingTabStrip" ];
+  5 [ label="[ffffffff] at (24,50)-(456,218) android.widget.TextView:Copyright 2013 Andreas Stuetz
+
+Licensed under the Apache License, Version 2.0 (the License); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+ http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." ];
+  6 [ label="[ffffffff] at (24,234)-(105,251) android.widget.TextView:Butter Knife" ];
+  7 [ label="[7f0f00da] at (24,251)-(284,268) android.widget.TextView:https://github.com/JakeWharton/butterknife" ];
+  8 [ label="[ffffffff] at (24,268)-(456,436) android.widget.TextView:Copyright 2013 Jake Wharton
+
+Licensed under the Apache License, Version 2.0 (the License); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+ http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." ];
+  9 [ label="[ffffffff] at (24,452)-(134,469) android.widget.TextView:Material Dialogs" ];
+  10 [ label="[7f0f00db] at (24,469)-(299,486) android.widget.TextView:https://github.com/afollestad/material-dialogs" ];
+  11 [ label="[ffffffff] at (24,486)-(456,810) android.widget.TextView:The MIT License (MIT)
+
+Copyright 2015 Aidan Michael Follestad
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE." ];
+  1 -> 2;
+  2 -> 3;
+  2 -> 4;
+  2 -> 5;
+  2 -> 6;
+  2 -> 7;
+  2 -> 8;
+  2 -> 9;
+  2 -> 10;
+  2 -> 11;
+}

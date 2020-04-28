@@ -1,0 +1,9 @@
+strict digraph G {
+  1 [ label="[7f090030] at (0,30)-(76,111) android.widget.RelativeLayout:null" ];
+  2 [ label="[7f090031] at (10,0)-(66,56) android.widget.ImageView:null" ];
+  3 [ label="[7f09002c] at (0,0)-(0,0) android.widget.TextView:0" ];
+  4 [ label="[7f090032] at (4,58)-(72,77) android.widget.TextView:SMSdroid" ];
+  1 -> 2;
+  1 -> 3;
+  1 -> 4;
+}

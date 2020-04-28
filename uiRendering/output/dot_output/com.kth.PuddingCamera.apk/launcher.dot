@@ -1,0 +1,11 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,0)-(480,752) android.widget.FrameLayout:null" ];
+  2 [ label="[7f09003d] at (0,0)-(480,752) android.widget.FrameLayout:null" ];
+  3 [ label="[ffffffff] at (118,336)-(362,349) android.view.View:null" ];
+  4 [ label="[7f09003e] at (107,368)-(373,384) android.widget.ProgressBar:null" ];
+  5 [ label="[7f09003f] at (204,412)-(276,445) android.widget.ImageView:null" ];
+  1 -> 2;
+  2 -> 3;
+  2 -> 4;
+  2 -> 5;
+}

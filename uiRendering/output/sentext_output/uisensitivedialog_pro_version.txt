@@ -1,0 +1,4 @@
+id: -1 res id: null
+id: -1 res id: null
+id: 2131165192 res id: id/checkBox1
+editbox[Больше не показывать]: 2131165192 res id: id/checkBox1

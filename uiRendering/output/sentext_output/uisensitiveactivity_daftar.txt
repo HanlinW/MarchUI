@@ -1,0 +1,7 @@
+id: -1 res id: null
+id: 2131492864 res id: id/lsRekaman
+id: 2131492865 res id: id/lGaAdaRekaman
+id: -1 res id: null
+id: -1 res id: null
+id: 2131492866 res id: id/geseran
+id: 2131492867 res id: id/lPosisi

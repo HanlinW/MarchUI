@@ -1,0 +1,5 @@
+id: -1 res id: null
+id: 2131689637 res id: id/recycler_view
+id: 2131689638 res id: id/empty_view
+id: 2131689639 res id: id/empty_icon
+id: 2131689640 res id: id/empty_text

@@ -1,0 +1,4 @@
+id: 2131296304 res id: id/widget
+id: 2131296305 res id: id/icon
+id: 2131296300 res id: id/text1
+id: 2131296306 res id: id/label

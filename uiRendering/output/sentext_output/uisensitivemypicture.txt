@@ -1,0 +1,11 @@
+id: -1 res id: null
+id: -1 res id: null
+id: 2131361920 res id: id/mypicture_Lables
+id: 2131361921 res id: id/mypicture_CallIO
+id: 2131361922 res id: id/mypicture_BeCalled
+id: -1 res id: null
+id: 2131361923 res id: id/mypicture_List
+id: 2131361924 res id: id/mypicture_browse_file
+editbox[来去电动画]: 2131361921 res id: id/mypicture_CallIO
+editbox[传情动画]: 2131361922 res id: id/mypicture_BeCalled
+editbox[设置本地图片为来去电动画]: 2131361924 res id: id/mypicture_browse_file

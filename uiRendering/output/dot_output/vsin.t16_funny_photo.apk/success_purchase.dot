@@ -1,0 +1,11 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,0)-(480,752) android.widget.LinearLayout:null" ];
+  2 [ label="[7f070004] at (0,0)-(480,17) android.widget.TextView:Succesfully paid!" ];
+  3 [ label="[7f070002] at (0,17)-(480,34) android.widget.LinearLayout:null" ];
+  4 [ label="[7f070035] at (3,0)-(36,17) android.widget.TextView:Item:" ];
+  5 [ label="[7f070043] at (39,0)-(101,17) android.widget.TextView:TextView" ];
+  1 -> 2;
+  1 -> 3;
+  3 -> 4;
+  3 -> 5;
+}

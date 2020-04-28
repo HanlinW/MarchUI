@@ -1,0 +1,5 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,752) android.widget.RelativeLayout:null" ];
+  2 [ label="[7f0c00b3] at (30,347)-(450,379) android.widget.TextView:Waiting for sensor to become ready" ];
+  1 -> 2;
+}

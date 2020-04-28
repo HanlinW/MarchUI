@@ -1,0 +1,5 @@
+id: -1 res id: null
+id: 2131165188 res id: id/txtConfName
+id: 2131165189 res id: id/btnConfirm
+editbox[null]: 2131165188 res id: id/txtConfName
+editbox[確定]: 2131165189 res id: id/btnConfirm

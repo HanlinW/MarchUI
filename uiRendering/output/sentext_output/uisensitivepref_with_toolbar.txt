@@ -1,0 +1,4 @@
+id: -1 res id: null
+id: 2131689583 res id: id/toolbar
+id: 2131689584 res id: id/toolbar_shadow
+id: 2131689686 res id: id/content_frame

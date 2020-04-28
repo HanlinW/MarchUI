@@ -1,0 +1,16 @@
+id: 2131361857 res id: id/contactlist_Root
+id: 2131361858 res id: id/friend_button_group_ID
+id: 2131361876 res id: id/friend_list_hmd_buts
+id: 2131361877 res id: id/btn_contactlist_phone
+id: 2131361878 res id: id/btn_contactlist_friend
+id: -1 res id: null
+id: -1 res id: null
+id: 2131361859 res id: id/contactlist_List
+id: 2131361860 res id: id/contactlist_ProcessBar
+id: 2131361861 res id: id/contactlist_ToolBar
+id: 2131361864 res id: id/btn_contactlist_PickOK
+id: 2131361865 res id: id/btn_contactlist_PickCancel
+editbox[通讯录好友]: 2131361877 res id: id/btn_contactlist_phone
+editbox[CC好友]: 2131361878 res id: id/btn_contactlist_friend
+editbox[确定]: 2131361864 res id: id/btn_contactlist_PickOK
+editbox[取消]: 2131361865 res id: id/btn_contactlist_PickCancel

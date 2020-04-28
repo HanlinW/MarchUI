@@ -1,0 +1,11 @@
+id: 2131361867 res id: id/RelativeLayout01
+id: 2131361868 res id: id/FirstUseProgress
+id: 2131361869 res id: id/FirstUseProgressBar
+id: 2131361870 res id: id/firstuse_PrgressBarDetail
+id: 2131361871 res id: id/firstuse_Text
+id: 2131361872 res id: id/firstuse_BtnBar
+id: 2131361873 res id: id/btn_firstuse_Retry
+id: 2131361874 res id: id/btn_firstuse_Ok
+id: 2131361875 res id: id/Result
+editbox[重试]: 2131361873 res id: id/btn_firstuse_Retry
+editbox[确定]: 2131361874 res id: id/btn_firstuse_Ok

@@ -1,0 +1,29 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,0)-(480,752) android.widget.LinearLayout:null" ];
+  2 [ label="[7f070031] at (204,194)-(276,266) android.widget.ImageView:null" ];
+  3 [ label="[7f070016] at (106,271)-(374,302) android.widget.TextView:Pho.to Lab PRO (1.1.1)" ];
+  4 [ label="[ffffffff] at (123,305)-(357,326) android.widget.TextView:Лаборатория фотоприколов" ];
+  5 [ label="[ffffffff] at (169,326)-(311,347) android.widget.TextView:у тебя в кармане!" ];
+  6 [ label="[ffffffff] at (122,347)-(358,364) android.widget.TextView:(каждую неделю новые эффекты!)" ];
+  7 [ label="[7f070023] at (100,464)-(380,466) android.widget.FrameLayout:null" ];
+  8 [ label="[7f070002] at (0,476)-(480,512) android.widget.LinearLayout:null" ];
+  9 [ label="[7f070028] at (99,5)-(242,31) android.widget.ImageView:null" ];
+  10 [ label="[7f070032] at (257,0)-(293,36) android.widget.ImageView:null" ];
+  11 [ label="[7f070033] at (301,0)-(337,36) android.widget.ImageView:null" ];
+  12 [ label="[7f070034] at (345,0)-(381,36) android.widget.ImageView:null" ];
+  13 [ label="[7f070022] at (178,512)-(302,558) android.widget.LinearLayout:null" ];
+  14 [ label="[7f070018] at (5,25)-(124,46) android.widget.TextView:© Vicman 2011" ];
+  1 -> 2;
+  1 -> 3;
+  1 -> 4;
+  1 -> 5;
+  1 -> 6;
+  1 -> 7;
+  1 -> 8;
+  8 -> 9;
+  8 -> 10;
+  8 -> 11;
+  8 -> 12;
+  1 -> 13;
+  13 -> 14;
+}

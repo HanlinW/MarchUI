@@ -1,0 +1,16 @@
+id: 2131361945 res id: id/ringlist_linerLayout
+id: -1 res id: null
+id: 2131361946 res id: id/ringlist_listview_id
+id: 2131361947 res id: id/RingListProcessBar
+id: 2131361948 res id: id/ringlist_menu
+id: 2131361851 res id: id/common_menu_ringlist_Menus
+id: 2131361852 res id: id/common_menu_ringlist_Latest
+id: 2131361853 res id: id/common_menu_ringlist_Sort
+id: 2131361854 res id: id/common_menu_ringlist_Elite
+id: 2131361855 res id: id/common_menu_ringlist_Category
+id: 2131361856 res id: id/common_menu_ringlist_Refresh
+editbox[最新铃声]: 2131361852 res id: id/common_menu_ringlist_Latest
+editbox[铃声排行]: 2131361853 res id: id/common_menu_ringlist_Sort
+editbox[精品铃声]: 2131361854 res id: id/common_menu_ringlist_Elite
+editbox[铃声分类]: 2131361855 res id: id/common_menu_ringlist_Category
+editbox[返回上级]: 2131361856 res id: id/common_menu_ringlist_Refresh

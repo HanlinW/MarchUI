@@ -1,0 +1,7 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,73) android.widget.RelativeLayout:null" ];
+  2 [ label="[7f0d00ae] at (294,0)-(455,48) android.widget.Button:Tell us what you think" ];
+  3 [ label="[7f0d00af] at (0,0)-(71,48) android.widget.Button:Rate us" ];
+  1 -> 2;
+  1 -> 3;
+}

@@ -1,0 +1,6 @@
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131558542 res id: id/title_text_view
+id: -1 res id: null
+id: 2131558543 res id: id/body_text_view

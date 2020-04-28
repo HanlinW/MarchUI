@@ -1,0 +1,5 @@
+id: 2131493039 res id: id/widget32
+id: 16908298 res id: null
+id: 2131493040 res id: id/sensor_icon
+id: 2131493041 res id: id/sensor_name
+id: 2131493042 res id: id/sensor_description

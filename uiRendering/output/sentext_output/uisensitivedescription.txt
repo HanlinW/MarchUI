@@ -1,0 +1,4 @@
+id: -1 res id: null
+id: 2131492885 res id: id/descriptionText
+id: 2131492886 res id: id/fulltext
+editbox[Полный текст...]: 2131492886 res id: id/fulltext

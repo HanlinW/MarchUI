@@ -1,0 +1,20 @@
+id: 2131230726 res id: id/scroll
+id: -1 res id: null
+id: 2131230727 res id: id/TextView01
+id: 2131230728 res id: id/enable
+id: 2131230729 res id: id/enable2
+id: 2131230730 res id: id/enable3
+id: 2131230731 res id: id/enable4
+id: 2131230732 res id: id/settings
+id: 2131230733 res id: id/share
+id: 2131230734 res id: id/home
+id: -1 res id: null
+editbox[测试]: -1 res id: null
+editbox[1. 启用 MultiLing]: 2131230728 res id: id/enable
+editbox[2. 切换输入法]: 2131230729 res id: id/enable2
+editbox[3. 下載插件]: 2131230730 res id: id/enable3
+editbox[4. 选用语言]: 2131230731 res id: id/enable4
+editbox[Настройки клавиатуры]: 2131230732 res id: id/settings
+editbox[★ 共享 ★]: 2131230733 res id: id/share
+editbox[帮助|常见问题|更新志]: 2131230734 res id: id/home
+Textview id 2131230727 res id: id/TextView01 - text 欢迎！您需要：

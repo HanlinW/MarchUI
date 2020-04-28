@@ -1,0 +1,2 @@
+id: 2131558570 res id: id/suggestions_layout_root
+id: 2131558571 res id: id/icon_suggestions_gridview

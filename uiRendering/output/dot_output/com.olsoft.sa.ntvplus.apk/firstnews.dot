@@ -1,0 +1,7 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,125) android.widget.LinearLayout:null" ];
+  2 [ label="[7f0c001f] at (5,2)-(475,27) android.widget.TextView:TextView" ];
+  3 [ label="[7f0c0020] at (347,27)-(447,44) android.widget.Button:Все новости..." ];
+  1 -> 2;
+  1 -> 3;
+}

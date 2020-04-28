@@ -1,0 +1,2 @@
+id: 2131558477 res id: id/linearLayout1
+id: 2131558478 res id: id/listView1

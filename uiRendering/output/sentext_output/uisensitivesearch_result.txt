@@ -1,0 +1,15 @@
+id: -1 res id: null
+id: 2131492867 res id: id/actionbar
+id: 2131492868 res id: id/action_home
+id: 2131492869 res id: id/action_home_delimiter
+id: 2131492870 res id: id/title
+id: 2131492871 res id: id/action_favorites_delimiter
+id: 2131492872 res id: id/action_favorites
+id: 2131492873 res id: id/action_search_delimiter
+id: 2131492874 res id: id/action_search
+id: 2131492906 res id: id/searchstring
+id: 2131492890 res id: id/list
+id: 2131492892 res id: id/empty
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null

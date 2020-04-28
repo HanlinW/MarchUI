@@ -1,0 +1,2 @@
+id: 2131361814 res id: id/LinearLayout01
+id: 2131361815 res id: id/VideoView

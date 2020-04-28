@@ -1,0 +1,12 @@
+id: -1 res id: null
+id: 2131165239 res id: id/checkBox_Cartoon
+id: 2131165240 res id: id/CheckBox01
+id: 2131165241 res id: id/_rs_CheckBox01
+id: 2131165242 res id: id/LinearLayout03
+id: 2131165228 res id: id/TextView05
+id: 2131165243 res id: id/_rs_EditText01
+editbox[null]: 2131165243 res id: id/_rs_EditText01
+editbox[Применить мультяшный эффект]: 2131165239 res id: id/checkBox_Cartoon
+editbox[Снять логотип сайта pho.to]: 2131165240 res id: id/CheckBox01
+editbox[Вырезать область лица]: 2131165241 res id: id/_rs_CheckBox01
+Textview id 2131165228 res id: id/TextView05 - text Добавить текст:

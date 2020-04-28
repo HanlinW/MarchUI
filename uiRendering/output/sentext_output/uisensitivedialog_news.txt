@@ -1,0 +1,10 @@
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131492870 res id: id/title
+id: 2131492879 res id: id/description
+id: 2131492887 res id: id/buttons
+id: 2131492888 res id: id/button_action
+id: 2131492889 res id: id/button_all_news
+editbox[Принять участие]: 2131492888 res id: id/button_action
+editbox[Все новости]: 2131492889 res id: id/button_all_news

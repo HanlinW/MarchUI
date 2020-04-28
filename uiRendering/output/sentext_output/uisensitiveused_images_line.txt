@@ -1,0 +1,7 @@
+id: 2131165290 res id: id/_uil_LinearLayout
+id: 2131165291 res id: id/img_1
+id: 2131165289 res id: id/img
+id: 2131165292 res id: id/img_2
+id: 2131165289 res id: id/img
+id: 2131165293 res id: id/img_3
+id: 2131165289 res id: id/img

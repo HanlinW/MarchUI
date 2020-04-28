@@ -1,0 +1,11 @@
+id: -1 res id: null
+id: 2131296268 res id: id/read
+id: 2131296292 res id: id/layout
+id: 2131296270 res id: id/date
+id: 2131296293 res id: id/inout
+id: 2131296294 res id: id/pending
+id: 2131296272 res id: id/addr
+id: 2131296274 res id: id/body
+id: 2131296295 res id: id/picture
+id: 2131296296 res id: id/btn_download_msg
+id: 2131296297 res id: id/btn_import_contact

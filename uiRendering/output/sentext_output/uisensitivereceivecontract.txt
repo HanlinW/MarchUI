@@ -1,0 +1,10 @@
+id: -1 res id: null
+id: -1 res id: null
+id: 2131165200 res id: id/myButton1
+id: 2131165201 res id: id/myButton2
+id: 2131165202 res id: id/myButton3
+id: 2131165203 res id: id/mSurfaceView1
+id: 2131165204 res id: id/myImageView1
+editbox[Preview]: 2131165200 res id: id/myButton1
+editbox[Close]: 2131165201 res id: id/myButton2
+editbox[Picture]: 2131165202 res id: id/myButton3

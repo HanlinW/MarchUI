@@ -1,0 +1,50 @@
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131165205 res id: id/ibtnGetContact
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131165206 res id: id/txtName
+id: 2131165207 res id: id/txtCompany
+id: 2131165208 res id: id/txtEmail
+id: 2131165209 res id: id/txtPhoneM
+id: 2131165210 res id: id/txtPhoneH
+id: 2131165211 res id: id/txtPhoneO
+id: 2131165212 res id: id/txtAddrH
+id: 2131165213 res id: id/txtAddrO
+id: 2131165214 res id: id/txtNotes
+id: -1 res id: null
+id: 2131165215 res id: id/btnSave
+id: 2131165216 res id: id/btnSaveAs
+editbox[公司地址]: 2131165213 res id: id/txtAddrO
+editbox[備註]: 2131165214 res id: id/txtNotes
+editbox[姓名]: 2131165206 res id: id/txtName
+editbox[服務公司]: 2131165207 res id: id/txtCompany
+editbox[電子郵件]: 2131165208 res id: id/txtEmail
+sensitive editbox[電子郵件]: 2131165208 res id: id/txtEmail tag: UiContact
+editbox[手機]: 2131165209 res id: id/txtPhoneM
+editbox[電話(家)]: 2131165210 res id: id/txtPhoneH
+editbox[電話(辦公室)]: 2131165211 res id: id/txtPhoneO
+editbox[住址(家)]: 2131165212 res id: id/txtAddrH
+editbox[儲存]: 2131165215 res id: id/btnSave
+editbox[另存設定]: 2131165216 res id: id/btnSaveAs
+Textview id -1 res id: null - text 從通訊錄取得個人資料
+Textview id -1 res id: null - text 個人資料
+Textview id -1 res id: null - text 從通訊錄取得個人資料
+Textview id -1 res id: null - text 個人資料
+Textview id -1 res id: null - text 從通訊錄取得個人資料
+Textview id -1 res id: null - text 個人資料
+Textview id -1 res id: null - text 從通訊錄取得個人資料
+Textview id -1 res id: null - text 個人資料
+Textview id -1 res id: null - text 從通訊錄取得個人資料
+Textview id -1 res id: null - text 個人資料
+Textview id -1 res id: null - text 從通訊錄取得個人資料
+Textview id -1 res id: null - text 個人資料
+Textview id -1 res id: null - text 從通訊錄取得個人資料
+Textview id -1 res id: null - text 個人資料
+Textview id -1 res id: null - text 從通訊錄取得個人資料
+Textview id -1 res id: null - text 個人資料
+Textview id -1 res id: null - text 從通訊錄取得個人資料
+Textview id -1 res id: null - text 個人資料

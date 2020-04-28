@@ -1,0 +1,9 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,752) android.widget.RelativeLayout:null" ];
+  2 [ label="[7f0b003f] at (0,0)-(480,416) android.widget.ImageView:null" ];
+  3 [ label="[7f0b0040] at (0,710)-(480,727) android.widget.Button:START YOUR ADVENTURE" ];
+  4 [ label="[7f0b0041] at (0,672)-(480,710) android.widget.EditText:Enter your name to begin" ];
+  1 -> 2;
+  1 -> 3;
+  1 -> 4;
+}

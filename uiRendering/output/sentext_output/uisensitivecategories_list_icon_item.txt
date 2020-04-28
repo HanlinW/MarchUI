@@ -1,0 +1,3 @@
+id: -1 res id: null
+id: 2131558409 res id: id/category_image
+id: 2131558410 res id: id/category_name

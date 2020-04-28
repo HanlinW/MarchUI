@@ -1,0 +1,3 @@
+id: -1 res id: null
+id: 2131689641 res id: id/colour_circle
+id: 2131689642 res id: id/colour_name

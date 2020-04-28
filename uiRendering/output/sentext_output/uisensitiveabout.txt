@@ -1,0 +1,26 @@
+id: -1 res id: null
+id: 2131492867 res id: id/actionbar
+id: 2131492868 res id: id/action_home
+id: 2131492869 res id: id/action_home_delimiter
+id: 2131492870 res id: id/title
+id: 2131492871 res id: id/action_favorites_delimiter
+id: 2131492872 res id: id/action_favorites
+id: 2131492873 res id: id/action_search_delimiter
+id: 2131492874 res id: id/action_search
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131492864 res id: id/contentIcon
+id: 2131492865 res id: id/textAbout
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131492893 res id: id/value
+id: 2131492894 res id: id/contacts
+id: 2131492866 res id: id/sendToFriend
+editbox[null]: 2131492893 res id: id/value
+editbox[Отправить другу]: 2131492866 res id: id/sendToFriend
+Textview id 2131492865 res id: id/textAbout - text <h1>О программе</h1><p> Вы используете приложение «Помощник абонента», разработанное компанией OLSOFT. </p><p>Компания “OLSOFT” основана в 1991 году и специализируется в разработке программного обеспечения во многих направлениях.</p><p> “OLSOFT” предоставляет своим клиентам богатый выбор сервисов для создания программ и сайтов. Мы предлагаем интегрированные решения, наши специалисты владеют всеми технологиями, необходимыми для получения конечного продукта. </p><p>На сегодняшний день значительная доля проектов связана с разработкой программного обеспечения для мобильных телефонов и смартфонов на всех популярных платформах. На счету компании ряд успешных проектов, в том числе для российского сотового оператора «МТС» и российского контент провайдера «IMMO». </p><p>Наша контактная информация: <br/>E-mail : <a href=mailto:info@m-assistant.com>info@m-assistant.com</a><br/> Веб-сайт проекта: <a href=http://www.m-assistant.com>www.m-assistant.com</a> <br/>Веб-сайт компании: <a href=http://www.olsoft.biz>www.olsoft.biz</a>
+sensitive editbox: 2131492893 res id: id/value tag: UiEmail
+Textview id 2131492870 res id: id/title - text null

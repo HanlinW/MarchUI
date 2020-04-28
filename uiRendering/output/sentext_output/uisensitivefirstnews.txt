@@ -1,0 +1,4 @@
+id: -1 res id: null
+id: 2131492895 res id: id/newsText
+id: 2131492896 res id: id/moreNews
+editbox[Все новости...]: 2131492896 res id: id/moreNews

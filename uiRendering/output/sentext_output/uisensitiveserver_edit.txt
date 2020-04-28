@@ -1,0 +1,30 @@
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131361825 res id: id/nameField
+id: -1 res id: null
+id: -1 res id: null
+id: 2131361826 res id: id/urlField
+id: -1 res id: null
+id: -1 res id: null
+id: 2131361794 res id: id/usernameField
+id: -1 res id: null
+id: -1 res id: null
+id: 2131361795 res id: id/passwordField
+id: -1 res id: null
+id: 2131361827 res id: id/addServerButton
+id: 2131361828 res id: id/cancelButton
+editbox[null]: 2131361825 res id: id/nameField
+editbox[null]: 2131361826 res id: id/urlField
+editbox[null]: 2131361794 res id: id/usernameField
+editbox[null]: 2131361795 res id: id/passwordField
+editbox[Отменить]: 2131361828 res id: id/cancelButton
+editbox[Добавить сервер]: 2131361827 res id: id/addServerButton
+Textview id -1 res id: null - text Название
+Textview id -1 res id: null - text URL-адрес сервера
+Textview id -1 res id: null - text URL-адрес сервера
+Textview id -1 res id: null - text Имя пользователя
+Textview id -1 res id: null - text Имя пользователя
+Textview id -1 res id: null - text Пароль
+Textview id -1 res id: null - text Пароль
+Textview id -1 res id: null - text Имя пользователя

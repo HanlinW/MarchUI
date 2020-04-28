@@ -1,0 +1,29 @@
+strict digraph G {
+  1 [ label="[7f0f00ca] at (0,25)-(480,153) android.widget.RelativeLayout:null" ];
+  2 [ label="[7f0f0047] at (0,0)-(128,128) android.widget.ImageView:null" ];
+  3 [ label="[7f0f00c9] at (0,0)-(0,0) android.widget.ImageButton:null" ];
+  4 [ label="[ffffffff] at (128,0)-(480,46) android.widget.LinearLayout:null" ];
+  5 [ label="[7f0f00cd] at (8,2)-(344,26) android.widget.LinearLayout:null" ];
+  6 [ label="[7f0f0048] at (0,6)-(336,24) android.widget.TextView:null" ];
+  7 [ label="[7f0f0079] at (0,0)-(0,0) android.widget.DateTimeView:null" ];
+  8 [ label="[7f0f00ce] at (0,0)-(0,0) android.widget.Chronometer:00" ];
+  9 [ label="[7f0f00cf] at (0,0)-(0,0) android.widget.TextView:null" ];
+  10 [ label="[7f0f00d0] at (8,26)-(344,44) android.widget.LinearLayout:null" ];
+  11 [ label="[7f0f00d1] at (0,0)-(328,18) android.widget.TextView:null" ];
+  12 [ label="[7f0f00d2] at (328,0)-(336,18) android.widget.TextView:null" ];
+  13 [ label="[7f0f00cb] at (140,80)-(468,128) android.widget.LinearLayout:null" ];
+  14 [ label="[7f0f00cc] at (128,79)-(480,80) android.widget.ImageView:null" ];
+  1 -> 2;
+  1 -> 3;
+  1 -> 4;
+  4 -> 5;
+  5 -> 6;
+  5 -> 7;
+  5 -> 8;
+  4 -> 9;
+  4 -> 10;
+  10 -> 11;
+  10 -> 12;
+  1 -> 13;
+  1 -> 14;
+}

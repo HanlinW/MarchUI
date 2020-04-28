@@ -1,0 +1,7 @@
+id: -1 res id: null
+id: 2131361808 res id: id/addfriendtable
+id: -1 res id: null
+id: -1 res id: null
+id: 2131361809 res id: id/alert_frigrp_GroupName
+editbox[请在此输入组名]: 2131361809 res id: id/alert_frigrp_GroupName
+Textview id -1 res id: null - text 组名:

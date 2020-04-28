@@ -1,0 +1,6 @@
+id: -1 res id: null
+id: -1 res id: null
+id: 2131296330 res id: id/InfoDate
+id: -1 res id: null
+id: -1 res id: null
+id: 2131296331 res id: id/noPhotos

@@ -1,0 +1,27 @@
+strict digraph G {
+  1 [ label="[7f0c0047] at (0,25)-(480,752) android.widget.LinearLayout:null" ];
+  2 [ label="[7f0c0048] at (5,0)-(480,17) android.widget.TextView:Vendor" ];
+  3 [ label="[7f0c0049] at (20,17)-(480,40) android.widget.TextView:unknown" ];
+  4 [ label="[7f0c004a] at (5,45)-(480,62) android.widget.TextView:Power consumption" ];
+  5 [ label="[7f0c004b] at (20,62)-(480,85) android.widget.TextView:unknown" ];
+  6 [ label="[7f0c004c] at (5,90)-(480,107) android.widget.TextView:Sensor resolution" ];
+  7 [ label="[7f0c004d] at (20,107)-(480,130) android.widget.TextView:unknown" ];
+  8 [ label="[7f0c004e] at (5,135)-(480,152) android.widget.TextView:Version" ];
+  9 [ label="[7f0c004f] at (20,152)-(480,175) android.widget.TextView:unknown" ];
+  10 [ label="[7f0c0050] at (5,180)-(480,197) android.widget.TextView:Minimal delay" ];
+  11 [ label="[7f0c0051] at (20,197)-(480,220) android.widget.TextView:unknown" ];
+  12 [ label="[7f0c0052] at (5,225)-(480,242) android.widget.TextView:Range" ];
+  13 [ label="[7f0c0053] at (20,242)-(480,259) android.widget.TextView:unknown" ];
+  1 -> 2;
+  1 -> 3;
+  1 -> 4;
+  1 -> 5;
+  1 -> 6;
+  1 -> 7;
+  1 -> 8;
+  1 -> 9;
+  1 -> 10;
+  1 -> 11;
+  1 -> 12;
+  1 -> 13;
+}

@@ -1,0 +1,8 @@
+id: -1 res id: null
+id: 2131361905 res id: id/ListItemImage05
+id: -1 res id: null
+id: 2131361906 res id: id/ListItemText05
+id: 2131361907 res id: id/ListItemRemarks05
+id: 2131361908 res id: id/ListItemCheckBox05
+id: 2131361909 res id: id/ListItemlddtt05
+editbox[null]: 2131361908 res id: id/ListItemCheckBox05

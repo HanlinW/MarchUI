@@ -1,0 +1,9 @@
+id: -1 res id: null
+id: 2131165186 res id: id/linearLayout1
+id: 2131165276 res id: id/ni1
+id: 2131165274 res id: id/ni_iv1
+id: 2131165275 res id: id/ni_tv1
+id: 2131165277 res id: id/ni2
+id: 2131165274 res id: id/ni_iv1
+id: 2131165275 res id: id/ni_tv1
+id: 2131165188 res id: id/textView1

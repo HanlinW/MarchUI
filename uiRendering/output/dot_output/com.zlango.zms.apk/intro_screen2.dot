@@ -1,0 +1,13 @@
+strict digraph G {
+  1 [ label="[7f0d005e] at (0,122)-(480,655) android.widget.FrameLayout:null" ];
+  2 [ label="[7f0d005b] at (0,0)-(480,533) android.widget.FrameLayout:null" ];
+  3 [ label="[7f0d0035] at (0,394)-(480,533) android.widget.LinearLayout:null" ];
+  4 [ label="[7f0d005f] at (0,0)-(480,34) android.widget.TextView:Type a new message or reply to any thread via Zlango. Tap to choose icons as they pop up." ];
+  5 [ label="[7f0d005d] at (214,34)-(266,82) android.widget.Button:Next" ];
+  6 [ label="[7f0d0060] at (0,82)-(0,139) android.widget.TextView:null" ];
+  1 -> 2;
+  2 -> 3;
+  3 -> 4;
+  3 -> 5;
+  3 -> 6;
+}

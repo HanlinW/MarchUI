@@ -1,0 +1,18 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,752) android.widget.RelativeLayout:null" ];
+  2 [ label="[7f0d0042] at (0,0)-(480,56) android.widget.LinearLayout:null" ];
+  3 [ label="[7f0d002b] at (0,56)-(480,115) android.widget.TextView:Logical Defense" ];
+  4 [ label="[7f0d0051] at (0,115)-(480,191) android.widget.TextView:Created by LukeStoneHm
+2015" ];
+  5 [ label="[7f0d0052] at (0,191)-(480,465) android.widget.TextView:A simple, but beautiful app that presents the logical fallacies of the world in a fantastically eye pleasing manner.
+
+This app is an open source project and is licensed under the GPL 2 license.
+
+Feel free to browse the source code which is hosted on GitHub.
+
+https://github.com/LukeStonehm/LogicalDefence/" ];
+  1 -> 2;
+  1 -> 3;
+  1 -> 4;
+  1 -> 5;
+}

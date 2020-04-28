@@ -1,0 +1,7 @@
+id: -1 res id: null
+id: 2131296263 res id: id/titlebar
+id: 2131296264 res id: id/title
+id: 2131296265 res id: id/compose
+id: 2131296266 res id: id/progess
+id: 2131296267 res id: id/ad
+id: 16908298 res id: null

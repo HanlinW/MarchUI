@@ -1,0 +1,57 @@
+id: 2131689587 res id: id/create_coordinator
+id: -1 res id: null
+id: 2131689588 res id: id/header
+id: 2131689583 res id: id/toolbar
+id: -1 res id: null
+id: -1 res id: null
+id: 2131689589 res id: id/notification_title
+id: 2131689584 res id: id/toolbar_shadow
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131689590 res id: id/notification_content
+id: -1 res id: null
+id: 2131689591 res id: id/time_row
+id: 2131689592 res id: id/time_image
+id: 2131689593 res id: id/time
+id: -1 res id: null
+id: 2131689594 res id: id/error_time
+id: -1 res id: null
+id: 2131689595 res id: id/date_row
+id: -1 res id: null
+id: 2131689596 res id: id/date
+id: -1 res id: null
+id: 2131689597 res id: id/error_date
+id: -1 res id: null
+id: 2131689598 res id: id/icon_select
+id: 2131689599 res id: id/selected_icon
+id: 2131689600 res id: id/select_icon_text
+id: -1 res id: null
+id: 2131689601 res id: id/colour_select
+id: 2131689602 res id: id/colour_icon
+id: 2131689603 res id: id/select_colour_text
+id: -1 res id: null
+id: 2131689604 res id: id/repeat_row
+id: -1 res id: null
+id: 2131689605 res id: id/repeat_day
+id: -1 res id: null
+id: 2131689606 res id: id/forever_row
+id: -1 res id: null
+id: 2131689607 res id: id/forever
+id: 2131689608 res id: id/switch_toggle
+id: 2131689609 res id: id/bottom_row
+id: -1 res id: null
+id: 2131689610 res id: id/show
+id: 2131689611 res id: id/show_times_number
+id: 2131689612 res id: id/times
+id: -1 res id: null
+id: 2131689613 res id: id/error_show
+id: 2131689614 res id: id/bottom_view
+id: -1 res id: null
+editbox[null]: 2131689589 res id: id/notification_title
+editbox[Добавить содержимое уведомления]: 2131689590 res id: id/notification_content
+Textview id -1 res id: null - text Заголовок
+Textview id 2131689593 res id: id/time - text Сейчас
+Textview id -1 res id: null - text Заголовок
+Textview id 2131689593 res id: id/time - text Сейчас

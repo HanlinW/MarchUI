@@ -1,0 +1,7 @@
+id: 2131558494 res id: id/into_2nd_screen_layout
+id: 2131558491 res id: id/intro_inner_layout
+id: 2131558453 res id: id/LinearLayout01
+id: 2131558495 res id: id/textView1
+id: 2131558493 res id: id/intro_screen_next_button
+id: 2131558496 res id: id/textView2
+editbox[Next]: 2131558493 res id: id/intro_screen_next_button

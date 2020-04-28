@@ -1,0 +1,5 @@
+id: -1 res id: null
+id: 2131296317 res id: id/upgredeView
+id: -1 res id: null
+id: 2131296318 res id: id/upgredeProgress
+id: 2131296319 res id: id/upgredeCancel

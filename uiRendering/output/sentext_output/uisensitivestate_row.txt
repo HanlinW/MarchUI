@@ -1,0 +1,7 @@
+id: 2131493044 res id: id/ui_state_row
+id: -1 res id: null
+id: 2131493045 res id: id/ui_freq_text
+id: 2131493046 res id: id/ui_duration_text
+id: -1 res id: null
+id: 2131493047 res id: id/ui_bar
+id: 2131493048 res id: id/ui_percentage_text

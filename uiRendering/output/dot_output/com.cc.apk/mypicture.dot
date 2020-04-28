@@ -1,0 +1,17 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,50)-(480,752) android.widget.LinearLayout:null" ];
+  2 [ label="[ffffffff] at (0,5)-(480,35) android.widget.LinearLayout:null" ];
+  3 [ label="[7f0a0080] at (0,0)-(480,30) android.widget.LinearLayout:null" ];
+  4 [ label="[7f0a0081] at (0,0)-(240,30) android.widget.Button:来去电动画" ];
+  5 [ label="[7f0a0082] at (240,0)-(480,30) android.widget.Button:传情动画" ];
+  6 [ label="[ffffffff] at (0,35)-(480,37) android.widget.ImageView:null" ];
+  7 [ label="[7f0a0083] at (0,37)-(480,644) android.widget.ListView:null" ];
+  8 [ label="[7f0a0084] at (10,644)-(470,692) android.widget.Button:设置本地图片为来去电动画" ];
+  1 -> 2;
+  2 -> 3;
+  3 -> 4;
+  3 -> 5;
+  1 -> 6;
+  1 -> 7;
+  1 -> 8;
+}

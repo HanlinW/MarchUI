@@ -1,0 +1,4 @@
+id: -1 res id: null
+id: -1 res id: null
+id: 2131558422 res id: id/logo_image
+id: 2131558428 res id: id/text_soon

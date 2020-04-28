@@ -1,0 +1,11 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,100) android.widget.LinearLayout:null" ];
+  2 [ label="[ffffffff] at (6,6)-(474,40) android.widget.TextView:Set recording input gain here. 0 dB means no change. +10 dB is about twice louder." ];
+  3 [ label="[ffffffff] at (6,40)-(474,69) android.widget.LinearLayout:null" ];
+  4 [ label="[7f0c0017] at (0,0)-(378,29) android.widget.SeekBar:null" ];
+  5 [ label="[7f0c0018] at (384,2)-(468,26) android.widget.TextView:+99.9 dB" ];
+  1 -> 2;
+  1 -> 3;
+  3 -> 4;
+  3 -> 5;
+}

@@ -1,0 +1,16 @@
+id: 2131361925 res id: id/picturecategory_Root
+id: -1 res id: null
+id: 2131361926 res id: id/picturecategory_List
+id: 2131361927 res id: id/picturecategory_ProcessBar
+id: 2131361928 res id: id/picturecategory_menu
+id: 2131361844 res id: id/common_menu_picturelist_Menus
+id: 2131361845 res id: id/common_menu_picturelist_Latest
+id: 2131361846 res id: id/common_menu_picturelist_Sort
+id: 2131361847 res id: id/common_menu_picturelist_Elite
+id: 2131361848 res id: id/common_menu_picturelist_Category
+id: 2131361849 res id: id/common_menu_picturelist_Refresh
+editbox[最新动画]: 2131361845 res id: id/common_menu_picturelist_Latest
+editbox[动画排行]: 2131361846 res id: id/common_menu_picturelist_Sort
+editbox[精品动画]: 2131361847 res id: id/common_menu_picturelist_Elite
+editbox[动画分类]: 2131361848 res id: id/common_menu_picturelist_Category
+editbox[返回上级]: 2131361849 res id: id/common_menu_picturelist_Refresh

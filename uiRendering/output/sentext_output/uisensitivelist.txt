@@ -1,0 +1,11 @@
+id: -1 res id: null
+id: 2131296281 res id: id/buttons
+id: 2131296282 res id: id/hide
+id: -1 res id: null
+id: 2131296283 res id: id/ok
+id: 2131296284 res id: id/extra
+id: -1 res id: null
+id: 16908298 res id: null
+editbox[Never show changelog again]: 2131296282 res id: id/hide
+editbox[OK]: 2131296283 res id: id/ok
+editbox[???]: 2131296284 res id: id/extra

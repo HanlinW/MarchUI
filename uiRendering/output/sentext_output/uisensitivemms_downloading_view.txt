@@ -1,0 +1,3 @@
+id: 2131558511 res id: id/mms_download_controls
+id: 2131558512 res id: id/btn_download_msg
+id: 2131558513 res id: id/label_downloading

@@ -1,0 +1,14 @@
+id: 2131558498 res id: id/status_bar_latest_event_content
+id: 2131558442 res id: id/icon
+id: 2131558497 res id: id/cancel_action
+id: -1 res id: null
+id: 2131558501 res id: id/line1
+id: 2131558443 res id: id/title
+id: 2131558502 res id: id/time
+id: 2131558503 res id: id/chronometer
+id: 2131558504 res id: id/text2
+id: 2131558505 res id: id/line3
+id: 2131558506 res id: id/text
+id: 2131558507 res id: id/info
+id: 2131558499 res id: id/media_actions
+id: 2131558500 res id: id/action_divider

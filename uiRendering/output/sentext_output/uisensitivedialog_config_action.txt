@@ -1,0 +1,6 @@
+id: -1 res id: null
+id: 2131165188 res id: id/txtConfName
+id: -1 res id: null
+id: 2131165197 res id: id/btnEdit
+editbox[null]: 2131165188 res id: id/txtConfName
+editbox[儲存]: 2131165197 res id: id/btnEdit

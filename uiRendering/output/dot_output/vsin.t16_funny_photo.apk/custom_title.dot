@@ -1,0 +1,3 @@
+strict digraph G {
+  1 [ label="[7f070030] at (0,0)-(480,752) android.widget.TextView:my text" ];
+}

@@ -1,0 +1,10 @@
+id: 2131361977 res id: id/widget31
+id: 2131361978 res id: id/tips_Logo
+id: 2131361979 res id: id/tips_Message
+id: 2131361980 res id: id/tips_Title
+id: 2131361981 res id: id/tips_Result
+id: 2131361983 res id: id/LinearLayout01
+id: 2131361984 res id: id/btn_tips_Retry
+id: 2131361982 res id: id/btn_tips_OK
+editbox[重试]: 2131361984 res id: id/btn_tips_Retry
+editbox[确定]: 2131361982 res id: id/btn_tips_OK

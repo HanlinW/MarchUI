@@ -1,0 +1,27 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,50)-(480,124) android.widget.LinearLayout:null" ];
+  2 [ label="[ffffffff] at (0,0)-(480,24) android.widget.RelativeLayout:null" ];
+  3 [ label="[7f0a002b] at (5,1)-(43,23) android.widget.TextView:名称" ];
+  4 [ label="[7f0a002c] at (462,0)-(480,24) android.widget.TextView:null" ];
+  5 [ label="[ffffffff] at (0,24)-(475,74) android.widget.LinearLayout:null" ];
+  6 [ label="[7f0a002d] at (5,0)-(55,50) android.widget.ImageView:null" ];
+  7 [ label="[ffffffff] at (55,0)-(475,40) android.widget.RelativeLayout:null" ];
+  8 [ label="[7f0a002e] at (5,3)-(420,18) android.widget.SeekBar:null" ];
+  9 [ label="[7f0a002f] at (5,21)-(10,36) android.widget.LinearLayout:null" ];
+  10 [ label="[7f0a0030] at (0,0)-(0,15) android.widget.TextView:null" ];
+  11 [ label="[ffffffff] at (0,0)-(5,15) android.widget.TextView:/" ];
+  12 [ label="[7f0a0031] at (5,0)-(5,15) android.widget.TextView:null" ];
+  13 [ label="[7f0a0032] at (326,21)-(420,40) android.widget.TextView:设为铃声" ];
+  1 -> 2;
+  2 -> 3;
+  2 -> 4;
+  1 -> 5;
+  5 -> 6;
+  5 -> 7;
+  7 -> 8;
+  7 -> 9;
+  9 -> 10;
+  9 -> 11;
+  9 -> 12;
+  7 -> 13;
+}

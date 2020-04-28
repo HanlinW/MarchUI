@@ -1,0 +1,4 @@
+id: -1 res id: null
+id: 2131558475 res id: id/message
+id: 2131558476 res id: id/delete_locked
+editbox[Delete locked messages]: 2131558476 res id: id/delete_locked

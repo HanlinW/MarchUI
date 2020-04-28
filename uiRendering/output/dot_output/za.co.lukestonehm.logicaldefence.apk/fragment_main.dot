@@ -1,0 +1,5 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,752) android.widget.RelativeLayout:null" ];
+  2 [ label="[7f0d005a] at (0,56)-(480,727) android.widget.LinearLayout:null" ];
+  1 -> 2;
+}

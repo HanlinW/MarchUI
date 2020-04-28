@@ -1,0 +1,11 @@
+id: -1 res id: null
+id: -1 res id: null
+id: 2131492927 res id: id/barcodeLogo
+id: 2131492928 res id: id/appName
+id: 2131492929 res id: id/textFieldVersion
+id: 2131492930 res id: id/textFieldAuthor
+id: 2131492931 res id: id/textFieldAffiliation
+id: 2131492932 res id: id/imageView1
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null

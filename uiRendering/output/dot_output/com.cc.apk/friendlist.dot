@@ -1,0 +1,25 @@
+strict digraph G {
+  1 [ label="[7f0a0058] at (0,50)-(480,752) android.widget.LinearLayout:null" ];
+  2 [ label="[7f0a0042] at (0,0)-(480,37) android.widget.LinearLayout:null" ];
+  3 [ label="[7f0a0054] at (0,0)-(480,35) android.widget.LinearLayout:null" ];
+  4 [ label="[7f0a0055] at (0,5)-(160,35) android.widget.Button:通讯录好友" ];
+  5 [ label="[7f0a0056] at (160,5)-(320,35) android.widget.Button:CC好友" ];
+  6 [ label="[7f0a0057] at (320,5)-(480,35) android.widget.Button:黑名单" ];
+  7 [ label="[ffffffff] at (0,35)-(480,37) android.widget.ImageView:null" ];
+  8 [ label="[7f0a0059] at (0,37)-(480,37) android.widget.HorizontalScrollView:null" ];
+  9 [ label="[7f0a005a] at (0,0)-(0,0) android.widget.LinearLayout:null" ];
+  10 [ label="[ffffffff] at (0,37)-(480,702) android.widget.RelativeLayout:null" ];
+  11 [ label="[7f0a005b] at (0,0)-(480,0) android.widget.ListView:null" ];
+  12 [ label="[7f0a005c] at (440,10)-(470,40) android.widget.ProgressBar:null" ];
+  1 -> 2;
+  2 -> 3;
+  3 -> 4;
+  3 -> 5;
+  3 -> 6;
+  2 -> 7;
+  1 -> 8;
+  8 -> 9;
+  1 -> 10;
+  10 -> 11;
+  10 -> 12;
+}

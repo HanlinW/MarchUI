@@ -1,0 +1,12 @@
+id: 2131558505 res id: id/message_preview
+id: 2131558506 res id: id/action_bar_message_preview
+id: 2131558422 res id: id/logo_image
+id: -1 res id: null
+id: 2131558508 res id: id/preview_stub
+id: 2131558425 res id: id/bottom_button_bar
+id: -1 res id: null
+id: 2131558426 res id: id/button_delete
+id: 2131558509 res id: id/button_reply
+id: 2131558510 res id: id/button_forward
+editbox[Delete]: 2131558426 res id: id/button_delete
+editbox[Forward]: 2131558510 res id: id/button_forward

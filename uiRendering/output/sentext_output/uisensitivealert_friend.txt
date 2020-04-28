@@ -1,0 +1,18 @@
+id: -1 res id: null
+id: 2131361803 res id: id/friendtable
+id: -1 res id: null
+id: -1 res id: null
+id: 2131361804 res id: id/alert_friend_name
+id: -1 res id: null
+id: -1 res id: null
+id: 2131361805 res id: id/alert_friend_number
+id: -1 res id: null
+id: -1 res id: null
+id: 2131361806 res id: id/alert_Friend_ChooseFriendGroip
+editbox[请输入姓名]: 2131361804 res id: id/alert_friend_name
+editbox[请输入手机号]: 2131361805 res id: id/alert_friend_number
+sensitive editbox[请输入手机号]: 2131361805 res id: id/alert_friend_number tag: UiContact
+Textview id -1 res id: null - text 名字:
+Textview id -1 res id: null - text 电话:
+Textview id -1 res id: null - text 电话:
+Textview id -1 res id: null - text 名字:

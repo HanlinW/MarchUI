@@ -1,0 +1,11 @@
+id: -1 res id: null
+id: -1 res id: null
+id: 2131230751 res id: id/icon
+id: -1 res id: null
+id: -1 res id: null
+id: 2131230752 res id: id/arrival_label
+id: 2131230728 res id: id/arrival_time
+id: -1 res id: null
+id: 2131230753 res id: id/departure_label
+id: 2131230723 res id: id/departure_time
+id: 2131230754 res id: id/station

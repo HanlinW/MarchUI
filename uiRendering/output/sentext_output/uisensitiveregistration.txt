@@ -1,0 +1,19 @@
+id: 2131558533 res id: id/registration_layout
+id: 2131558534 res id: id/FrameLayout01
+id: 2131558535 res id: id/FrameLayout02
+id: 2131558536 res id: id/registrationInnerLinearLayout
+id: 2131558537 res id: id/registration_user_name_textview
+id: 2131558538 res id: id/registration_user_name_edittext
+id: 2131558539 res id: id/registration_msisdn_textview
+id: 2131558540 res id: id/registration_msisdn_edittext
+id: 2131558541 res id: id/registration_screen_submit_button
+id: -1 res id: null
+id: -1 res id: null
+editbox[null]: 2131558538 res id: id/registration_user_name_edittext
+editbox[null]: 2131558540 res id: id/registration_msisdn_edittext
+editbox[Start!]: 2131558541 res id: id/registration_screen_submit_button
+Textview id 2131558537 res id: id/registration_user_name_textview - text Name: (appears on message)
+sensitive editbox: 2131558538 res id: id/registration_user_name_edittext tag: UiSMS
+Textview id 2131558539 res id: id/registration_msisdn_textview - text Number: (we don't share)
+Textview id 2131558539 res id: id/registration_msisdn_textview - text Number: (we don't share)
+Textview id 2131558537 res id: id/registration_user_name_textview - text Name: (appears on message)

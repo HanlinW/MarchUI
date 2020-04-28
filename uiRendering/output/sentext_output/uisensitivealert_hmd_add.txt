@@ -1,0 +1,4 @@
+id: 2131361810 res id: id/hmdtable
+id: 2131361811 res id: id/alert_hmd_number
+editbox[请输入手机号]: 2131361811 res id: id/alert_hmd_number
+sensitive editbox[请输入手机号]: 2131361811 res id: id/alert_hmd_number tag: UiContact

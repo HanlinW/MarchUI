@@ -1,0 +1,13 @@
+id: -1 res id: null
+id: -1 res id: null
+id: 2131361816 res id: id/topPanel
+id: 2131361817 res id: id/currentTimeElapsed
+id: 2131361818 res id: id/middlePanel
+id: 2131361819 res id: id/currentFilename
+id: 2131361820 res id: id/chooseFilename
+id: -1 res id: null
+id: 2131361821 res id: id/audioRecordButton
+id: 2131361822 res id: id/audioPlayButton
+editbox[Filename]: 2131361820 res id: id/chooseFilename
+editbox[Record]: 2131361821 res id: id/audioRecordButton
+editbox[Play]: 2131361822 res id: id/audioPlayButton

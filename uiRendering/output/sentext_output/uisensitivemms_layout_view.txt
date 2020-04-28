@@ -1,0 +1,3 @@
+id: 2131558514 res id: id/mms_view
+id: 2131558515 res id: id/image_view
+id: 2131558516 res id: id/play_slideshow_button

@@ -1,0 +1,23 @@
+strict digraph G {
+  1 [ label="[7f0d0085] at (0,25)-(480,752) android.widget.LinearLayout:null" ];
+  2 [ label="[7f0d0086] at (0,0)-(480,248) android.widget.FrameLayout:null" ];
+  3 [ label="[7f0d0087] at (20,20)-(460,248) android.widget.FrameLayout:null" ];
+  4 [ label="[7f0d0088] at (20,20)-(420,208) android.widget.LinearLayout:null" ];
+  5 [ label="[7f0d0089] at (30,10)-(370,27) android.widget.TextView:Name: (appears on message)" ];
+  6 [ label="[7f0d008a] at (30,27)-(370,75) android.widget.EditText:null" ];
+  7 [ label="[7f0d008b] at (30,75)-(370,92) android.widget.TextView:Number: (we don't share)" ];
+  8 [ label="[7f0d008c] at (30,92)-(370,140) android.widget.EditText:null" ];
+  9 [ label="[7f0d008d] at (170,140)-(229,188) android.widget.Button:Start!" ];
+  10 [ label="[ffffffff] at (0,248)-(480,727) android.widget.LinearLayout:null" ];
+  11 [ label="[ffffffff] at (0,0)-(480,479) android.widget.ImageView:null" ];
+  1 -> 2;
+  2 -> 3;
+  3 -> 4;
+  4 -> 5;
+  4 -> 6;
+  4 -> 7;
+  4 -> 8;
+  4 -> 9;
+  1 -> 10;
+  10 -> 11;
+}

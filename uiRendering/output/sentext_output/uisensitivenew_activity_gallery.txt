@@ -1,0 +1,9 @@
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131296333 res id: id/btnTitle
+id: 2131296334 res id: id/txtTitle
+id: 2131296322 res id: id/btnBack
+id: 2131296335 res id: id/glinear
+id: 2131296336 res id: id/imgList
+editbox[null]: 2131296333 res id: id/btnTitle

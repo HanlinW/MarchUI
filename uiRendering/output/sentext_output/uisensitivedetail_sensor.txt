@@ -1,0 +1,13 @@
+id: 2131492935 res id: id/verboseView
+id: 2131492936 res id: id/vendor_label
+id: 2131492937 res id: id/vendor_value
+id: 2131492938 res id: id/power_label
+id: 2131492939 res id: id/power_value
+id: 2131492940 res id: id/resolution_label
+id: 2131492941 res id: id/resolution_value
+id: 2131492942 res id: id/version_label
+id: 2131492943 res id: id/version_value
+id: 2131492944 res id: id/delay_label
+id: 2131492945 res id: id/delay_value
+id: 2131492946 res id: id/range_label
+id: 2131492947 res id: id/range_value

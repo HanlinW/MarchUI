@@ -1,0 +1,23 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,752) android.widget.LinearLayout:null" ];
+  2 [ label="[ffffffff] at (0,0)-(480,727) android.widget.ScrollView:null" ];
+  3 [ label="[ffffffff] at (0,0)-(480,188) android.widget.LinearLayout:null" ];
+  4 [ label="[7f0c006b] at (0,0)-(480,10) android.widget.GridLayout:null" ];
+  5 [ label="[7f0c006c] at (0,0)-(0,0) android.widget.TextView:No states file found. Are you sure your phone is compatible?\n\nIf you are running a custom ROM or kernel, try contacting its developer to inform him that the states file is not readable." ];
+  6 [ label="[7f0c006d] at (0,0)-(0,0) android.widget.TextView:Unused CPU states" ];
+  7 [ label="[7f0c006e] at (0,0)-(0,0) android.widget.TextView:null" ];
+  8 [ label="[7f0c006f] at (0,10)-(480,55) android.widget.TextView:Total State Time" ];
+  9 [ label="[7f0c0070] at (0,55)-(480,100) android.widget.TextView:null" ];
+  10 [ label="[ffffffff] at (0,100)-(480,145) android.widget.TextView:Kernel  Info" ];
+  11 [ label="[7f0c0071] at (0,145)-(480,188) android.widget.TextView:Kernel" ];
+  1 -> 2;
+  2 -> 3;
+  3 -> 4;
+  3 -> 5;
+  3 -> 6;
+  3 -> 7;
+  3 -> 8;
+  3 -> 9;
+  3 -> 10;
+  3 -> 11;
+}

@@ -1,0 +1,17 @@
+id: -1 res id: null
+id: 16908298 res id: null
+id: 2131296263 res id: id/titlebar
+id: 2131296264 res id: id/title
+id: 2131296286 res id: id/contact
+id: 2131296269 res id: id/photo
+id: 2131296273 res id: id/presence
+id: 2131296285 res id: id/answerbar
+id: 2131296287 res id: id/text_layout
+id: 2131296288 res id: id/text
+id: 2131296290 res id: id/text_
+id: 2131296291 res id: id/text_paste
+id: 2131296289 res id: id/send_
+editbox[Введите текст]: 2131296288 res id: id/text
+editbox[Отправить]: 2131296289 res id: id/send_
+Textview id 2131296291 res id: id/text_paste - text [Вставить из буфера]
+Textview id 2131296286 res id: id/contact - text false

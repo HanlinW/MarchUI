@@ -1,0 +1,7 @@
+id: -1 res id: null
+id: 2131230737 res id: id/main_image
+id: 2131230738 res id: id/text
+id: 2131230739 res id: id/image
+id: 2131230740 res id: id/progress
+id: 2131230741 res id: id/button
+id: 2131230742 res id: id/button_text

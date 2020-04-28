@@ -1,0 +1,4 @@
+id: -1 res id: null
+id: 2131165184 res id: id/animFillIn
+id: 2131165185 res id: id/btnNext
+editbox[Next]: 2131165185 res id: id/btnNext

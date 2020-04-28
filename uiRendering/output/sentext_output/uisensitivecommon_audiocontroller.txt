@@ -1,0 +1,13 @@
+id: -1 res id: null
+id: -1 res id: null
+id: 2131361835 res id: id/common_audiocontroller_MediaName
+id: 2131361836 res id: id/common_audiocontroller_CloseWindow
+id: -1 res id: null
+id: 2131361837 res id: id/common_audiocontroller_Play
+id: -1 res id: null
+id: 2131361838 res id: id/common_audiocontroller_SeekBar
+id: 2131361839 res id: id/common_audiocontroller_Timer
+id: 2131361840 res id: id/common_audiocontroller_TimeCurrent
+id: -1 res id: null
+id: 2131361841 res id: id/common_audiocontroller_TimeTotal
+id: 2131361842 res id: id/common_audiocontroller_SetRing

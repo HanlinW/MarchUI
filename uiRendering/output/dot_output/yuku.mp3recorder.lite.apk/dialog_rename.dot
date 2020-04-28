@@ -1,0 +1,7 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,752) android.widget.LinearLayout:null" ];
+  2 [ label="[7f0c0019] at (8,8)-(414,25) android.widget.TextView:Rename 'recording-20010203-121314.mp3' to: (bakal ditumpuk)" ];
+  3 [ label="[7f0c001a] at (16,33)-(464,81) android.widget.EditText:null" ];
+  1 -> 2;
+  1 -> 3;
+}

@@ -1,0 +1,2 @@
+id: 2131558566 res id: id/TheSplashLayout
+id: 2131558567 res id: id/SplashImageView

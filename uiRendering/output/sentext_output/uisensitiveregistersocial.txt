@@ -1,0 +1,49 @@
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131165217 res id: id/txtFBID
+id: 2131165218 res id: id/txtFBPassword
+id: -1 res id: null
+id: -1 res id: null
+id: 2131165219 res id: id/cbFBFriend
+id: -1 res id: null
+id: -1 res id: null
+id: 2131165220 res id: id/cbFBShared
+id: -1 res id: null
+id: -1 res id: null
+id: 2131165221 res id: id/cbFBMatch
+id: 2131165222 res id: id/txtMSNID
+id: 2131165223 res id: id/txtMSNPassword
+id: -1 res id: null
+id: -1 res id: null
+id: 2131165224 res id: id/cbMSNFriend
+id: -1 res id: null
+id: -1 res id: null
+id: 2131165225 res id: id/cbMSNShared
+id: -1 res id: null
+id: -1 res id: null
+id: 2131165226 res id: id/cbMSNMatch
+id: 2131165185 res id: id/btnNext
+editbox[MSN 帳號]: 2131165222 res id: id/txtMSNID
+editbox[MSN 密碼]: 2131165223 res id: id/txtMSNPassword
+sensitive editbox[MSN 密碼]: 2131165223 res id: id/txtMSNPassword tag: UiCredential
+editbox[FackBook 帳號]: 2131165217 res id: id/txtFBID
+editbox[FackBook 密碼]: 2131165218 res id: id/txtFBPassword
+sensitive editbox[FackBook 密碼]: 2131165218 res id: id/txtFBPassword tag: UiCredential
+editbox[null]: 2131165221 res id: id/cbFBMatch
+editbox[null]: 2131165224 res id: id/cbMSNFriend
+editbox[null]: 2131165225 res id: id/cbMSNShared
+editbox[null]: 2131165219 res id: id/cbFBFriend
+editbox[null]: 2131165226 res id: id/cbMSNMatch
+editbox[下一頁]: 2131165185 res id: id/btnNext
+editbox[null]: 2131165220 res id: id/cbFBShared
+Textview id -1 res id: null - text 社群設定
+Textview id -1 res id: null - text 自動發出FaceBook好友邀請
+Textview id -1 res id: null - text 社群設定
+Textview id -1 res id: null - text 自動發出FaceBook好友邀請
+Textview id -1 res id: null - text 允許比對FaceBook好友列表
+Textview id -1 res id: null - text 社群設定
+Textview id -1 res id: null - text 允許比對FaceBook好友列表
+Textview id -1 res id: null - text 社群設定

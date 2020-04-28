@@ -1,0 +1,12 @@
+id: -1 res id: null
+id: 2131689684 res id: id/picker1
+id: 16909109 res id: null
+id: 16909110 res id: null
+id: 16909111 res id: null
+id: -1 res id: null
+id: 2131689685 res id: id/picker2
+id: 16909109 res id: null
+id: 16909110 res id: null
+id: 16909111 res id: null
+editbox[0]: 16909110 res id: null
+editbox[0]: 16909110 res id: null

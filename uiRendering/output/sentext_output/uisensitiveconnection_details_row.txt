@@ -1,0 +1,13 @@
+id: -1 res id: null
+id: -1 res id: null
+id: 2131230722 res id: id/departure_icon
+id: 2131230723 res id: id/departure_time
+id: 2131230724 res id: id/departure_station
+id: -1 res id: null
+id: 2131230725 res id: id/duration_icon
+id: 2131230726 res id: id/duration
+id: -1 res id: null
+id: 2131230727 res id: id/arrival_icon
+id: 2131230728 res id: id/arrival_time
+id: 2131230729 res id: id/arrival_station
+id: 2131230730 res id: id/train_number

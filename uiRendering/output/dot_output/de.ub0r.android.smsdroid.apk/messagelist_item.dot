@@ -1,0 +1,23 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,59) android.widget.LinearLayout:null" ];
+  2 [ label="[7f09000c] at (0,0)-(5,34) android.view.View:null" ];
+  3 [ label="[7f090024] at (6,0)-(473,34) android.widget.RelativeLayout:null" ];
+  4 [ label="[7f09000e] at (435,0)-(467,17) android.widget.TextView:false" ];
+  5 [ label="[7f090025] at (423,0)-(435,18) android.widget.ImageView:null" ];
+  6 [ label="[7f090026] at (0,0)-(0,0) android.widget.ImageView:null" ];
+  7 [ label="[7f090010] at (0,0)-(423,17) android.widget.TextView:false" ];
+  8 [ label="[7f090012] at (0,17)-(32,34) android.widget.TextView:false" ];
+  9 [ label="[7f090027] at (0,0)-(0,0) android.widget.ImageView:null" ];
+  10 [ label="[7f090028] at (0,0)-(0,0) android.widget.Button:Загрузить" ];
+  11 [ label="[7f090029] at (0,0)-(0,0) android.widget.Button:Импортировать контакт" ];
+  1 -> 2;
+  1 -> 3;
+  3 -> 4;
+  3 -> 5;
+  3 -> 6;
+  3 -> 7;
+  3 -> 8;
+  3 -> 9;
+  3 -> 10;
+  3 -> 11;
+}

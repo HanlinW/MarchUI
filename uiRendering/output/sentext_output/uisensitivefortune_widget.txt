@@ -1,0 +1,2 @@
+id: -1 res id: null
+id: 2131492931 res id: id/fortune_widget_text

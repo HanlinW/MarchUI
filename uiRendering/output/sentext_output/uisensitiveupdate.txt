@@ -1,0 +1,3 @@
+id: -1 res id: null
+id: 2131361985 res id: id/down_textview
+id: 2131361986 res id: id/update_progressbar

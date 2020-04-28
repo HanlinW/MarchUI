@@ -1,0 +1,5 @@
+id: -1 res id: null
+id: 2131558466 res id: id/action_bar
+id: 2131558443 res id: id/title
+id: 2131558481 res id: id/about_desc
+id: 2131558482 res id: id/about_more

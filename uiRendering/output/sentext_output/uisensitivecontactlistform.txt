@@ -1,0 +1,4 @@
+id: -1 res id: null
+id: 2131165195 res id: id/txtContactList
+id: 2131165196 res id: id/lvContactList
+editbox[null]: 2131165195 res id: id/txtContactList

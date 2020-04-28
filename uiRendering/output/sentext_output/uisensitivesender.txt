@@ -1,0 +1,18 @@
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131296301 res id: id/to
+id: -1 res id: null
+id: 2131296288 res id: id/text
+id: 2131296290 res id: id/text_
+id: 2131296291 res id: id/text_paste
+id: 2131296302 res id: id/buttonbar
+id: -1 res id: null
+id: 2131296289 res id: id/send_
+id: 2131296303 res id: id/cancel
+editbox[Name or Number]: 2131296301 res id: id/to
+editbox[Введите текст]: 2131296288 res id: id/text
+editbox[Отправить]: 2131296289 res id: id/send_
+editbox[Anulaţi]: 2131296303 res id: id/cancel
+Textview id 2131296291 res id: id/text_paste - text [Вставить из буфера]
+Textview id 2131296291 res id: id/text_paste - text [Вставить из буфера]

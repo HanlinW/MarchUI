@@ -1,0 +1,5 @@
+id: -1 res id: null
+id: 2131492889 res id: id/lLama
+id: 2131492890 res id: id/tBaru
+editbox[null]: 2131492890 res id: id/tBaru
+Textview id 2131492889 res id: id/lLama - text Rename 'recording-20010203-121314.mp3' to: (bakal ditumpuk)

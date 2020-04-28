@@ -1,0 +1,7 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,0)-(480,752) android.widget.LinearLayout:null" ];
+  2 [ label="[ffffffff] at (4,4)-(476,42) android.widget.TextView:PRO-версия не содержит рекламы и водяных знаков. Помимо этого, все группы эффектов доступны вам сразу!" ];
+  3 [ label="[7f070008] at (0,46)-(480,81) android.widget.CheckBox:Больше не показывать" ];
+  1 -> 2;
+  1 -> 3;
+}

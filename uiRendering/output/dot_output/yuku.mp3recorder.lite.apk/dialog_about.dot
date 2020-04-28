@@ -1,0 +1,17 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,752) android.widget.LinearLayout:null" ];
+  2 [ label="[ffffffff] at (8,8)-(131,25) android.widget.TextView:Hi-Q MP3 Rec (Lite)" ];
+  3 [ label="[7f0c0013] at (8,25)-(119,42) android.widget.TextView:versi %1$s (%2$s)" ];
+  4 [ label="[7f0c0014] at (8,42)-(110,59) android.widget.TextView:Nama paket: %s" ];
+  5 [ label="[ffffffff] at (8,59)-(472,75) android.view.View:null" ];
+  6 [ label="[7f0c0015] at (8,75)-(193,108) android.widget.Button:Lihat aplikasi lain dari Yuku" ];
+  7 [ label="[ffffffff] at (8,108)-(472,124) android.view.View:null" ];
+  8 [ label="[7f0c0016] at (8,124)-(118,157) android.widget.Button:Tentang LAME" ];
+  1 -> 2;
+  1 -> 3;
+  1 -> 4;
+  1 -> 5;
+  1 -> 6;
+  1 -> 7;
+  1 -> 8;
+}

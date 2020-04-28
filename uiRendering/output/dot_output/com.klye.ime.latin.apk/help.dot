@@ -1,0 +1,23 @@
+strict digraph G {
+  1 [ label="[7f080006] at (0,50)-(480,491) android.widget.ScrollView:null" ];
+  2 [ label="[ffffffff] at (0,0)-(480,441) android.widget.LinearLayout:null" ];
+  3 [ label="[7f080007] at (15,15)-(123,42) android.widget.TextView:欢迎！您需要：" ];
+  4 [ label="[7f080008] at (15,42)-(465,90) android.widget.Button:1. 启用 MultiLing" ];
+  5 [ label="[7f080009] at (15,90)-(465,138) android.widget.Button:2. 切换输入法" ];
+  6 [ label="[7f08000a] at (15,138)-(465,186) android.widget.Button:3. 下載插件" ];
+  7 [ label="[7f08000b] at (15,186)-(465,234) android.widget.Button:4. 选用语言" ];
+  8 [ label="[7f08000c] at (15,234)-(465,282) android.widget.Button:Настройки клавиатуры" ];
+  9 [ label="[7f08000d] at (15,282)-(465,330) android.widget.Button:★ 共享 ★" ];
+  10 [ label="[7f08000e] at (15,330)-(465,378) android.widget.Button:帮助|常见问题|更新志" ];
+  11 [ label="[ffffffff] at (15,378)-(465,426) android.widget.EditText:测试" ];
+  1 -> 2;
+  2 -> 3;
+  2 -> 4;
+  2 -> 5;
+  2 -> 6;
+  2 -> 7;
+  2 -> 8;
+  2 -> 9;
+  2 -> 10;
+  2 -> 11;
+}

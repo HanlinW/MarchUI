@@ -1,0 +1,3 @@
+id: 2131558572 res id: id/tabsLayout
+id: 2131558573 res id: id/tabsText
+id: -1 res id: null

@@ -1,0 +1,13 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,752) android.widget.LinearLayout:null" ];
+  2 [ label="[ffffffff] at (0,16)-(480,42) android.widget.TextView:Developer-" ];
+  3 [ label="[ffffffff] at (0,42)-(480,74) android.widget.TextView:Naman Dwivedi" ];
+  4 [ label="[7f0c0054] at (0,74)-(480,101) android.widget.TextView:Follow me on Google+" ];
+  5 [ label="[ffffffff] at (0,101)-(480,145) android.widget.TextView:Thanks to these open source projects-" ];
+  6 [ label="[ffffffff] at (0,145)-(480,191) android.widget.TextView:CpuSpy-Brandon Valosek \n SatStat-mvglasow \n Floating Action Button" ];
+  1 -> 2;
+  1 -> 3;
+  1 -> 4;
+  1 -> 5;
+  1 -> 6;
+}

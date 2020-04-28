@@ -1,0 +1,9 @@
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131361804 res id: id/productTitle
+id: 2131361805 res id: id/appLink
+id: 2131361806 res id: id/copyrightLabel
+id: 2131361807 res id: id/build_version
+id: 2131361808 res id: id/reviewAppButton
+editbox[Review]: 2131361808 res id: id/reviewAppButton

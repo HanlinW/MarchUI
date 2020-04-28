@@ -1,0 +1,9 @@
+id: -1 res id: null
+id: 2131296268 res id: id/read
+id: 2131296269 res id: id/photo
+id: -1 res id: null
+id: 2131296270 res id: id/date
+id: 2131296271 res id: id/count
+id: 2131296272 res id: id/addr
+id: 2131296273 res id: id/presence
+id: 2131296274 res id: id/body

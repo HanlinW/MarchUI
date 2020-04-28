@@ -1,0 +1,33 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,526) android.widget.ScrollView:null" ];
+  2 [ label="[ffffffff] at (0,0)-(480,501) android.widget.LinearLayout:null" ];
+  3 [ label="[ffffffff] at (5,0)-(475,119) android.widget.TextView:This is an open-source application released under the GPLv3 license. It is free and will remain free. If you really like it or if you are annoyed by the ads, please consider donating. I'll remove the ads for you as soon as possible.
+Thank you!
+
+The donation will remove the ads in all apps provided by me." ];
+  4 [ label="[ffffffff] at (5,119)-(475,167) android.widget.LinearLayout:null" ];
+  5 [ label="[7f090013] at (0,0)-(157,48) android.widget.Button:Donate (Market)" ];
+  6 [ label="[7f090014] at (157,0)-(314,48) android.widget.Button:Donate (Paypal)" ];
+  7 [ label="[7f090015] at (314,0)-(470,48) android.widget.Button:Donate (Bitcoin)" ];
+  8 [ label="[ffffffff] at (5,167)-(475,194) android.widget.TextView:To remove ads, you need to load the noads" ];
+  9 [ label="[ffffffff] at (5,194)-(475,233) android.widget.TextView:To verify your donation your donation id (paypal mail address for paypal) is needed:" ];
+  10 [ label="[7f090016] at (5,233)-(475,281) android.widget.EditText:Paypal address" ];
+  11 [ label="[7f090017] at (5,281)-(475,329) android.widget.Button:Load noads" ];
+  12 [ label="[7f090018] at (5,329)-(148,377) android.widget.CheckBox:Accept Terms" ];
+  13 [ label="[ffffffff] at (5,377)-(475,501) android.widget.TextView:The app will send your donation id along with the md5-hash of your IMEI to the server (http://ub0r.de/donation/). The data is needed to verify your donation.
+The data is never given to third party and used only for verifying your donation.
+
+If your phone changes, the "noads" ];
+  1 -> 2;
+  2 -> 3;
+  2 -> 4;
+  4 -> 5;
+  4 -> 6;
+  4 -> 7;
+  2 -> 8;
+  2 -> 9;
+  2 -> 10;
+  2 -> 11;
+  2 -> 12;
+  2 -> 13;
+}

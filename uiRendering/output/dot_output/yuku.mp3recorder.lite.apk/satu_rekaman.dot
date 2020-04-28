@@ -1,0 +1,13 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,77) android.widget.RelativeLayout:null" ];
+  2 [ label="[7f0c001c] at (8,10)-(40,42) android.widget.ImageButton:null" ];
+  3 [ label="[ffffffff] at (46,8)-(370,44) android.widget.LinearLayout:null" ];
+  4 [ label="[7f0c001d] at (0,0)-(324,19) android.widget.TextView:Mon, Oct 25, 2010 (Today) (bakal ditumpuk)" ];
+  5 [ label="[7f0c001e] at (0,19)-(161,36) android.widget.TextView:at 12:34 (bakal ditumpuk)" ];
+  6 [ label="[7f0c001f] at (437,17)-(472,34) android.widget.TextView:00:00" ];
+  1 -> 2;
+  1 -> 3;
+  3 -> 4;
+  3 -> 5;
+  1 -> 6;
+}

@@ -1,0 +1,8 @@
+id: -1 res id: null
+id: 2131165188 res id: id/textView1
+id: 2131165196 res id: id/button2
+id: 2131165195 res id: id/button1
+id: 2131165237 res id: id/textView2
+id: 2131165238 res id: id/button3
+editbox[Предварительный просмотр]: 2131165195 res id: id/button1
+editbox[Узнать больше]: 2131165238 res id: id/button3

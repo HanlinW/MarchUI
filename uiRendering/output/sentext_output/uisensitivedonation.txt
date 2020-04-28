@@ -1,0 +1,24 @@
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: -1 res id: null
+id: 2131296275 res id: id/donate_market
+id: 2131296276 res id: id/donate_paypal
+id: 2131296277 res id: id/donate_bitcoin
+id: -1 res id: null
+id: -1 res id: null
+id: 2131296278 res id: id/paypalid
+id: 2131296279 res id: id/send
+id: 2131296280 res id: id/accept
+id: -1 res id: null
+editbox[Paypal address]: 2131296278 res id: id/paypalid
+sensitive editbox[Paypal address]: 2131296278 res id: id/paypalid tag: UiLocation
+editbox[Donate (Market)]: 2131296275 res id: id/donate_market
+editbox[Donate (Paypal)]: 2131296276 res id: id/donate_paypal
+sensitive editbox[Donate (Paypal)]: 2131296276 res id: id/donate_paypal tag: UiFinancialInfo
+editbox[Donate (Bitcoin)]: 2131296277 res id: id/donate_bitcoin
+editbox[Load noads]: 2131296279 res id: id/send
+editbox[Accept Terms]: 2131296280 res id: id/accept
+Textview id -1 res id: null - text To verify your donation your donation id (paypal mail address for paypal) is needed:
+sensitive editbox: 2131296278 res id: id/paypalid tag: UiEmail
+Textview id -1 res id: null - text To remove ads, you need to load the noads

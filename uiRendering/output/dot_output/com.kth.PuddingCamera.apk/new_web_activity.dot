@@ -1,0 +1,13 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,0)-(480,752) android.widget.LinearLayout:null" ];
+  2 [ label="[ffffffff] at (0,0)-(480,49) android.widget.RelativeLayout:null" ];
+  3 [ label="[7f09004e] at (193,0)-(287,49) android.widget.TextView:사진 올리기" ];
+  4 [ label="[7f090065] at (8,9)-(71,40) android.widget.ImageButton:null" ];
+  5 [ label="[7f090066] at (414,9)-(472,40) android.widget.ImageButton:null" ];
+  6 [ label="[7f090067] at (0,49)-(480,752) android.webkit.WebView:WebView" ];
+  1 -> 2;
+  2 -> 3;
+  2 -> 4;
+  2 -> 5;
+  1 -> 6;
+}

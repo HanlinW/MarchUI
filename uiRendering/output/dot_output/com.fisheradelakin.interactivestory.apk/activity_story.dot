@@ -1,0 +1,11 @@
+strict digraph G {
+  1 [ label="[ffffffff] at (0,25)-(480,752) android.widget.RelativeLayout:null" ];
+  2 [ label="[7f0b0042] at (0,0)-(480,230) android.widget.ImageView:null" ];
+  3 [ label="[7f0b0043] at (0,230)-(480,365) android.widget.TextView:You continue your course to Earth. Two days later, you receive a transmission from HQ saying that they have detected some sort of anomaly on the surface of Mars near an abandoned rover. They ask you to investigate, but ultimately the decision is yours because your mission has already run much longer than planned and supplies are low." ];
+  4 [ label="[7f0b0044] at (0,710)-(480,727) android.widget.Button:Stop and investigate" ];
+  5 [ label="[7f0b0045] at (0,693)-(480,710) android.widget.Button:Continue home to earth" ];
+  1 -> 2;
+  1 -> 3;
+  1 -> 4;
+  1 -> 5;
+}

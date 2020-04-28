@@ -1,0 +1,4 @@
+id: -1 res id: null
+id: -1 res id: null
+id: 2131492891 res id: id/cJanganUlang
+editbox[Jangan tampilkan pesan ini lagi]: 2131492891 res id: id/cJanganUlang
